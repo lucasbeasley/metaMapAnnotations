@@ -1,0 +1,381 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+107	146	GO:0000988	transcription factor activity		C1148759
+165	195	GO:0010467	gene expression	Gene Expression	C0017262
+196	237	GO:0006950	response to stress	biological adaptation to stress	C0149784
+268	275	GO:0005488	binding	Binding 	C1167622
+398	425	GO:1990402	embryonic liver development		C3896164
+475	486	GO:0007567	parturition	Birth	C0005615
+633	646	GO:0006351	transcription	Transcription, Genetic	C0040649
+661	714	GO:0007567	parturition	Birth	C0005615
+661	714	GO:0000003	reproduction	Reproduction	C0035150
+715	761	GO:0006351	transcription	Transcription, Genetic	C0040649
+727	732	GO:0000988	transcription factor activity		C1148759
+857	870	GO:0007567	parturition	Birth	C0005615
+857	870	GO:0000003	reproduction	Reproduction	C0035150
+892	913	GO:0043295	glutathione binding		C1623443
+959	974	GO:0000988	transcription factor activity		C1148759
+975	1008	GO:0006950	response to stress	biological adaptation to stress	C0149784
+1022	1027	GO:0000988	transcription factor activity		C1148759
+1037	1113	GO:0010467	gene expression	Gene Expression	C0017262
+1198	1203	GO:0000988	transcription factor activity		C1148759
+1262	1289	GO:0007567	parturition	Birth	C0005615
+1262	1289	GO:0000003	reproduction	Reproduction	C0035150
+1308	1348	GO:0005856	cytoskeleton	Cytoskeleton	C0010853
+1362	1367	GO:0000988	transcription factor activity		C1148759
+1441	1475	GO:0000988	transcription factor activity		C1148759
+1501	1514	GO:0006351	transcription	Transcription, Genetic	C0040649
+1524	1549	GO:0009058	anabolism	Anabolism	C0220781
+1554	1566	GO:0031099	regeneration	Natural regeneration	C0034963
+1583	1613	GO:0046870	cadmium ion binding		C1323276
+1675	1679	GO:0005623	cell	Cells	C0007634
+1706	1719	GO:0000988	transcription factor activity		C1148759
+1724	1741	GO:0007567	parturition	Birth	C0005615
+1724	1741	GO:0000003	reproduction	Reproduction	C0035150
+1938	1965	GO:0006950	response to stress	biological adaptation to stress	C0149784
+2234	2245	GO:0042592	homeostasis	Homeostasis	C0019868
+2250	2264	GO:0098754	detoxification	Metabolic Detoxication, Drug	C0025516
+2289	2293	GO:0005488	binding	Binding 	C1167622
+2352	2379	GO:0007567	parturition	Birth	C0005615
+2352	2379	GO:0000003	reproduction	Reproduction	C0035150
+2474	2525	GO:0000988	transcription factor activity		C1148759
+2645	2678	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+2691	2731	GO:0007567	parturition	Birth	C0005615
+2691	2731	GO:0000003	reproduction	Reproduction	C0035150
+2739	2744	GO:0000988	transcription factor activity		C1148759
+3006	3031	GO:0007567	parturition	Birth	C0005615
+3006	3031	GO:0000003	reproduction	Reproduction	C0035150
+3032	3071	GO:0006950	response to stress	biological adaptation to stress	C0149784
+3204	3219	GO:0005886	plasma membrane	Plasma membrane	C0007603
+3260	3300	GO:0007567	parturition	Birth	C0005615
+3260	3300	GO:0000003	reproduction	Reproduction	C0035150
+3315	3321	GO:0040007	growth	Growth	C0018270
+3337	3414	GO:0001525	angiogenesis	Angiogenic Process	C0302600
+3460	3471	GO:0032502	development	Biologic Development	C0678723
+3504	3546	GO:0009790	embryo development	Embryonic Development	C0013936
+3576	3606	GO:0009790	embryo development	Embryonic Development	C0013936
+3652	3660	GO:0070265	necrosis	Necrosis	C0027540
+3705	3751	GO:0007567	parturition	Birth	C0005615
+3705	3751	GO:0000003	reproduction	Reproduction	C0035150
+3785	3805	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+3826	3870	GO:0007567	parturition	Birth	C0005615
+3826	3870	GO:0000003	reproduction	Reproduction	C0035150
+3988	4054	GO:0009790	embryo development	Embryonic Development	C0013936
+4142	4153	GO:0007567	parturition	Birth	C0005615
+4304	4335	GO:0007567	parturition	Birth	C0005615
+4304	4335	GO:0000003	reproduction	Reproduction	C0035150
+4340	4383	GO:0007567	parturition	Birth	C0005615
+4340	4383	GO:0000003	reproduction	Reproduction	C0035150
+4384	4418	GO:0007567	parturition	Birth	C0005615
+4384	4418	GO:0000003	reproduction	Reproduction	C0035150
+4605	4655	GO:0007567	parturition	Birth	C0005615
+4605	4655	GO:0000003	reproduction	Reproduction	C0035150
+4674	4705	GO:0007567	parturition	Birth	C0005615
+4674	4705	GO:0000003	reproduction	Reproduction	C0035150
+4728	4776	GO:0010467	gene expression	Gene Expression	C0017262
+4815	4893	GO:0010467	gene expression	Gene Expression	C0017262
+4906	4933	GO:0007567	parturition	Birth	C0005615
+4906	4933	GO:0000003	reproduction	Reproduction	C0035150
+5052	5066	GO:0007567	parturition	Birth	C0005615
+5052	5066	GO:0000003	reproduction	Reproduction	C0035150
+5175	5188	GO:0007567	parturition	Birth	C0005615
+5175	5188	GO:0000003	reproduction	Reproduction	C0035150
+5201	5223	GO:0006749	glutathione metabolism		C1158188
+5342	5359	GO:0007567	parturition	Birth	C0005615
+5342	5359	GO:0000003	reproduction	Reproduction	C0035150
+5665	5717	GO:0007567	parturition	Birth	C0005615
+5771	5779	GO:0004618	phosphoglycerate kinase activity		C1150521
+5960	5999	GO:0043863	4-hydroxy-2-ketopimelate aldolase activity		C2248788
+6007	6011	GO:0005623	cell	Cells	C0007634
+6118	6157	GO:0015074	DNA integration	DNA Integration	C1158478
+6233	6272	GO:0004618	phosphoglycerate kinase activity		C1150521
+7130	7206	GO:1902698	acidogenesis		C3823112
+7296	7335	GO:0003677	DNA binding	dna binding	C1148673
+7345	7389	GO:0007567	parturition	Birth	C0005615
+7345	7389	GO:0000003	reproduction	Reproduction	C0035150
+7980	7995	GO:0010467	gene expression	Gene Expression	C0017262
+8216	8281	GO:0009058	anabolism	Anabolism	C0220781
+8328	8341	GO:0006351	transcription	Transcription, Genetic	C0040649
+8346	8412	GO:0005020	stem cell factor receptor activity		C1150635
+9001	9045	GO:0007567	parturition	Birth	C0005615
+9001	9045	GO:0000003	reproduction	Reproduction	C0035150
+9039	9044	GO:0007567	parturition	Birth	C0005615
+9039	9044	GO:0000003	reproduction	Reproduction	C0035150
+9273	9310	GO:0007567	parturition	Birth	C0005615
+9273	9310	GO:0000003	reproduction	Reproduction	C0035150
+9424	9490	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+9515	9561	GO:0007567	parturition	Birth	C0005615
+9515	9561	GO:0000003	reproduction	Reproduction	C0035150
+9731	9753	GO:0005020	stem cell factor receptor activity		C1150635
+9815	9852	GO:0004530	deoxyribonuclease I activity		C1148702
+9868	9871	GO:0007601	vision	Vision	C0042789
+10511	10544	GO:0004530	deoxyribonuclease I activity		C1148702
+10560	10563	GO:0007601	vision	Vision	C0042789
+11006	11052	GO:0004047	aminomethyltransferase activity		C1152257
+11237	11244	GO:0005488	binding	Binding 	C1167622
+11479	11486	GO:0005488	binding	Binding 	C1167622
+12957	13001	GO:0005515	protein binding	Protein Binding	C0033618
+13063	13067	GO:0005623	cell	Cells	C0007634
+13077	13106	GO:0009790	embryo development	Embryonic Development	C0013936
+13112	13162	GO:0009790	embryo development	Embryonic Development	C0013936
+13315	13340	GO:0009504	cell plate		C1166718
+13579	13583	GO:0005623	cell	Cells	C0007634
+13607	13665	GO:0009790	embryo development	Embryonic Development	C0013936
+13742	13782	GO:0015074	DNA integration	DNA Integration	C1158478
+13813	13836	GO:0009504	cell plate		C1166718
+14020	14090	GO:0010468	regulation of gene expression	Gene Expression Regulation	C0017263
+14110	14114	GO:0005623	cell	Cells	C0007634
+14207	14211	GO:0005623	cell	Cells	C0007634
+14358	14362	GO:0005623	cell	Cells	C0007634
+14496	14500	GO:0005623	cell	Cells	C0007634
+14588	14592	GO:0005623	cell	Cells	C0007634
+14604	14650	GO:0003904	photoreactivating enzyme activity		C2257086
+14737	14758	GO:0006750	glutathione biosynthetic process		C1157234
+14772	14776	GO:0005623	cell	Cells	C0007634
+14806	14856	GO:0003904	photoreactivating enzyme activity		C2257086
+14989	15007	GO:0008283	cell proliferation	Cell Proliferation	C0596290
+15153	15189	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+15276	15331	GO:0003677	DNA binding	dna binding	C1148673
+15534	15583	GO:0010468	regulation of gene expression	Gene Expression Regulation	C0017263
+15919	15946	GO:0006412	protein biosynthesis	Protein Biosynthesis	C0597295
+16687	16706	GO:0032993	protein-DNA complex		C2246376
+16803	16810	GO:0005488	binding	Binding 	C1167622
+17059	17083	GO:0007567	parturition	Birth	C0005615
+17059	17083	GO:0000003	reproduction	Reproduction	C0035150
+17085	17130	GO:0007567	parturition	Birth	C0005615
+17085	17130	GO:0000003	reproduction	Reproduction	C0035150
+17186	17218	GO:0007567	parturition	Birth	C0005615
+17186	17218	GO:0000003	reproduction	Reproduction	C0035150
+17726	17749	GO:0007567	parturition	Birth	C0005615
+17726	17749	GO:0000003	reproduction	Reproduction	C0035150
+17833	17883	GO:0010467	gene expression	Gene Expression	C0017262
+17911	17926	GO:0010467	gene expression	Gene Expression	C0017262
+18278	18317	GO:0007567	parturition	Birth	C0005615
+18278	18317	GO:0000003	reproduction	Reproduction	C0035150
+18332	18352	GO:0007567	parturition	Birth	C0005615
+18332	18352	GO:0000003	reproduction	Reproduction	C0035150
+18368	18436	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+18453	18466	GO:0006351	transcription	Transcription, Genetic	C0040649
+18492	18542	GO:0007567	parturition	Birth	C0005615
+18492	18542	GO:0000003	reproduction	Reproduction	C0035150
+18631	18653	GO:0007567	parturition	Birth	C0005615
+18631	18653	GO:0000003	reproduction	Reproduction	C0035150
+18662	18714	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+18879	18928	GO:0007567	parturition	Birth	C0005615
+18879	18928	GO:0000003	reproduction	Reproduction	C0035150
+18963	19017	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+19035	19084	GO:0007567	parturition	Birth	C0005615
+19035	19084	GO:0000003	reproduction	Reproduction	C0035150
+19187	19222	GO:0007567	parturition	Birth	C0005615
+19187	19222	GO:0000003	reproduction	Reproduction	C0035150
+19583	19609	GO:0007567	parturition	Birth	C0005615
+19583	19609	GO:0000003	reproduction	Reproduction	C0035150
+19676	19689	GO:0006351	transcription	Transcription, Genetic	C0040649
+19763	19776	GO:0006351	transcription	Transcription, Genetic	C0040649
+19831	19838	GO:0005488	binding	Binding 	C1167622
+19943	19950	GO:0005488	binding	Binding 	C1167622
+20036	20087	GO:0007567	parturition	Birth	C0005615
+20036	20087	GO:0000003	reproduction	Reproduction	C0035150
+20092	20134	GO:0007567	parturition	Birth	C0005615
+20092	20134	GO:0000003	reproduction	Reproduction	C0035150
+20403	20408	GO:0005488	binding	Binding 	C1167622
+20739	20752	GO:0006351	transcription	Transcription, Genetic	C0040649
+20976	21010	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+21064	21077	GO:0006351	transcription	Transcription, Genetic	C0040649
+21175	21188	GO:0006351	transcription	Transcription, Genetic	C0040649
+21279	21286	GO:0005488	binding	Binding 	C1167622
+21448	21455	GO:0005488	binding	Binding 	C1167622
+21847	21875	GO:0006950	response to stress	biological adaptation to stress	C0149784
+22398	22431	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+22472	22485	GO:0006351	transcription	Transcription, Genetic	C0040649
+22906	22921	GO:0007601	vision	Vision	C0042789
+23456	23466	GO:0048740	myogenesis	Myogenesis	C0596997
+23471	23494	GO:0005856	cytoskeleton	Cytoskeleton	C0010853
+23807	23841	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+23875	23888	GO:0006351	transcription	Transcription, Genetic	C0040649
+23999	24006	GO:0005488	binding	Binding 	C1167622
+24592	24638	GO:0005886	plasma membrane	Plasma membrane	C0007603
+24648	24657	GO:0005737	cytoplasm	Cytoplasm	C0010834
+25091	25104	GO:0006351	transcription	Transcription, Genetic	C0040649
+25492	25541	GO:0007567	parturition	Birth	C0005615
+25492	25541	GO:0000003	reproduction	Reproduction	C0035150
+25593	25624	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+25671	25684	GO:0006351	transcription	Transcription, Genetic	C0040649
+25775	25782	GO:0005488	binding	Binding 	C1167622
+25918	25925	GO:0005488	binding	Binding 	C1167622
+25963	26006	GO:0007567	parturition	Birth	C0005615
+25963	26006	GO:0000003	reproduction	Reproduction	C0035150
+26036	26072	GO:0007567	parturition	Birth	C0005615
+26036	26072	GO:0000003	reproduction	Reproduction	C0035150
+26352	26401	GO:0007567	parturition	Birth	C0005615
+26352	26401	GO:0000003	reproduction	Reproduction	C0035150
+26433	26472	GO:0007567	parturition	Birth	C0005615
+26433	26472	GO:0000003	reproduction	Reproduction	C0035150
+26535	26548	GO:0007567	parturition	Birth	C0005615
+26535	26548	GO:0000003	reproduction	Reproduction	C0035150
+26549	26606	GO:0006749	glutathione metabolism		C1158188
+26664	26673	GO:0007567	parturition	Birth	C0005615
+26664	26673	GO:0000003	reproduction	Reproduction	C0035150
+26749	26809	GO:0006750	glutathione biosynthetic process		C1157234
+27014	27028	GO:0098754	detoxification	Metabolic Detoxication, Drug	C0025516
+27249	27285	GO:0007567	parturition	Birth	C0005615
+27249	27285	GO:0000003	reproduction	Reproduction	C0035150
+27470	27474	GO:0005623	cell	Cells	C0007634
+27497	27529	GO:0009790	embryo development	Embryonic Development	C0013936
+27609	27658	GO:0051352	negative regulation of ligase activity		C1660639
+27669	27673	GO:0005623	cell	Cells	C0007634
+27864	27868	GO:0005623	cell	Cells	C0007634
+27967	27971	GO:0005623	cell	Cells	C0007634
+28167	28183	GO:0007567	parturition	Birth	C0005615
+28167	28183	GO:0000003	reproduction	Reproduction	C0035150
+28222	28226	GO:0005623	cell	Cells	C0007634
+28250	28263	GO:0007567	parturition	Birth	C0005615
+28250	28263	GO:0000003	reproduction	Reproduction	C0035150
+28308	28334	GO:0007567	parturition	Birth	C0005615
+28308	28334	GO:0000003	reproduction	Reproduction	C0035150
+28385	28428	GO:0007567	parturition	Birth	C0005615
+28385	28428	GO:0000003	reproduction	Reproduction	C0035150
+28499	28520	GO:0005783	endoplasmic reticulum	Endoplasmic Reticulum	C0014239
+28559	28594	GO:0034976	response to endoplasmic reticulum stress		C2613145
+28605	28652	GO:0043066	negative regulation of apoptosis	Negative Regulation of Apoptosis	C1512772
+28687	28696	GO:0097194	apoptosis	Apoptosis	C0162638
+29013	29040	GO:1990402	embryonic liver development		C3896164
+29066	29081	GO:0010467	gene expression	Gene Expression	C0017262
+29158	29195	GO:0007567	parturition	Birth	C0005615
+29158	29195	GO:0000003	reproduction	Reproduction	C0035150
+29196	29262	GO:0007567	parturition	Birth	C0005615
+29196	29262	GO:0000003	reproduction	Reproduction	C0035150
+29404	29439	GO:0007567	parturition	Birth	C0005615
+29404	29439	GO:0000003	reproduction	Reproduction	C0035150
+29450	29495	GO:0003674	molecular_function		C1148560
+29582	29586	GO:0005488	binding	Binding 	C1167622
+29672	29676	GO:0005623	cell	Cells	C0007634
+29733	29768	GO:0043295	glutathione binding		C1623443
+29816	29850	GO:0010467	gene expression	Gene Expression	C0017262
+29918	29922	GO:0005623	cell	Cells	C0007634
+30063	30076	GO:0006351	transcription	Transcription, Genetic	C0040649
+30145	30152	GO:0005488	binding	Binding 	C1167622
+30195	30214	GO:0003677	DNA binding	dna binding	C1148673
+30299	30306	GO:0005488	binding	Binding 	C1167622
+30371	30408	GO:0007567	parturition	Birth	C0005615
+30371	30408	GO:0000003	reproduction	Reproduction	C0035150
+30419	30452	GO:0007567	parturition	Birth	C0005615
+30419	30452	GO:0000003	reproduction	Reproduction	C0035150
+30482	30512	GO:0000988	transcription factor activity		C1148759
+30559	30572	GO:0006351	transcription	Transcription, Genetic	C0040649
+30650	30654	GO:0005623	cell	Cells	C0007634
+31064	31107	GO:0033554	cellular response to stress	Cellular Stress Response	C1516374
+31167	31182	GO:0010467	gene expression	Gene Expression	C0017262
+31313	31332	GO:0003677	DNA binding	dna binding	C1148673
+31390	31397	GO:0005488	binding	Binding 	C1167622
+31424	31437	GO:0006351	transcription	Transcription, Genetic	C0040649
+31521	31550	GO:0005925	focal adhesion	Focal Adhesions	C0887870
+31570	31593	GO:0031941	F-actin	filamentous actin location	C1622186
+31598	31647	GO:0005925	focal adhesion	Focal Adhesions	C0887870
+31598	31647	GO:0005925	adhesion plaque		C4084932
+31729	31733	GO:0005488	binding	Binding 	C1167622
+31758	31793	GO:0005856	cytoskeleton	Cytoskeleton	C0010853
+31821	31825	GO:0005623	cell	Cells	C0007634
+31880	31884	GO:0005623	cell	Cells	C0007634
+31910	31932	GO:0005884	microfilament	Microfilaments	C0025979
+31962	31966	GO:0005623	cell	Cells	C0007634
+32015	32048	GO:0051764	actin bundling		C1656379
+32116	32148	GO:0010938	cytoplasmic microtubule depolymerization		C2612245
+32178	32233	GO:0044430	cytoskeletal part		C1820038
+32322	32334	GO:0005856	cytoskeleton	Cytoskeleton	C0010853
+32384	32403	GO:0006950	response to stress	biological adaptation to stress	C0149784
+32468	32481	GO:0006351	transcription	Transcription, Genetic	C0040649
+32532	32572	GO:0010467	gene expression	Gene Expression	C0017262
+32774	32837	GO:0005622	protoplasm	Protoplasm	C0175996
+32838	32851	GO:0005576	extracellular	Extracellular	C0521119
+32866	32879	GO:0006811	ion transport	Ion Transport	C0162585
+33206	33244	GO:0007567	parturition	Birth	C0005615
+33206	33244	GO:0000003	reproduction	Reproduction	C0035150
+33321	33376	GO:0005622	protoplasm	Protoplasm	C0175996
+33382	33386	GO:0005623	cell	Cells	C0007634
+33396	33417	GO:0097708	intracellular vesicle		C4236736
+33500	33543	GO:0006882	cellular zinc ion homeostasis		C2263139
+33724	33731	GO:0005488	binding	Binding 	C1167622
+33805	33818	GO:0006351	transcription	Transcription, Genetic	C0040649
+33852	33859	GO:0005488	binding	Binding 	C1167622
+33906	33919	GO:0006351	transcription	Transcription, Genetic	C0040649
+33962	33992	GO:0000988	transcription factor activity		C1148759
+34009	34022	GO:0006351	transcription	Transcription, Genetic	C0040649
+34155	34171	GO:0007567	parturition	Birth	C0005615
+34155	34171	GO:0000003	reproduction	Reproduction	C0035150
+34327	34334	GO:0005488	binding	Binding 	C1167622
+34493	34532	GO:0007567	parturition	Birth	C0005615
+34493	34532	GO:0000003	reproduction	Reproduction	C0035150
+34533	34591	GO:0009790	embryo development	Embryonic Development	C0013936
+34602	34632	GO:0007567	parturition	Birth	C0005615
+34602	34632	GO:0000003	reproduction	Reproduction	C0035150
+34681	34785	GO:0008134	transcription factor binding		C1149367
+34759	34764	GO:0035326	enhancer binding		C2752241
+35243	35294	GO:0035326	enhancer binding		C2752241
+35410	35452	GO:0006950	response to stress	biological adaptation to stress	C0149784
+35476	35530	GO:0007567	parturition	Birth	C0005615
+35476	35530	GO:0000003	reproduction	Reproduction	C0035150
+35660	35689	GO:0006950	response to stress	biological adaptation to stress	C0149784
+35872	35885	GO:0006351	transcription	Transcription, Genetic	C0040649
+35898	35917	GO:0007567	parturition	Birth	C0005615
+35898	35917	GO:0000003	reproduction	Reproduction	C0035150
+35936	35965	GO:0000988	transcription factor activity		C1148759
+36014	36043	GO:0007567	parturition	Birth	C0005615
+36014	36043	GO:0000003	reproduction	Reproduction	C0035150
+36069	36084	GO:0010467	gene expression	Gene Expression	C0017262
+36133	36150	GO:0007567	parturition	Birth	C0005615
+36133	36150	GO:0000003	reproduction	Reproduction	C0035150
+36385	36389	GO:0005623	cell	Cells	C0007634
+36560	36580	GO:0019725	cellular homeostasis		C2244223
+36607	36630	GO:0010467	gene expression	Gene Expression	C0017262
+37341	37352	GO:0000746	conjugation		C1160466
+37505	37509	GO:0005623	cell	Cells	C0007634
+37532	37576	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+37585	37622	GO:0009790	embryo development	Embryonic Development	C0013936
+37737	37753	GO:0007567	parturition	Birth	C0005615
+37737	37753	GO:0000003	reproduction	Reproduction	C0035150
+37887	37891	GO:0005623	cell	Cells	C0007634
+37936	37953	GO:0007567	parturition	Birth	C0005615
+37936	37953	GO:0000003	reproduction	Reproduction	C0035150
+39118	39179	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+39207	39211	GO:0005623	cell	Cells	C0007634
+39412	39467	GO:1990458	LOS binding		C3896235
+39694	39699	GO:0043863	4-hydroxy-2-ketopimelate aldolase activity		C2248788
+39700	39713	GO:0043863	4-hydroxy-2-ketopimelate aldolase activity		C2248788
+40111	40146	GO:0006461	protein complex assembly	protein complex location assembly	C1158923
+40227	40234	GO:0005488	binding	Binding 	C1167622
+41010	41046	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+41134	41147	GO:0006351	transcription	Transcription, Genetic	C0040649
+41155	41189	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+41322	41357	GO:0006461	protein complex assembly	protein complex location assembly	C1158923
+41451	41458	GO:0005488	binding	Binding 	C1167622
+41627	41679	GO:0000988	transcription factor activity		C1148759
+42182	42222	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+42310	42323	GO:0006351	transcription	Transcription, Genetic	C0040649
+42331	42365	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+42498	42533	GO:0006461	protein complex assembly	protein complex location assembly	C1158923
+42685	42692	GO:0005488	binding	Binding 	C1167622
+43380	43420	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+43508	43521	GO:0006351	transcription	Transcription, Genetic	C0040649
+43529	43563	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+43696	43731	GO:0006461	protein complex assembly	protein complex location assembly	C1158923
+43837	43844	GO:0005488	binding	Binding 	C1167622
+44537	44577	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+44668	44681	GO:0006351	transcription	Transcription, Genetic	C0040649
+44689	44723	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+44856	44891	GO:0006461	protein complex assembly	protein complex location assembly	C1158923
+44988	44995	GO:0005488	binding	Binding 	C1167622
+45281	45285	GO:0005623	cell	Cells	C0007634
+45343	45369	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+45387	45391	GO:0005623	cell	Cells	C0007634
+45436	45468	GO:0009790	embryo development	Embryonic Development	C0013936
+45547	45551	GO:0005623	cell	Cells	C0007634
+45558	45571	GO:0003904	photoreactivating enzyme activity		C2257086
+45663	45718	GO:0003904	photoreactivating enzyme activity		C2257086
+45843	45847	GO:0005623	cell	Cells	C0007634
+45880	45895	GO:0010467	gene expression	Gene Expression	C0017262
+46142	46177	GO:0010467	gene expression	Gene Expression	C0017262
+46441	46491	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+46543	46556	GO:0006351	transcription	Transcription, Genetic	C0040649
+46622	46635	GO:0006351	transcription	Transcription, Genetic	C0040649
+46810	46825	GO:0010467	gene expression	Gene Expression	C0017262
+47060	47095	GO:0010467	gene expression	Gene Expression	C0017262

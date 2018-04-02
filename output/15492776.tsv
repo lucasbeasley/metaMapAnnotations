@@ -1,0 +1,476 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+0	22	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+431	446	GO:0010467	gene expression	Gene Expression	C0017262
+512	559	GO:0007567	parturition	Birth	C0005615
+512	559	GO:0000003	reproduction	Reproduction	C0035150
+561	609	GO:0060349	bone morphogenesis		C2610491
+688	728	GO:0007567	parturition	Birth	C0005615
+688	728	GO:0000003	reproduction	Reproduction	C0035150
+790	800	GO:0005694	chromosome	Chromosomes	C0008633
+840	875	GO:0016458	gene silencing	Gene Silencing	C0598496
+973	980	GO:0042603	capsule	Microbial anatomical capsule structure	C1325531
+1015	1049	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+1059	1070	GO:0032502	development	Biologic Development	C0678723
+1124	1146	GO:0009790	embryo development	Embryonic Development	C0013936
+1246	1271	GO:0009790	embryo development	Embryonic Development	C0013936
+1276	1290	GO:0007567	parturition	Birth	C0005615
+1305	1316	GO:0032502	development	Biologic Development	C0678723
+1333	1370	GO:0007567	parturition	Birth	C0005615
+1333	1370	GO:0000003	reproduction	Reproduction	C0035150
+1548	1605	GO:0007567	parturition	Birth	C0005615
+1670	1687	GO:0007567	parturition	Birth	C0005615
+1670	1687	GO:0000003	reproduction	Reproduction	C0035150
+1710	1732	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+1764	1775	GO:0032502	development	Biologic Development	C0678723
+1866	1878	GO:0007567	parturition	Birth	C0005615
+1879	1938	GO:0007567	parturition	Birth	C0005615
+1916	1938	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+2876	2891	GO:0009058	anabolism	Anabolism	C0220781
+2892	2920	GO:0009790	embryo development	Embryonic Development	C0013936
+2942	2946	GO:0005623	cell	Cells	C0007634
+3031	3052	GO:0097194	apoptosis	Apoptosis	C0162638
+3148	3152	GO:0005623	cell	Cells	C0007634
+3188	3192	GO:0005623	cell	Cells	C0007634
+3327	3331	GO:0005623	cell	Cells	C0007634
+3473	3498	GO:0032502	development	Biologic Development	C0678723
+3568	3598	GO:0007165	signal transduction	Signal Transduction	C0037083
+3604	3654	GO:0009058	anabolism	Anabolism	C0220781
+3860	3954	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+4034	4060	GO:0007567	parturition	Birth	C0005615
+4034	4060	GO:0000003	reproduction	Reproduction	C0035150
+4279	4332	GO:0009058	anabolism	Anabolism	C0220781
+4361	4390	GO:0007567	parturition	Birth	C0005615
+4361	4390	GO:0000003	reproduction	Reproduction	C0035150
+4402	4421	GO:0009058	anabolism	Anabolism	C0220781
+4496	4537	GO:0009058	anabolism	Anabolism	C0220781
+4620	4646	GO:0009790	embryo development	Embryonic Development	C0013936
+4675	4704	GO:0009058	anabolism	Anabolism	C0220781
+4772	4800	GO:0007165	signal transduction	Signal Transduction	C0037083
+4801	4842	GO:0032502	development	Biologic Development	C0678723
+4899	4923	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+5016	5027	GO:0032502	development	Biologic Development	C0678723
+5185	5189	GO:0005488	binding	Binding 	C1167622
+5190	5224	GO:0030964	NADH dehydrogenase complex location		C2245017
+5229	5289	GO:0016021	integral to membrane		C1167322
+5229	5289	GO:0044214	transmembrane	fully spanning the plasma membrane	C2752508
+5295	5306	GO:0036122	BMP binding		C3271616
+5392	5405	GO:0006351	transcription	Transcription, Genetic	C0040649
+5563	5567	GO:0005488	binding	Binding 	C1167622
+5813	5824	GO:0032502	development	Biologic Development	C0678723
+6031	6035	GO:0007601	vision	Vision	C0042789
+6089	6093	GO:0005623	cell	Cells	C0007634
+6252	6285	GO:0007567	parturition	Birth	C0005615
+6252	6285	GO:0000003	reproduction	Reproduction	C0035150
+6331	6346	GO:0009058	anabolism	Anabolism	C0220781
+6375	6387	GO:0007601	vision	Vision	C0042789
+6493	6519	GO:0009790	embryo development	Embryonic Development	C0013936
+6536	6548	GO:0007369	gastrulation	Gastrulation	C0259902
+6566	6578	GO:0007601	vision	Vision	C0042789
+6733	6744	GO:0032502	development	Biologic Development	C0678723
+6781	6796	GO:0009058	anabolism	Anabolism	C0220781
+6839	6870	GO:0007567	parturition	Birth	C0005615
+6839	6870	GO:0000003	reproduction	Reproduction	C0035150
+6874	6922	GO:0007567	parturition	Birth	C0005615
+6874	6922	GO:0000003	reproduction	Reproduction	C0035150
+6932	6990	GO:0009058	anabolism	Anabolism	C0220781
+7021	7089	GO:0010467	gene expression	Gene Expression	C0017262
+7193	7209	GO:0007567	parturition	Birth	C0005615
+7193	7209	GO:0000003	reproduction	Reproduction	C0035150
+7260	7286	GO:0007567	parturition	Birth	C0005615
+7260	7286	GO:0000003	reproduction	Reproduction	C0035150
+7287	7341	GO:0032502	development	Biologic Development	C0678723
+7379	7386	GO:0042603	capsule	Microbial anatomical capsule structure	C1325531
+7401	7409	GO:0016020	membrane	Membrane	C0596901
+7440	7462	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+7472	7519	GO:0009790	embryo development	Embryonic Development	C0013936
+7563	7597	GO:0009058	anabolism	Anabolism	C0220781
+7616	7659	GO:0097194	apoptosis	Apoptosis	C0162638
+7951	7963	GO:0007567	parturition	Birth	C0005615
+8090	8108	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+8182	8226	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+8282	8308	GO:0007567	parturition	Birth	C0005615
+8282	8308	GO:0000003	reproduction	Reproduction	C0035150
+8309	8330	GO:0007567	parturition	Birth	C0005615
+8309	8330	GO:0000003	reproduction	Reproduction	C0035150
+8340	8351	GO:0032502	development	Biologic Development	C0678723
+8382	8419	GO:0007567	parturition	Birth	C0005615
+8382	8419	GO:0000003	reproduction	Reproduction	C0035150
+8420	8464	GO:0001501	skeletal development		C1160401
+8563	8569	GO:0007567	parturition	Birth	C0005615
+8563	8569	GO:0000003	reproduction	Reproduction	C0035150
+8600	8669	GO:0009790	embryo development	Embryonic Development	C0013936
+8693	8703	GO:0005694	chromosome	Chromosomes	C0008633
+8740	8776	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+8832	8840	GO:0005840	ribosome	Ribosomes	C0035553
+8957	8974	GO:0005694	chromosome	Chromosomes	C0008633
+9107	9127	GO:0000150	recombinase activity		C1148744
+9234	9247	GO:0006351	transcription	Transcription, Genetic	C0040649
+9381	9409	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+9578	9600	GO:0007601	vision	Vision	C0042789
+9721	9725	GO:0007601	vision	Vision	C0042789
+9771	9782	GO:0032502	development	Biologic Development	C0678723
+9942	9959	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+10075	10121	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+10133	10144	GO:0032502	development	Biologic Development	C0678723
+10324	10335	GO:0032502	development	Biologic Development	C0678723
+10374	10394	GO:0009058	anabolism	Anabolism	C0220781
+10399	10431	GO:0009058	anabolism	Anabolism	C0220781
+10521	10532	GO:0032502	development	Biologic Development	C0678723
+10564	10590	GO:0007601	vision	Vision	C0042789
+10719	10730	GO:0007601	vision	Vision	C0042789
+10859	10881	GO:0009790	embryo development	Embryonic Development	C0013936
+10882	10912	GO:0009790	embryo development	Embryonic Development	C0013936
+10963	10987	GO:0007601	vision	Vision	C0042789
+11006	11044	GO:0009790	embryo development	Embryonic Development	C0013936
+11134	11138	GO:0005623	cell	Cells	C0007634
+11235	11239	GO:0005623	cell	Cells	C0007634
+11513	11524	GO:0032502	development	Biologic Development	C0678723
+11545	11556	GO:0007601	vision	Vision	C0042789
+11642	11649	GO:0042603	capsule	Microbial anatomical capsule structure	C1325531
+11664	11672	GO:0016020	membrane	Membrane	C0596901
+11787	11836	GO:0009790	embryo development	Embryonic Development	C0013936
+11864	11906	GO:0010467	gene expression	Gene Expression	C0017262
+12486	12495	GO:0007567	parturition	Birth	C0005615
+12697	12729	GO:0009289	pilus	Bacterial Fimbria	C0031921
+12745	12794	GO:0016049	cell growth		C0007595
+13186	13228	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+13368	13379	GO:0032502	development	Biologic Development	C0678723
+13397	13431	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+13483	13518	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+13593	13668	GO:0007567	parturition	Birth	C0005615
+13593	13668	GO:0000003	reproduction	Reproduction	C0035150
+13877	13902	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+13923	13934	GO:0032502	development	Biologic Development	C0678723
+14128	14193	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+14195	14198	GO:0007601	vision	Vision	C0042789
+14260	14289	GO:0007567	parturition	Birth	C0005615
+14260	14289	GO:0000003	reproduction	Reproduction	C0035150
+14674	14703	GO:0009790	embryo development	Embryonic Development	C0013936
+15061	15074	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+15103	15109	GO:0040007	growth	Growth	C0018270
+15221	15249	GO:0000267	cell fraction	Cell Fraction	C0805525
+15342	15351	GO:0051235	retention	cellular entity retention	C1753315
+16166	16196	GO:0007601	vision	Vision	C0042789
+16223	16229	GO:0040007	growth	Growth	C0018270
+16309	16354	GO:0009058	anabolism	Anabolism	C0220781
+16474	16515	GO:0048806	genitalia development		C1820234
+16567	16576	GO:0097194	apoptosis	Apoptosis	C0162638
+16577	16606	GO:0009790	embryo development	Embryonic Development	C0013936
+16834	16878	GO:0009790	embryo development	Embryonic Development	C0013936
+16894	16903	GO:0051235	retention	cellular entity retention	C1753315
+17084	17107	GO:0007601	vision	Vision	C0042789
+17230	17263	GO:0009790	embryo development	Embryonic Development	C0013936
+17271	17302	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+17459	17484	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+17529	17574	GO:0007601	vision	Vision	C0042789
+17853	17857	GO:0005623	cell	Cells	C0007634
+17986	17990	GO:0005623	cell	Cells	C0007634
+18046	18050	GO:0005623	cell	Cells	C0007634
+18148	18186	GO:0009790	embryo development	Embryonic Development	C0013936
+18219	18266	GO:0007165	signal transduction	Signal Transduction	C0037083
+18219	18266	GO:0023052	biological signaling		C3537152
+18274	18323	GO:0097194	apoptosis	Apoptosis	C0162638
+18348	18352	GO:0005623	cell	Cells	C0007634
+18366	18413	GO:0007165	signal transduction	Signal Transduction	C0037083
+18366	18413	GO:0023052	biological signaling		C3537152
+18415	18447	GO:0009058	anabolism	Anabolism	C0220781
+18466	18481	GO:0007567	parturition	Birth	C0005615
+18466	18481	GO:0000003	reproduction	Reproduction	C0035150
+18603	18611	GO:0007567	parturition	Birth	C0005615
+18603	18611	GO:0000003	reproduction	Reproduction	C0035150
+18769	18800	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+19053	19067	GO:0007601	vision	Vision	C0042789
+19083	19096	GO:0007567	parturition	Birth	C0005615
+19083	19096	GO:0000003	reproduction	Reproduction	C0035150
+19140	19168	GO:0009058	anabolism	Anabolism	C0220781
+19186	19245	GO:0007567	parturition	Birth	C0005615
+19186	19245	GO:0000003	reproduction	Reproduction	C0035150
+19504	19508	GO:0007601	vision	Vision	C0042789
+19638	19662	GO:0007601	vision	Vision	C0042789
+19722	19734	GO:0035282	segmentation	biologic segmentation	C1524109
+19758	19787	GO:0009790	embryo development	Embryonic Development	C0013936
+19948	19993	GO:0009790	embryo development	Embryonic Development	C0013936
+20022	20053	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+20058	20071	GO:0007601	vision	Vision	C0042789
+20109	20112	GO:0007601	vision	Vision	C0042789
+20139	20149	GO:0008219	cell death	Cell Death	C0007587
+20153	20171	GO:0008283	cell proliferation	Cell Proliferation	C0596290
+20181	20214	GO:0007601	vision	Vision	C0042789
+20331	20344	GO:0007601	vision	Vision	C0042789
+20483	20529	GO:0007601	vision	Vision	C0042789
+20567	20576	GO:0007567	parturition	Birth	C0005615
+20878	20882	GO:0005623	cell	Cells	C0007634
+20962	20971	GO:0007567	parturition	Birth	C0005615
+20962	20971	GO:0000003	reproduction	Reproduction	C0035150
+21088	21092	GO:0005623	cell	Cells	C0007634
+21190	21194	GO:0005623	cell	Cells	C0007634
+21282	21288	GO:0007567	parturition	Birth	C0005615
+21282	21288	GO:0000003	reproduction	Reproduction	C0035150
+21436	21449	GO:0006351	transcription	Transcription, Genetic	C0040649
+21631	21662	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+21806	21821	GO:0010467	gene expression	Gene Expression	C0017262
+21858	21892	GO:0009058	anabolism	Anabolism	C0220781
+21935	21975	GO:0007567	parturition	Birth	C0005615
+22224	22258	GO:0007601	vision	Vision	C0042789
+22365	22369	GO:0005623	cell	Cells	C0007634
+22523	22532	GO:0007567	parturition	Birth	C0005615
+22523	22532	GO:0000003	reproduction	Reproduction	C0035150
+22542	22593	GO:0048468	cell development	Cell development	C0815089
+22691	22718	GO:0009968	inhibition of signal transduction	Signal Transduction Inhibition	C1519312
+22853	22857	GO:0005623	cell	Cells	C0007634
+22945	22948	GO:0007601	vision	Vision	C0042789
+23067	23071	GO:0005623	cell	Cells	C0007634
+23210	23214	GO:0005623	cell	Cells	C0007634
+23278	23284	GO:0040007	growth	Growth	C0018270
+23382	23400	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+23427	23431	GO:0005623	cell	Cells	C0007634
+23713	23737	GO:0010467	gene expression	Gene Expression	C0017262
+23832	23878	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+23879	23939	GO:0010467	gene expression	Gene Expression	C0017262
+23971	23984	GO:0006351	transcription	Transcription, Genetic	C0040649
+24124	24188	GO:0010467	gene expression	Gene Expression	C0017262
+24445	24477	GO:0051216	chondrogenesis	Chondrogenesis	C0598067
+24548	24556	GO:0016020	membrane	Membrane	C0596901
+24570	24577	GO:0042603	capsule	Microbial anatomical capsule structure	C1325531
+24688	24696	GO:0016020	membrane	Membrane	C0596901
+24837	24869	GO:0051216	chondrogenesis	Chondrogenesis	C0598067
+24921	24945	GO:0007601	vision	Vision	C0042789
+25131	25168	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+25214	25259	GO:0007601	vision	Vision	C0042789
+25290	25324	GO:0001503	osteogenesis	Osteogenesis	C0029433
+25384	25388	GO:0005623	cell	Cells	C0007634
+25647	25681	GO:0051216	chondrogenesis	Chondrogenesis	C0598067
+25793	25848	GO:0048469	cell maturation	Cell Maturation	C1516349
+25984	25988	GO:0005623	cell	Cells	C0007634
+26030	26034	GO:0005623	cell	Cells	C0007634
+26199	26211	GO:0006954	Inflammation		C0021368
+26320	26331	GO:0032502	development	Biologic Development	C0678723
+26335	26362	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+26675	26719	GO:0007601	vision	Vision	C0042789
+26858	26868	GO:0007601	vision	Vision	C0042789
+27291	27329	GO:0007601	vision	Vision	C0042789
+27494	27518	GO:0007601	vision	Vision	C0042789
+27599	27635	GO:0009058	anabolism	Anabolism	C0220781
+28167	28171	GO:0005623	cell	Cells	C0007634
+28278	28294	GO:0007601	vision	Vision	C0042789
+28519	28525	GO:0040007	growth	Growth	C0018270
+28826	28830	GO:0005623	cell	Cells	C0007634
+28932	28936	GO:0005623	cell	Cells	C0007634
+28995	28999	GO:0005623	cell	Cells	C0007634
+29136	29140	GO:0005623	cell	Cells	C0007634
+29308	29314	GO:0040007	growth	Growth	C0018270
+29600	29632	GO:0007601	vision	Vision	C0042789
+29692	29720	GO:0001503	osteogenesis	Osteogenesis	C0029433
+29787	29825	GO:0007165	signal transduction	Signal Transduction	C0037083
+29787	29825	GO:0023052	biological signaling		C3537152
+29848	29852	GO:0005623	cell	Cells	C0007634
+30029	30063	GO:0042465	kinesis	Kinesis	C0022699
+30663	30678	GO:0010467	gene expression	Gene Expression	C0017262
+30849	30867	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+30901	30912	GO:0032502	development	Biologic Development	C0678723
+30950	30973	GO:0009790	embryo development	Embryonic Development	C0013936
+31061	31094	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+31104	31154	GO:0009790	embryo development	Embryonic Development	C0013936
+31238	31258	GO:0001501	skeletal development		C1160401
+31377	31400	GO:0009058	anabolism	Anabolism	C0220781
+31481	31493	GO:0007567	parturition	Birth	C0005615
+31553	31587	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+31595	31649	GO:0010623	developmental programmed cell death		C2611918
+31683	31729	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+31885	31903	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+31933	31942	GO:0097194	apoptosis	Apoptosis	C0162638
+32077	32116	GO:0009058	anabolism	Anabolism	C0220781
+32430	32456	GO:0009058	anabolism	Anabolism	C0220781
+32590	32608	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+32612	32656	GO:0009058	anabolism	Anabolism	C0220781
+32854	32886	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+32996	33059	GO:0016458	gene silencing	Gene Silencing	C0598496
+33233	33255	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+33266	33322	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+33373	33376	GO:0007601	vision	Vision	C0042789
+33472	33506	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+33568	33605	GO:0009058	anabolism	Anabolism	C0220781
+33617	33641	GO:0006402	mRNA decay	mRNA Decay	C1257758
+33750	33754	GO:0005623	cell	Cells	C0007634
+33783	33839	GO:0007567	parturition	Birth	C0005615
+33783	33839	GO:0000003	reproduction	Reproduction	C0035150
+33865	33876	GO:0032502	development	Biologic Development	C0678723
+33933	33948	GO:0010467	gene expression	Gene Expression	C0017262
+34022	34076	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+34136	34163	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+34791	34819	GO:0000988	transcription factor activity		C1148759
+35010	35053	GO:0009058	anabolism	Anabolism	C0220781
+35116	35196	GO:0031012	extracellular matrix	Extracellular Matrix	C0015350
+35221	35250	GO:0000988	transcription factor activity		C1148759
+35321	35365	GO:0000988	transcription factor activity		C1148759
+35504	35527	GO:0006468	protein phosphorylation	Protein phosphorylation	C1158886
+35645	35684	GO:0007567	parturition	Birth	C0005615
+35645	35684	GO:0000003	reproduction	Reproduction	C0035150
+35685	35723	GO:0009058	anabolism	Anabolism	C0220781
+35947	35962	GO:0010467	gene expression	Gene Expression	C0017262
+35963	35997	GO:0007601	vision	Vision	C0042789
+36006	36027	GO:0007165	signal transduction	Signal Transduction	C0037083
+36006	36027	GO:0023052	biological signaling		C3537152
+36066	36105	GO:0043687	post-translational protein modification	Post-Translational Protein Processing	C0033666
+36160	36189	GO:0031012	extracellular matrix	Extracellular Matrix	C0015350
+36243	36272	GO:0004691	protein kinase A activity		C2261493
+36321	36325	GO:0005623	cell	Cells	C0007634
+36494	36509	GO:0016310	phosphorylation	Phosphorylation	C0031715
+36494	36527	GO:0006468	protein phosphorylation	Protein phosphorylation	C1158886
+36776	36793	GO:0007567	parturition	Birth	C0005615
+36944	36953	GO:0007165	signal transduction	Signal Transduction	C0037083
+36944	36953	GO:0023052	biological signaling		C3537152
+36984	37020	GO:0007567	parturition	Birth	C0005615
+36984	37020	GO:0000003	reproduction	Reproduction	C0035150
+37088	37094	GO:0040007	growth	Growth	C0018270
+37281	37295	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+37455	37480	GO:0031012	extracellular matrix	Extracellular Matrix	C0015350
+37553	37566	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+37721	37744	GO:0001503	osteogenesis	Osteogenesis	C0029433
+37787	37823	GO:0051216	chondrogenesis	Chondrogenesis	C0598067
+37865	37871	GO:0042060	wound healing	Wound Healing	C0043240
+38294	38298	GO:0042060	wound healing	Wound Healing	C0043240
+38476	38487	GO:0032502	development	Biologic Development	C0678723
+38585	38594	GO:0007165	signal transduction	Signal Transduction	C0037083
+38585	38594	GO:0023052	biological signaling		C3537152
+38667	38699	GO:0007567	parturition	Birth	C0005615
+38667	38699	GO:0000003	reproduction	Reproduction	C0035150
+38723	38747	GO:0007567	parturition	Birth	C0005615
+38723	38747	GO:0000003	reproduction	Reproduction	C0035150
+39239	39256	GO:0098687	chromosome region	Region of chromosome	C1953345
+39448	39465	GO:0098687	chromosome region	Region of chromosome	C1953345
+39475	39480	GO:0007567	parturition	Birth	C0005615
+39475	39480	GO:0000003	reproduction	Reproduction	C0035150
+39490	39537	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+39548	39586	GO:0007567	parturition	Birth	C0005615
+39611	39655	GO:0007567	parturition	Birth	C0005615
+39732	39742	GO:0005694	chromosome	Chromosomes	C0008633
+39822	39862	GO:0007567	parturition	Birth	C0005615
+39822	39862	GO:0000003	reproduction	Reproduction	C0035150
+39923	39955	GO:0016234	inclusion body	Inclusion Bodies	C0007637
+39956	39985	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364
+40102	40113	GO:0032502	development	Biologic Development	C0678723
+40288	40299	GO:0032502	development	Biologic Development	C0678723
+40359	40374	GO:0010467	gene expression	Gene Expression	C0017262
+40437	40476	GO:0007567	parturition	Birth	C0005615
+40437	40476	GO:0000003	reproduction	Reproduction	C0035150
+40495	40552	GO:0007567	parturition	Birth	C0005615
+40495	40552	GO:0000003	reproduction	Reproduction	C0035150
+40596	40630	GO:0010467	gene expression	Gene Expression	C0017262
+40690	40724	GO:0007567	parturition	Birth	C0005615
+40690	40724	GO:0000003	reproduction	Reproduction	C0035150
+40726	40729	GO:0007601	vision	Vision	C0042789
+40821	40832	GO:0032502	development	Biologic Development	C0678723
+41152	41196	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+41688	41721	GO:0006412	protein biosynthesis	Protein Biosynthesis	C0597295
+41987	42018	GO:0006412	protein biosynthesis	Protein Biosynthesis	C0597295
+42786	42819	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+43779	43789	GO:0045120	pronucleus	Pronucleus	C1167158
+44295	44345	GO:0009291	unidirectional conjugation		C1160186
+44295	44345	GO:0007618	mating		C1260875
+44295	44345	GO:0000747	conjugation with cellular fusion		C1748461
+44295	44345	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+44420	44442	GO:0009790	embryo development	Embryonic Development	C0013936
+44446	44465	GO:0009790	embryo development	Embryonic Development	C0013936
+44559	44562	GO:0007601	vision	Vision	C0042789
+44947	44969	GO:0007618	mating		C1260875
+45121	45143	GO:0009291	unidirectional conjugation		C1160186
+45121	45143	GO:0007618	mating		C1260875
+45121	45143	GO:0000747	conjugation with cellular fusion		C1748461
+45121	45143	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+45703	45725	GO:0042465	kinesis	Kinesis	C0022699
+45731	45753	GO:0007610	behavior	Behavior	C0004927
+46259	46262	GO:0007601	vision	Vision	C0042789
+46404	46414	GO:0008219	cell death	Cell Death	C0007587
+46640	46650	GO:0008219	cell death	Cell Death	C0007587
+46839	46896	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46904	46911	GO:0000278	mitosis	Mitosis	C0026255
+46993	46997	GO:0005623	cell	Cells	C0007634
+47011	47053	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+47073	47086	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+47087	47098	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+47367	47399	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+47524	47528	GO:0005623	cell	Cells	C0007634
+48770	48796	GO:0014865	detection of activity		C2265875
+49209	49239	GO:0006473	protein acetylation	Protein Acetylation	C1521754
+49275	49278	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+49351	49362	GO:0032502	development	Biologic Development	C0678723
+49483	49508	GO:0009790	embryo development	Embryonic Development	C0013936
+49514	49547	GO:0000785	chromatin	chromatin location	C1325550
+49568	49598	GO:0007567	parturition	Birth	C0005615
+49568	49598	GO:0000003	reproduction	Reproduction	C0035150
+50608	50641	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+50725	50760	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+50802	50830	GO:0005020	stem cell factor receptor activity		C1150635
+50891	50909	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+51249	51280	GO:0007567	parturition	Birth	C0005615
+51249	51280	GO:0000003	reproduction	Reproduction	C0035150
+51336	51346	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+51506	51542	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+52326	52336	GO:0005694	chromosome	Chromosomes	C0008633
+52338	52385	GO:0060349	bone morphogenesis		C2610491
+52428	52448	GO:0031012	extracellular matrix	Extracellular Matrix	C0015350
+52450	52520	GO:0016791	phosphoric monoester hydrolase activity		C1149880
+52529	52535	GO:0040007	growth	Growth	C0018270
+52562	52606	GO:0016791	phosphoric monoester hydrolase activity		C1149880
+52624	52632	GO:0005840	ribosome	Ribosomes	C0035553
+52733	52739	GO:0040007	growth	Growth	C0018270
+52883	52899	GO:0007567	parturition	Birth	C0005615
+52883	52899	GO:0000003	reproduction	Reproduction	C0035150
+52909	52948	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+53028	53067	GO:0006412	protein biosynthesis	Protein Biosynthesis	C0597295
+53116	53119	GO:0007601	vision	Vision	C0042789
+53195	53217	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+53482	53507	GO:0009790	embryo development	Embryonic Development	C0013936
+54461	54469	GO:0016020	membrane	Membrane	C0596901
+54490	54494	GO:0005623	cell	Cells	C0007634
+54595	54604	GO:0097194	apoptosis	Apoptosis	C0162638
+55083	55092	GO:0097194	apoptosis	Apoptosis	C0162638
+55171	55201	GO:0016572	histone phosphorylation		C1156206
+55359	55363	GO:0005623	cell	Cells	C0007634
+55450	55506	GO:0031254	cell trailing edge		C1621432
+55513	55522	GO:0097194	apoptosis	Apoptosis	C0162638
+55797	55801	GO:0005623	cell	Cells	C0007634
+55813	55854	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+56063	56111	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+56640	56646	GO:0040007	growth	Growth	C0018270
+56825	56863	GO:0009058	anabolism	Anabolism	C0220781
+57449	57464	GO:0010467	gene expression	Gene Expression	C0017262
+57538	57553	GO:0009790	embryo development	Embryonic Development	C0013936
+57715	57719	GO:0005623	cell	Cells	C0007634
+57761	57797	GO:0009790	embryo development	Embryonic Development	C0013936
+57798	57813	GO:0009058	anabolism	Anabolism	C0220781
+57858	57862	GO:0007601	vision	Vision	C0042789
+58319	58347	GO:0031012	extracellular matrix	Extracellular Matrix	C0015350
+58546	58555	GO:0007567	parturition	Birth	C0005615
+58819	58845	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+58978	59032	GO:0007567	parturition	Birth	C0005615
+59168	59172	GO:0005623	cell	Cells	C0007634
+59437	59463	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+59490	59494	GO:0005623	cell	Cells	C0007634
+59568	59576	GO:0016020	membrane	Membrane	C0596901
+59619	59665	GO:0051216	chondrogenesis	Chondrogenesis	C0598067
+59814	59840	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+59902	59906	GO:0005623	cell	Cells	C0007634
+60024	60069	GO:0098589	membrane region		C3821310
+60137	60141	GO:0005623	cell	Cells	C0007634
+60186	60236	GO:0009986	cell surface	Cell surface	C0699040
+60350	60354	GO:0005623	cell	Cells	C0007634
+60366	60407	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+60413	60452	GO:0009058	anabolism	Anabolism	C0220781
+60469	60476	GO:0042603	capsule	Microbial anatomical capsule structure	C1325531
+60633	60657	GO:0007165	signal transduction	Signal Transduction	C0037083
+60633	60657	GO:0023052	biological signaling		C3537152
+60740	60745	GO:0007568	aging	Aging	C0001811
+60958	60962	GO:0005623	cell	Cells	C0007634
+61093	61119	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+61146	61150	GO:0005623	cell	Cells	C0007634
+61276	61282	GO:0040007	growth	Growth	C0018270
+61302	61314	GO:0007567	parturition	Birth	C0005615
+61580	61606	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+61633	61637	GO:0005623	cell	Cells	C0007634
+61690	61694	GO:0005623	cell	Cells	C0007634
+61771	61775	GO:0005623	cell	Cells	C0007634
+62017	62043	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+62066	62070	GO:0005623	cell	Cells	C0007634
+62938	62960	GO:0030509	BMP receptor signaling pathway	BMP Receptor Signaling Pathway	C1155364

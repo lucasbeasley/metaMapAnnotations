@@ -1,0 +1,353 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+79	110	GO:0007567	parturition	Birth	C0005615
+79	110	GO:0000003	reproduction	Reproduction	C0035150
+160	226	GO:0007567	parturition	Birth	C0005615
+160	226	GO:0000003	reproduction	Reproduction	C0035150
+251	288	GO:0007567	parturition	Birth	C0005615
+251	288	GO:0000003	reproduction	Reproduction	C0035150
+336	379	GO:0007567	parturition	Birth	C0005615
+336	379	GO:0000003	reproduction	Reproduction	C0035150
+441	486	GO:0007567	parturition	Birth	C0005615
+441	486	GO:0000003	reproduction	Reproduction	C0035150
+534	556	GO:0007567	parturition	Birth	C0005615
+534	556	GO:0000003	reproduction	Reproduction	C0035150
+609	631	GO:0007567	parturition	Birth	C0005615
+609	631	GO:0000003	reproduction	Reproduction	C0035150
+704	740	GO:0007567	parturition	Birth	C0005615
+704	740	GO:0000003	reproduction	Reproduction	C0035150
+1019	1029	GO:0005694	chromosome	Chromosomes	C0008633
+1168	1199	GO:0007567	parturition	Birth	C0005615
+1168	1199	GO:0000003	reproduction	Reproduction	C0035150
+1313	1336	GO:0007567	parturition	Birth	C0005615
+1313	1336	GO:0000003	reproduction	Reproduction	C0035150
+1337	1369	GO:0007567	parturition	Birth	C0005615
+1337	1369	GO:0000003	reproduction	Reproduction	C0035150
+1430	1476	GO:0007567	parturition	Birth	C0005615
+1430	1476	GO:0000003	reproduction	Reproduction	C0035150
+1715	1727	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+1729	1751	GO:0007567	parturition	Birth	C0005615
+1729	1751	GO:0000003	reproduction	Reproduction	C0035150
+1926	1952	GO:0007567	parturition	Birth	C0005615
+1926	1952	GO:0000003	reproduction	Reproduction	C0035150
+1986	1998	GO:0009405	pathogenesis	Pathogenesis	C0699748
+2004	2046	GO:0007567	parturition	Birth	C0005615
+2004	2046	GO:0000003	reproduction	Reproduction	C0035150
+2101	2121	GO:0007567	parturition	Birth	C0005615
+2101	2121	GO:0000003	reproduction	Reproduction	C0035150
+2208	2258	GO:0007567	parturition	Birth	C0005615
+2208	2258	GO:0000003	reproduction	Reproduction	C0035150
+2542	2583	GO:0007567	parturition	Birth	C0005615
+2542	2583	GO:0000003	reproduction	Reproduction	C0035150
+2624	2636	GO:0000806	Y chromosome	Y Chromosome	C0043381
+2666	2670	GO:0007567	parturition	Birth	C0005615
+2666	2670	GO:0000003	reproduction	Reproduction	C0035150
+2704	2758	GO:0007567	parturition	Birth	C0005615
+2704	2758	GO:0000003	reproduction	Reproduction	C0035150
+2920	2957	GO:0007567	parturition	Birth	C0005615
+2920	2957	GO:0000003	reproduction	Reproduction	C0035150
+3013	3025	GO:0007567	parturition	Birth	C0005615
+3013	3025	GO:0000003	reproduction	Reproduction	C0035150
+3046	3058	GO:0009405	pathogenesis	Pathogenesis	C0699748
+3137	3147	GO:0005694	chromosome	Chromosomes	C0008633
+3347	3357	GO:0005694	chromosome	Chromosomes	C0008633
+3361	3399	GO:0007567	parturition	Birth	C0005615
+3361	3399	GO:0000003	reproduction	Reproduction	C0035150
+3559	3568	GO:0007567	parturition	Birth	C0005615
+3559	3568	GO:0000003	reproduction	Reproduction	C0035150
+3589	3600	GO:0032502	development	Biologic Development	C0678723
+3657	3690	GO:0007567	parturition	Birth	C0005615
+3657	3690	GO:0000003	reproduction	Reproduction	C0035150
+3829	3866	GO:0007567	parturition	Birth	C0005615
+3829	3866	GO:0000003	reproduction	Reproduction	C0035150
+3943	3975	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+4230	4275	GO:0007567	parturition	Birth	C0005615
+4230	4275	GO:0000003	reproduction	Reproduction	C0035150
+4309	4320	GO:0032502	development	Biologic Development	C0678723
+4489	4511	GO:0007567	parturition	Birth	C0005615
+4489	4511	GO:0000003	reproduction	Reproduction	C0035150
+4532	4578	GO:0007567	parturition	Birth	C0005615
+4532	4578	GO:0000003	reproduction	Reproduction	C0035150
+4728	4764	GO:0007567	parturition	Birth	C0005615
+4728	4764	GO:0000003	reproduction	Reproduction	C0035150
+4810	4847	GO:0007567	parturition	Birth	C0005615
+4810	4847	GO:0000003	reproduction	Reproduction	C0035150
+4956	4965	GO:0007610	behavior	Behavior	C0004927
+5063	5111	GO:0007567	parturition	Birth	C0005615
+5063	5111	GO:0000003	reproduction	Reproduction	C0035150
+5159	5205	GO:0007567	parturition	Birth	C0005615
+5159	5205	GO:0000003	reproduction	Reproduction	C0035150
+5237	5290	GO:0007567	parturition	Birth	C0005615
+5237	5290	GO:0000003	reproduction	Reproduction	C0035150
+5370	5399	GO:0007567	parturition	Birth	C0005615
+5370	5399	GO:0000003	reproduction	Reproduction	C0035150
+5436	5468	GO:0007567	parturition	Birth	C0005615
+5436	5468	GO:0000003	reproduction	Reproduction	C0035150
+5484	5497	GO:0007567	parturition	Birth	C0005615
+5484	5497	GO:0000003	reproduction	Reproduction	C0035150
+5512	5522	GO:0005694	chromosome	Chromosomes	C0008633
+5555	5565	GO:0005698	centromere	Centromere	C0007709
+5853	5867	GO:0007567	parturition	Birth	C0005615
+5853	5867	GO:0000003	reproduction	Reproduction	C0035150
+6131	6160	GO:0007567	parturition	Birth	C0005615
+6131	6160	GO:0000003	reproduction	Reproduction	C0035150
+6161	6189	GO:0009790	embryo development	Embryonic Development	C0013936
+6219	6241	GO:0007567	parturition	Birth	C0005615
+6219	6241	GO:0000003	reproduction	Reproduction	C0035150
+6358	6368	GO:0005694	chromosome	Chromosomes	C0008633
+6474	6480	GO:0007567	parturition	Birth	C0005615
+6474	6480	GO:0000003	reproduction	Reproduction	C0035150
+6495	6535	GO:0009790	embryo development	Embryonic Development	C0013936
+6599	6653	GO:0007567	parturition	Birth	C0005615
+6599	6653	GO:0000003	reproduction	Reproduction	C0035150
+6680	6726	GO:0007567	parturition	Birth	C0005615
+6680	6726	GO:0000003	reproduction	Reproduction	C0035150
+6763	6774	GO:0032502	development	Biologic Development	C0678723
+6806	6847	GO:0007567	parturition	Birth	C0005615
+6806	6847	GO:0000003	reproduction	Reproduction	C0035150
+6908	6953	GO:0007567	parturition	Birth	C0005615
+6908	6953	GO:0000003	reproduction	Reproduction	C0035150
+7051	7094	GO:0007567	parturition	Birth	C0005615
+7051	7094	GO:0000003	reproduction	Reproduction	C0035150
+7214	7242	GO:0007567	parturition	Birth	C0005615
+7214	7242	GO:0000003	reproduction	Reproduction	C0035150
+7415	7424	GO:0007610	behavior	Behavior	C0004927
+7896	7905	GO:0000785	chromatin	chromatin location	C1325550
+8392	8413	GO:0007567	parturition	Birth	C0005615
+8392	8413	GO:0000003	reproduction	Reproduction	C0035150
+8699	8707	GO:0030849	autosome	Autosome	C0596142
+8714	8735	GO:0007567	parturition	Birth	C0005615
+8714	8735	GO:0000003	reproduction	Reproduction	C0035150
+8913	8954	GO:0007567	parturition	Birth	C0005615
+8913	8954	GO:0000003	reproduction	Reproduction	C0035150
+9075	9085	GO:0005694	chromosome	Chromosomes	C0008633
+9205	9229	GO:0007567	parturition	Birth	C0005615
+9205	9229	GO:0000003	reproduction	Reproduction	C0035150
+9230	9240	GO:0005694	chromosome	Chromosomes	C0008633
+9406	9416	GO:0005694	chromosome	Chromosomes	C0008633
+9526	9529	GO:0007601	vision	Vision	C0042789
+9592	9601	GO:0000785	chromatin	chromatin location	C1325550
+9633	9699	GO:0000781	chromosome, telomeric region		C1325571
+9767	9786	GO:0007567	parturition	Birth	C0005615
+9767	9786	GO:0000003	reproduction	Reproduction	C0035150
+9863	9873	GO:0005694	chromosome	Chromosomes	C0008633
+9888	9950	GO:0007567	parturition	Birth	C0005615
+9888	9950	GO:0000003	reproduction	Reproduction	C0035150
+10043	10052	GO:0000785	chromatin	chromatin location	C1325550
+10090	10106	GO:0007567	parturition	Birth	C0005615
+10090	10106	GO:0000003	reproduction	Reproduction	C0035150
+10150	10172	GO:0007567	parturition	Birth	C0005615
+10150	10172	GO:0000003	reproduction	Reproduction	C0035150
+10185	10216	GO:0007567	parturition	Birth	C0005615
+10185	10216	GO:0000003	reproduction	Reproduction	C0035150
+10371	10415	GO:0098687	chromosome region	Region of chromosome	C1953345
+10763	10772	GO:0000785	chromatin	chromatin location	C1325550
+10879	10893	GO:0008015	blood circulation	Blood Circulation	C0005775
+11284	11334	GO:0007567	parturition	Birth	C0005615
+11284	11334	GO:0000003	reproduction	Reproduction	C0035150
+11784	11794	GO:0005694	chromosome	Chromosomes	C0008633
+11990	11999	GO:0000785	chromatin	chromatin location	C1325550
+12012	12015	GO:0007601	vision	Vision	C0042789
+12102	12127	GO:0007567	parturition	Birth	C0005615
+12102	12127	GO:0000003	reproduction	Reproduction	C0035150
+12330	12350	GO:0007567	parturition	Birth	C0005615
+12330	12350	GO:0000003	reproduction	Reproduction	C0035150
+12500	12510	GO:0005694	chromosome	Chromosomes	C0008633
+12656	12666	GO:0005694	chromosome	Chromosomes	C0008633
+12913	12950	GO:0098687	chromosome region	Region of chromosome	C1953345
+12999	13012	GO:0007567	parturition	Birth	C0005615
+12999	13012	GO:0000003	reproduction	Reproduction	C0035150
+13013	13023	GO:0033736	L-lysine 6-oxidase activity		C2247199
+13048	13058	GO:0005694	chromosome	Chromosomes	C0008633
+13138	13147	GO:0033736	L-lysine 6-oxidase activity		C2247199
+13162	13171	GO:0033736	L-lysine 6-oxidase activity		C2247199
+13437	13447	GO:0005694	chromosome	Chromosomes	C0008633
+13539	13575	GO:0000781	chromosome, telomeric region		C1325571
+13679	13744	GO:0007567	parturition	Birth	C0005615
+13679	13744	GO:0000003	reproduction	Reproduction	C0035150
+13858	13868	GO:0005694	chromosome	Chromosomes	C0008633
+14006	14016	GO:0005694	chromosome	Chromosomes	C0008633
+14126	14136	GO:0005694	chromosome	Chromosomes	C0008633
+14358	14391	GO:0000805	X chromosome	X Chromosome	C0043292
+15383	15416	GO:0007567	parturition	Birth	C0005615
+15383	15416	GO:0000003	reproduction	Reproduction	C0035150
+15500	15510	GO:0005694	chromosome	Chromosomes	C0008633
+15517	15530	GO:0007567	parturition	Birth	C0005615
+15517	15530	GO:0000003	reproduction	Reproduction	C0035150
+15924	15935	GO:0032502	development	Biologic Development	C0678723
+16004	16025	GO:0007567	parturition	Birth	C0005615
+16004	16025	GO:0000003	reproduction	Reproduction	C0035150
+16071	16093	GO:0007567	parturition	Birth	C0005615
+16071	16093	GO:0000003	reproduction	Reproduction	C0035150
+16229	16253	GO:0007567	parturition	Birth	C0005615
+16229	16253	GO:0000003	reproduction	Reproduction	C0035150
+16407	16453	GO:0007567	parturition	Birth	C0005615
+16407	16453	GO:0000003	reproduction	Reproduction	C0035150
+16521	16531	GO:0005694	chromosome	Chromosomes	C0008633
+16667	16677	GO:0005694	chromosome	Chromosomes	C0008633
+16731	16745	GO:0007567	parturition	Birth	C0005615
+16731	16745	GO:0000003	reproduction	Reproduction	C0035150
+17031	17053	GO:0007567	parturition	Birth	C0005615
+17031	17053	GO:0000003	reproduction	Reproduction	C0035150
+17054	17093	GO:0098687	chromosome region	Region of chromosome	C1953345
+17127	17138	GO:0032502	development	Biologic Development	C0678723
+17151	17180	GO:0007567	parturition	Birth	C0005615
+17151	17180	GO:0000003	reproduction	Reproduction	C0035150
+17181	17208	GO:0009790	embryo development	Embryonic Development	C0013936
+17218	17260	GO:0034023	5	carboxyamino	C2247561
+17404	17443	GO:0007567	parturition	Birth	C0005615
+17404	17443	GO:0000003	reproduction	Reproduction	C0035150
+17444	17470	GO:0007567	parturition	Birth	C0005615
+17444	17470	GO:0000003	reproduction	Reproduction	C0035150
+17500	17521	GO:0007567	parturition	Birth	C0005615
+17500	17521	GO:0000003	reproduction	Reproduction	C0035150
+17523	17556	GO:0007567	parturition	Birth	C0005615
+17523	17556	GO:0000003	reproduction	Reproduction	C0035150
+17564	17575	GO:0032502	development	Biologic Development	C0678723
+17664	17697	GO:0007567	parturition	Birth	C0005615
+17664	17697	GO:0000003	reproduction	Reproduction	C0035150
+17714	17742	GO:0007567	parturition	Birth	C0005615
+17714	17742	GO:0000003	reproduction	Reproduction	C0035150
+17759	17770	GO:0032502	development	Biologic Development	C0678723
+17918	17946	GO:0007567	parturition	Birth	C0005615
+17918	17946	GO:0000003	reproduction	Reproduction	C0035150
+18064	18104	GO:0097537	Y-shaped link		C3821134
+18141	18152	GO:0032502	development	Biologic Development	C0678723
+18264	18276	GO:0007567	parturition	Birth	C0005615
+18264	18276	GO:0000003	reproduction	Reproduction	C0035150
+18356	18399	GO:0007567	parturition	Birth	C0005615
+18356	18399	GO:0000003	reproduction	Reproduction	C0035150
+18449	18479	GO:0007567	parturition	Birth	C0005615
+18449	18479	GO:0000003	reproduction	Reproduction	C0035150
+19219	19259	GO:0007567	parturition	Birth	C0005615
+19219	19259	GO:0000003	reproduction	Reproduction	C0035150
+19298	19355	GO:0007567	parturition	Birth	C0005615
+19298	19355	GO:0000003	reproduction	Reproduction	C0035150
+19403	19439	GO:0034023	5	carboxyamino	C2247561
+19918	19939	GO:0007567	parturition	Birth	C0005615
+19918	19939	GO:0000003	reproduction	Reproduction	C0035150
+20068	20078	GO:0005694	chromosome	Chromosomes	C0008633
+20276	20314	GO:0007567	parturition	Birth	C0005615
+20276	20314	GO:0000003	reproduction	Reproduction	C0035150
+20370	20380	GO:0005694	chromosome	Chromosomes	C0008633
+20394	20421	GO:0007567	parturition	Birth	C0005615
+20394	20421	GO:0000003	reproduction	Reproduction	C0035150
+20425	20435	GO:0005694	chromosome	Chromosomes	C0008633
+20496	20549	GO:0098687	chromosome region	Region of chromosome	C1953345
+20661	20671	GO:0005694	chromosome	Chromosomes	C0008633
+20774	20800	GO:0098687	chromosome region	Region of chromosome	C1953345
+20821	20832	GO:0032502	development	Biologic Development	C0678723
+21070	21109	GO:0007567	parturition	Birth	C0005615
+21070	21109	GO:0000003	reproduction	Reproduction	C0035150
+21219	21239	GO:0007567	parturition	Birth	C0005615
+21219	21239	GO:0000003	reproduction	Reproduction	C0035150
+21368	21400	GO:0007567	parturition	Birth	C0005615
+21368	21400	GO:0000003	reproduction	Reproduction	C0035150
+21453	21463	GO:0005694	chromosome	Chromosomes	C0008633
+21610	21645	GO:0005696	telomere		C0085187
+21857	21890	GO:0098687	chromosome region	Region of chromosome	C1953345
+21927	21937	GO:0005694	chromosome	Chromosomes	C0008633
+22013	22026	GO:0007567	parturition	Birth	C0005615
+22013	22026	GO:0000003	reproduction	Reproduction	C0035150
+22030	22056	GO:0007567	parturition	Birth	C0005615
+22030	22056	GO:0000003	reproduction	Reproduction	C0035150
+22126	22131	GO:0005488	binding	Binding 	C1167622
+22147	22156	GO:0000785	chromatin	chromatin location	C1325550
+22162	22205	GO:0097194	apoptosis	Apoptosis	C0162638
+22291	22300	GO:0000785	chromatin	chromatin location	C1325550
+22305	22320	GO:0097194	apoptosis	Apoptosis	C0162638
+22682	22691	GO:0000785	chromatin	chromatin location	C1325550
+22712	22724	GO:0009405	pathogenesis	Pathogenesis	C0699748
+22788	22797	GO:0000785	chromatin	chromatin location	C1325550
+23212	23256	GO:0007567	parturition	Birth	C0005615
+23212	23256	GO:0000003	reproduction	Reproduction	C0035150
+23264	23275	GO:0032502	development	Biologic Development	C0678723
+23292	23301	GO:0000785	chromatin	chromatin location	C1325550
+23420	23430	GO:0005694	chromosome	Chromosomes	C0008633
+23644	23689	GO:0007567	parturition	Birth	C0005615
+23644	23689	GO:0000003	reproduction	Reproduction	C0035150
+23690	23731	GO:0000781	chromosome, telomeric region		C1325571
+24150	24160	GO:0005694	chromosome	Chromosomes	C0008633
+24175	24211	GO:0007567	parturition	Birth	C0005615
+24175	24211	GO:0000003	reproduction	Reproduction	C0035150
+24281	24291	GO:0005694	chromosome	Chromosomes	C0008633
+24397	24411	GO:0007567	parturition	Birth	C0005615
+24397	24411	GO:0000003	reproduction	Reproduction	C0035150
+24412	24447	GO:0098687	chromosome region	Region of chromosome	C1953345
+24562	24594	GO:0007567	parturition	Birth	C0005615
+24562	24594	GO:0000003	reproduction	Reproduction	C0035150
+24950	24987	GO:0009790	embryo development	Embryonic Development	C0013936
+25027	25054	GO:0007567	parturition	Birth	C0005615
+25027	25054	GO:0000003	reproduction	Reproduction	C0035150
+25148	25185	GO:0007567	parturition	Birth	C0005615
+25148	25185	GO:0000003	reproduction	Reproduction	C0035150
+25227	25263	GO:0007567	parturition	Birth	C0005615
+25227	25263	GO:0000003	reproduction	Reproduction	C0035150
+25273	25291	GO:0007567	parturition	Birth	C0005615
+25273	25291	GO:0000003	reproduction	Reproduction	C0035150
+25343	25353	GO:0005694	chromosome	Chromosomes	C0008633
+26422	26464	GO:0098687	chromosome region	Region of chromosome	C1953345
+26610	26623	GO:0007567	parturition	Birth	C0005615
+26610	26623	GO:0000003	reproduction	Reproduction	C0035150
+26763	26830	GO:0010467	gene expression	Gene Expression	C0017262
+26907	26919	GO:0009405	pathogenesis	Pathogenesis	C0699748
+27051	27062	GO:0032502	development	Biologic Development	C0678723
+27089	27118	GO:0007567	parturition	Birth	C0005615
+27089	27118	GO:0000003	reproduction	Reproduction	C0035150
+27172	27229	GO:0007567	parturition	Birth	C0005615
+27172	27229	GO:0000003	reproduction	Reproduction	C0035150
+27776	27826	GO:0007567	parturition	Birth	C0005615
+27776	27826	GO:0000003	reproduction	Reproduction	C0035150
+28280	28289	GO:0007601	vision	Vision	C0042789
+28435	28445	GO:0005694	chromosome	Chromosomes	C0008633
+29170	29218	GO:0009405	pathogenesis	Pathogenesis	C0699748
+29315	29320	GO:0004617	phosphoglycerate dehydrogenase activity		C1151254
+29470	29474	GO:0005623	cell	Cells	C0007634
+29754	29763	GO:0000785	chromatin	chromatin location	C1325550
+30791	30833	GO:1902698	acidogenesis		C3823112
+31915	31923	GO:0030849	autosome	Autosome	C0596142
+32552	32581	GO:0033736	L-lysine 6-oxidase activity		C2247199
+32788	32793	GO:0033736	L-lysine 6-oxidase activity		C2247199
+32788	32793	GO:0033736	L-lysine 6-oxidase activity		C2247199
+32788	32793	GO:0033736	L-lysine 6-oxidase activity		C2247199
+33014	33038	GO:0007567	parturition	Birth	C0005615
+33014	33038	GO:0000003	reproduction	Reproduction	C0035150
+33043	33056	GO:0007567	parturition	Birth	C0005615
+33043	33056	GO:0000003	reproduction	Reproduction	C0035150
+33171	33192	GO:0007567	parturition	Birth	C0005615
+33171	33192	GO:0000003	reproduction	Reproduction	C0035150
+33657	33670	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33672	33699	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+33760	33797	GO:0007567	parturition	Birth	C0005615
+33760	33797	GO:0000003	reproduction	Reproduction	C0035150
+33828	33851	GO:0033736	L-lysine 6-oxidase activity		C2247199
+33998	34008	GO:0005694	chromosome	Chromosomes	C0008633
+34029	34038	GO:0000785	chromatin	chromatin location	C1325550
+34201	34210	GO:0043495	anchoring	anchoring activity	C1624581
+34465	34475	GO:0005694	chromosome	Chromosomes	C0008633
+34763	34772	GO:0043495	anchoring	anchoring activity	C1624581
+35003	35013	GO:0005694	chromosome	Chromosomes	C0008633
+35108	35117	GO:0043495	anchoring	anchoring activity	C1624581
+35443	35446	GO:0007601	vision	Vision	C0042789
+35528	35538	GO:0005694	chromosome	Chromosomes	C0008633
+35559	35568	GO:0000785	chromatin	chromatin location	C1325550
+35630	35639	GO:0043495	anchoring	anchoring activity	C1624581
+35908	35911	GO:0007601	vision	Vision	C0042789
+36341	36381	GO:0098687	chromosome region	Region of chromosome	C1953345
+36407	36421	GO:0007567	parturition	Birth	C0005615
+36407	36421	GO:0000003	reproduction	Reproduction	C0035150
+36465	36474	GO:0000785	chromatin	chromatin location	C1325550
+36740	36750	GO:0005694	chromosome	Chromosomes	C0008633
+36768	36777	GO:0000785	chromatin	chromatin location	C1325550
+36799	36802	GO:0007601	vision	Vision	C0042789
+36891	36900	GO:0043495	anchoring	anchoring activity	C1624581
+37555	37564	GO:0000785	chromatin	chromatin location	C1325550
+38190	38193	GO:0007601	vision	Vision	C0042789
+38252	38262	GO:0005694	chromosome	Chromosomes	C0008633
+38275	38284	GO:0000785	chromatin	chromatin location	C1325550
+38458	38467	GO:0043495	anchoring	anchoring activity	C1624581
+39549	39559	GO:0005694	chromosome	Chromosomes	C0008633
+39586	39592	GO:0033736	L-lysine 6-oxidase activity		C2247199
+39633	39643	GO:0005694	chromosome	Chromosomes	C0008633
+39726	39729	GO:0007601	vision	Vision	C0042789
+40594	40626	GO:0007567	parturition	Birth	C0005615
+40594	40626	GO:0000003	reproduction	Reproduction	C0035150

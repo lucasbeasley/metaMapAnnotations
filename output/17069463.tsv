@@ -1,0 +1,411 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+27	50	GO:0004396	hexokinase activity		C1150445
+103	121	GO:0006006	glucose metabolism		C0596620
+133	158	GO:0008536	Ran GTPase binding		C1325817
+217	267	GO:0003674	molecular_function		C1148560
+280	325	GO:0008536	Ran GTPase binding		C1325817
+392	403	GO:0008536	Ran GTPase binding		C1325817
+408	419	GO:0007567	parturition	Birth	C0005615
+408	419	GO:0000003	reproduction	Reproduction	C0035150
+443	455	GO:0008536	Ran GTPase binding		C1325817
+512	562	GO:0008536	Ran GTPase binding		C1325817
+567	603	GO:0008536	Ran GTPase binding		C1325817
+597	603	GO:0008536	Ran GTPase binding		C1325817
+686	698	GO:0005739	mitochondria	Mitochondria	C0026237
+686	738	GO:0000001	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+746	756	GO:0006096	glycolysis	Glycolysis	C0017952
+811	844	GO:0070728	leucine binding		C2753485
+866	884	GO:0051082	chaperone activity		C1149552
+909	940	GO:0032502	development	Biologic Development	C0678723
+952	978	GO:0008536	Ran GTPase binding		C1325817
+986	993	GO:0005829	cytosol	Cytoplasmic matrix	C1383501
+1106	1110	GO:0005623	cell	Cells	C0007634
+1161	1167	GO:0008536	Ran GTPase binding		C1325817
+1231	1263	GO:0008536	Ran GTPase binding		C1325817
+1318	1354	GO:0008536	Ran GTPase binding		C1325817
+1370	1379	GO:0008536	Ran GTPase binding		C1325817
+1410	1438	GO:0008536	Ran GTPase binding		C1325817
+1553	1574	GO:0008536	Ran GTPase binding		C1325817
+1600	1606	GO:0040007	growth	Growth	C0018270
+1617	1672	GO:0006007	glucose catabolic process		C1156395
+1677	1692	GO:0006094	gluconeogenesis	Gluconeogenesis	C0017715
+1830	1836	GO:0008536	Ran GTPase binding		C1325817
+1901	1920	GO:0006007	glucose catabolic process		C1156395
+1921	1939	GO:0097009	energy homeostasis		C3157043
+1945	1967	GO:0044237	cellular metabolic process	Metabolic Process, Cellular	C1524026
+1968	1973	GO:0007568	aging	Aging	C0001811
+2020	2045	GO:0008536	Ran GTPase binding		C1325817
+2144	2186	GO:0008536	Ran GTPase binding		C1325817
+2259	2263	GO:0005623	cell	Cells	C0007634
+2290	2331	GO:0008536	Ran GTPase binding		C1325817
+2434	2441	GO:0005829	cytosol	Cytoplasmic matrix	C1383501
+2498	2511	GO:0051301	cell division	Cell division	C0007590
+2520	2531	GO:0007567	parturition	Birth	C0005615
+2520	2531	GO:0000003	reproduction	Reproduction	C0035150
+2583	2597	GO:0008536	Ran GTPase binding		C1325817
+2615	2644	GO:0008536	Ran GTPase binding		C1325817
+2736	2748	GO:0005739	mitochondria	Mitochondria	C0026237
+2859	2877	GO:0008536	Ran GTPase binding		C1325817
+2953	2964	GO:0008536	Ran GTPase binding		C1325817
+2974	3003	GO:0004396	hexokinase type I activity		C2260229
+3015	3021	GO:0008536	Ran GTPase binding		C1325817
+3052	3065	GO:0004396	hexokinase type I activity		C2260229
+3089	3110	GO:0005515	protein binding	Protein Binding	C0033618
+3148	3154	GO:0040007	growth	Growth	C0018270
+3165	3186	GO:0006007	glucose catabolic process		C1156395
+3196	3222	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+3293	3309	GO:0007601	vision	Vision	C0042789
+3333	3358	GO:0008536	Ran GTPase binding		C1325817
+3363	3398	GO:0008152	metabolism	Metabolism	C0025519
+3671	3689	GO:0006412	protein biosynthesis	Protein Biosynthesis	C0597295
+3697	3734	GO:0030472	mitotic spindle organization in nucleus		C1155676
+3751	3767	GO:0005635	nuclear envelope	Nuclear Envelope	C0028584
+3777	3826	GO:0015074	DNA integration	DNA Integration	C1158478
+3827	3853	GO:0051382	kinetochore assembly		C1656984
+3858	3901	GO:0032502	development	Biologic Development	C0678723
+4021	4025	GO:0005623	cell	Cells	C0007634
+4036	4090	GO:0015074	DNA integration	DNA Integration	C1158478
+4114	4118	GO:0005623	cell	Cells	C0007634
+4202	4206	GO:0005623	cell	Cells	C0007634
+4256	4263	GO:0005488	binding	Binding 	C1167622
+4310	4324	GO:0051170	nuclear import	Nuclear Import	C0887839
+4365	4390	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+4403	4417	GO:0051170	nuclear import	Nuclear Import	C0887839
+4822	4833	GO:0005874	microtubule	Microtubules	C0026046
+4856	4869	GO:0008574	kinesin activity		C1622129
+5138	5172	GO:0003755	cyclophilin activity		C1325303
+5310	5320	GO:0000502	proteasome	proteasome complex location 	C1325620
+5310	5331	GO:0043161	proteasome pathway	Proteasome Pathway	C1752727
+5327	5359	GO:0004842	ubiquitin conjugating enzyme activity		C1151883
+5327	5359	GO:0061650	ubiquitin-like protein conjugating enzyme activity		C1151884
+5327	5359	GO:0019775	FAT10 conjugating enzyme activity		C1151887
+5327	5359	GO:0019777	Atg12 conjugating enzyme activity		C2612339
+5327	5359	GO:0072496	Pup conjugating enzyme activity		C3156549
+5327	5359	GO:0019787	ubiquitin-like protein transferase activity		C3888074
+5327	5359	GO:0004842	ubiquitin-protein transferase activity		C3888151
+5327	5359	GO:0061657	UFM1 conjugating enzyme activity		C3889565
+5327	5359	GO:0019789	SUMO conjugating enzyme activity		C3889566
+5327	5359	GO:0019788	NEDD8 conjugating enzyme activity		C3889567
+5327	5359	GO:0061658	URM1 conjugating enzyme activity		C3889568
+5327	5359	GO:0061653	E2	ISG15 conjugating enxyme activity	C3889569
+5381	5395	GO:0051168	nuclear export	Nuclear Export	C0887840
+5482	5506	GO:0004842	ubiquitin protein-ligase activity	ubiquitin-protein ligase activity	C1150685
+5626	5633	GO:0005829	cytosol	Cytoplasmic matrix	C1383501
+5654	5660	GO:0005096	GTPase activator activity		C1152525
+5669	5676	GO:0005829	cytosol	Cytoplasmic matrix	C1383501
+5786	5798	GO:0005739	mitochondria	Mitochondria	C0026237
+5906	5915	GO:0005737	cytoplasm	Cytoplasm	C0010834
+5931	5985	GO:0051179	establishment and maintenance of localization		C1744691
+6001	6013	GO:0005643	nuclear pore	Nuclear Pore	C0028587
+6122	6134	GO:0009405	pathogenesis	Pathogenesis	C0699748
+6270	6288	GO:0016567	protein ubiquitination	Ubiquitination	C1519751
+6293	6314	GO:0009056	catabolism	Catabolism	C0699900
+6411	6421	GO:0000502	proteasome	proteasome complex location 	C1325620
+6411	6437	GO:0043161	proteasome pathway	Proteasome Pathway	C1752727
+6443	6490	GO:0008536	Ran GTPase binding		C1325817
+6530	6537	GO:0005488	binding	Binding 	C1167622
+6565	6588	GO:0007049	cell cycle	Cell Cycle	C0007586
+6565	6588	GO:0000278	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+6599	6618	GO:0006508	proteolysis	Proteolysis	C0597304
+6599	6618	GO:0030163	protein degradation	Protein Degradation, Regulatory	C1623036
+6655	6673	GO:0004842	ubiquitin protein-ligase activity	ubiquitin-protein ligase activity	C1150685
+6714	6776	GO:0030849	autosome	Autosome	C0596142
+6905	6917	GO:0005739	mitochondria	Mitochondria	C0026237
+6905	6930	GO:0000001	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+6946	6952	GO:0040007	growth	Growth	C0018270
+7005	7014	GO:0005737	cytoplasm	Cytoplasm	C0010834
+7100	7153	GO:0000422	mitochondrion autophagy	Mitochondrial Degradation	C1820119
+7167	7193	GO:0043526	neuroprotection	Neuroprotection	C0598958
+7385	7400	GO:0042995	cellular process		C1325880
+7712	7738	GO:0006006	glucose metabolism		C0596620
+8130	8142	GO:0009461	cytochrome c	cytochrome c activity	C1153524
+8586	8603	GO:0005488	binding	Binding 	C1167622
+8652	8729	GO:0044429	mitochondrial subcomponent	Part of mitochondrion	C1179844
+9081	9105	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9289	9307	GO:0051082	chaperone activity		C1149552
+9399	9417	GO:0051082	chaperone activity		C1149552
+9472	9479	GO:0005488	binding	Binding 	C1167622
+9719	9726	GO:0005488	binding	Binding 	C1167622
+9914	9928	GO:0005488	binding	Binding 	C1167622
+9963	9970	GO:0005488	binding	Binding 	C1167622
+10376	10388	GO:0005739	mitochondria	Mitochondria	C0026237
+10408	10416	GO:0016020	membrane	Membrane	C0596901
+10805	10812	GO:0005829	cytosol	Cytoplasmic matrix	C1383501
+10889	10901	GO:0005739	mitochondria	Mitochondria	C0026237
+10889	10936	GO:0000001	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+11133	11160	GO:0004565	beta-galactosidase activity		C1150053
+11165	11171	GO:0040007	growth	Growth	C0018270
+11531	11577	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11713	11768	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11880	11910	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12279	12286	GO:0005488	binding	Binding 	C1167622
+12466	12508	GO:0032502	development	Biologic Development	C0678723
+12624	12631	GO:0005488	binding	Binding 	C1167622
+12683	12690	GO:0008574	kinesin activity		C1622129
+12705	12712	GO:0005488	binding	Binding 	C1167622
+12726	12738	GO:0003755	cyclophilin activity		C1325303
+12783	12802	GO:0003755	cyclophilin activity		C1325303
+12979	13009	GO:0003824	enzyme activity		C0243102
+13077	13123	GO:0003824	enzyme activity		C0243102
+13212	13235	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+14225	14228	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+14298	14305	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+14324	14330	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+14435	14477	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+14672	14680	GO:0007610	behavior	Behavior	C0004927
+14925	14949	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+15097	15147	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+15152	15198	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+15328	15336	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+15613	15625	GO:0005739	mitochondria	Mitochondria	C0026237
+15980	15992	GO:0005739	mitochondria	Mitochondria	C0026237
+16158	16195	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+16254	16266	GO:0005739	mitochondria	Mitochondria	C0026237
+16294	16316	GO:0051179	establishment and maintenance of localization		C1744691
+16666	16690	GO:0051179	establishment and maintenance of localization		C1744691
+16834	16884	GO:0044428	nuclear part		C1820036
+17089	17126	GO:0051179	establishment and maintenance of localization		C1744691
+17152	17164	GO:0005739	mitochondria	Mitochondria	C0026237
+17433	17437	GO:0005623	cell	Cells	C0007634
+17891	17960	GO:0009790	embryo development	Embryonic Development	C0013936
+17961	17978	GO:0007567	parturition	Birth	C0005615
+17961	17978	GO:0000003	reproduction	Reproduction	C0035150
+18294	18307	GO:0009790	embryo development	Embryonic Development	C0013936
+18354	18361	GO:0031982	vesicle		C1622418
+18366	18396	GO:0009790	embryo development	Embryonic Development	C0013936
+18419	18430	GO:0032502	development	Biologic Development	C0678723
+18522	18537	GO:0007567	parturition	Birth	C0005615
+18522	18537	GO:0000003	reproduction	Reproduction	C0035150
+18541	18581	GO:0060041	retinal development		C2610344
+18609	18613	GO:0005623	cell	Cells	C0007634
+18697	18708	GO:0006280	mutagenesis	Mutagenesis Process	C0079866
+18808	18819	GO:0006280	mutagenesis	Mutagenesis Process	C0079866
+18913	18953	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+18954	18978	GO:0008380	RNA splicing	RNA Splicing	C0035687
+18954	18978	GO:0045292	nuclear mRNA cis splicing, via spliceosome		C2610186
+19051	19060	GO:0007567	parturition	Birth	C0005615
+19051	19060	GO:0000003	reproduction	Reproduction	C0035150
+19172	19180	GO:0005840	ribosome	Ribosomes	C0035553
+19259	19283	GO:0044297	cell body		C2752549
+19334	19338	GO:0030424	axon	Axon	C0004461
+19360	19373	GO:0006351	transcription	Transcription, Genetic	C0040649
+19731	19760	GO:0007567	parturition	Birth	C0005615
+19731	19760	GO:0000003	reproduction	Reproduction	C0035150
+19771	19847	GO:0009790	embryo development	Embryonic Development	C0013936
+20051	20058	GO:0031982	vesicle		C1622418
+20288	20331	GO:0001917	photoreceptor inner segment	Inner segment of photoreceptor	C1523372
+20381	20385	GO:0005623	cell	Cells	C0007634
+20458	20489	GO:0001750	photoreceptor outer segment	Outer segment of photoreceptor	C1325525
+20508	20512	GO:0005623	cell	Cells	C0007634
+20748	20752	GO:0005623	cell	Cells	C0007634
+20845	20899	GO:0003824	enzyme activity		C0243102
+20999	21009	GO:0006096	glycolysis	Glycolysis	C0017952
+21086	21104	GO:0097009	energy homeostasis		C3157043
+22488	22500	GO:0005739	mitochondria	Mitochondria	C0026237
+23037	23053	GO:0005635	nuclear envelope	Nuclear Envelope	C0028584
+23179	23206	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+23875	23897	GO:0044237	cellular metabolic process	Metabolic Process, Cellular	C1524026
+23942	23948	GO:0040007	growth	Growth	C0018270
+24291	24340	GO:0007567	parturition	Birth	C0005615
+24291	24340	GO:0000003	reproduction	Reproduction	C0035150
+24504	24510	GO:0040007	growth	Growth	C0018270
+24576	24582	GO:0040007	growth	Growth	C0018270
+24730	24736	GO:0040007	growth	Growth	C0018270
+24839	24865	GO:0007567	parturition	Birth	C0005615
+24839	24865	GO:0000003	reproduction	Reproduction	C0035150
+24958	25008	GO:0007567	parturition	Birth	C0005615
+24958	25008	GO:0000003	reproduction	Reproduction	C0035150
+25155	25160	GO:0007567	parturition	Birth	C0005615
+25416	25423	GO:0051235	storage	cellular entity storage	C1753314
+25482	25506	GO:0043336	site-specific telomere resolvase activity		C1622890
+25672	25682	GO:0009058	anabolism	Anabolism	C0220781
+25687	25705	GO:0046323	glucose uptake		C1159527
+26230	26244	GO:0046323	glucose uptake		C1159527
+26311	26326	GO:0006094	gluconeogenesis	Gluconeogenesis	C0017715
+26427	26487	GO:0006094	gluconeogenesis	Gluconeogenesis	C0017715
+26676	26691	GO:0006094	gluconeogenesis	Gluconeogenesis	C0017715
+26867	26902	GO:0006007	glucose catabolic process		C1156395
+26914	26959	GO:0044237	cellular metabolic process	Metabolic Process, Cellular	C1524026
+27354	27368	GO:0046323	glucose uptake		C1159527
+27894	27940	GO:0044237	cellular metabolic process	Metabolic Process, Cellular	C1524026
+28133	28137	GO:0020010	conoid		C1166649
+28235	28248	GO:1990603	dark adaptation	Dark Adaptation	C0010985
+28348	28390	GO:0020010	conoid		C1166649
+28481	28495	GO:0036367	light adaption		C3549167
+28508	28541	GO:0020010	conoid		C1166649
+29110	29132	GO:0009881	photoreceptor activity		C1152655
+29910	29952	GO:0003904	photoreactivating enzyme activity		C2257086
+30153	30166	GO:1990603	dark adaptation	Dark Adaptation	C0010985
+30514	30528	GO:0020010	conoid		C1166649
+30543	30585	GO:0036367	light adaption		C3549167
+31535	31553	GO:0097009	energy homeostasis		C3157043
+31689	31707	GO:0051082	chaperone activity		C1149552
+31761	31775	GO:0032502	development	Biologic Development	C0678723
+31869	31903	GO:0009058	anabolism	Anabolism	C0220781
+32014	32021	GO:0005488	binding	Binding 	C1167622
+32781	32799	GO:0051082	chaperone activity		C1149552
+33143	33161	GO:0051082	chaperone activity		C1149552
+33166	33198	GO:0009056	catabolism	Catabolism	C0699900
+33268	33280	GO:0005739	mitochondria	Mitochondria	C0026237
+33268	33294	GO:0000001	mitochondrial inheritance	Mitochondrial Inheritance	C0887941
+33607	33623	GO:0009056	catabolism	Catabolism	C0699900
+33713	33719	GO:0040007	growth	Growth	C0018270
+34044	34048	GO:0005623	cell	Cells	C0007634
+34064	34116	GO:0009058	anabolism	Anabolism	C0220781
+34169	34293	GO:1905108	guanosine binding		C4235450
+34761	34771	GO:0000502	proteasome	proteasome complex location 	C1325620
+34761	34782	GO:0043161	proteasome pathway	Proteasome Pathway	C1752727
+34818	34855	GO:0061659	ubiquitin-like protein ligase activity		C1150682
+34818	34855	GO:0019777	Atg12 ligase activity		C1151885
+34818	34855	GO:0019787	ubiquitin-like protein transferase activity		C3888074
+34818	34855	GO:0004842	ubiquitin-protein transferase activity		C3888151
+34818	34855	GO:0061662	ISG15 ligase activity		C3890037
+34818	34855	GO:0061661	FAT10 ligase activity		C3890038
+34818	34855	GO:0061667	URM1 ligase activity		C3890039
+34818	34855	GO:0061664	Pup ligase activity		C3890040
+34818	34855	GO:0061666	UFM1 ligase activity		C3890041
+34818	34855	GO:0061665	SUMO ligase activity		C3890172
+34818	34855	GO:0061663	NEDD8 ligase activity		C3890173
+34873	34907	GO:0004842	ubiquitin conjugating enzyme activity		C1151883
+34873	34907	GO:0061650	ubiquitin-like protein conjugating enzyme activity		C1151884
+34873	34907	GO:0019775	FAT10 conjugating enzyme activity		C1151887
+34873	34907	GO:0019777	Atg12 conjugating enzyme activity		C2612339
+34873	34907	GO:0072496	Pup conjugating enzyme activity		C3156549
+34873	34907	GO:0019787	ubiquitin-like protein transferase activity		C3888074
+34873	34907	GO:0004842	ubiquitin-protein transferase activity		C3888151
+34873	34907	GO:0061657	UFM1 conjugating enzyme activity		C3889565
+34873	34907	GO:0019789	SUMO conjugating enzyme activity		C3889566
+34873	34907	GO:0019788	NEDD8 conjugating enzyme activity		C3889567
+34873	34907	GO:0061658	URM1 conjugating enzyme activity		C3889568
+34873	34907	GO:0061653	E2	ISG15 conjugating enxyme activity	C3889569
+34922	34962	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+34966	34980	GO:0000504	26S proteasome	26S proteasome location	C1166804
+35309	35315	GO:0040007	growth	Growth	C0018270
+35352	35430	GO:0006110	regulation of glycolytic process		C1158161
+35463	35473	GO:0006096	glycolysis	Glycolysis	C0017952
+35527	35537	GO:0000502	proteasome	proteasome complex location 	C1325620
+35527	35551	GO:0043161	proteasome pathway	Proteasome Pathway	C1752727
+35651	35697	GO:0007567	parturition	Birth	C0005615
+35651	35697	GO:0000003	reproduction	Reproduction	C0035150
+35698	35744	GO:0007567	parturition	Birth	C0005615
+35698	35744	GO:0000003	reproduction	Reproduction	C0035150
+35818	35847	GO:0042593	glucose homeostasis		C1326961
+36206	36241	GO:0005391	sodium/potassium-exchanging ATPase activity		C1149024
+36581	36616	GO:0005622	protoplasm	Protoplasm	C0175996
+36693	36734	GO:0016887	adenosinetriphosphatase activity		C1148926
+36897	36924	GO:0005622	protoplasm	Protoplasm	C0175996
+37266	37284	GO:0097009	energy homeostasis		C3157043
+37317	37335	GO:0051082	chaperone activity		C1149552
+37372	37382	GO:0000502	proteasome	proteasome complex location 	C1325620
+37372	37393	GO:0043161	proteasome pathway	Proteasome Pathway	C1752727
+37485	37496	GO:0009056	catabolism	Catabolism	C0699900
+37524	37538	GO:0051170	nuclear import	Nuclear Import	C0887839
+37576	37583	GO:0005488	binding	Binding 	C1167622
+37688	37728	GO:0004365	glyceraldehyde-3-phosphate dehydrogenase	NAD+) 	C2260086
+37770	37808	GO:0043526	neuroprotection	Neuroprotection	C0598958
+37963	37978	GO:0007567	parturition	Birth	C0005615
+37963	37978	GO:0000003	reproduction	Reproduction	C0035150
+38024	38053	GO:0007567	parturition	Birth	C0005615
+38024	38053	GO:0000003	reproduction	Reproduction	C0035150
+38228	38233	GO:0007568	aging	Aging	C0001811
+38294	38324	GO:0007567	parturition	Birth	C0005615
+38294	38324	GO:0000003	reproduction	Reproduction	C0035150
+38416	38445	GO:0008152	metabolism	Metabolism	C0025519
+38553	38565	GO:0044237	cellular metabolic process	Metabolic Process, Cellular	C1524026
+38633	38638	GO:0030315	triad	Transverse tubule of muscle cell	C1179122
+38747	38763	GO:0009056	catabolism	Catabolism	C0699900
+38813	38854	GO:0045821	stimulation of glycolysis		C2249614
+38832	38854	GO:0006096	glycolysis	Glycolysis	C0017952
+39221	39239	GO:0009056	catabolism	Catabolism	C0699900
+39514	39541	GO:0005622	protoplasm	Protoplasm	C0175996
+39597	39639	GO:0005391	sodium/potassium-exchanging ATPase activity		C1149024
+39963	39967	GO:0005623	cell	Cells	C0007634
+40195	40199	GO:0005623	cell	Cells	C0007634
+40294	40330	GO:0031080	nuclear pore outer ring		C1523554
+40393	40428	GO:0051292	nuclear pore complex assembly		C1657447
+40460	40464	GO:0005623	cell	Cells	C0007634
+40601	40611	GO:0008152	metabolism	Metabolism	C0025519
+40649	40716	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+40749	40764	GO:0016032	viral infection	Virus Diseases	C0042769
+41004	41017	GO:0007567	parturition	Birth	C0005615
+41004	41017	GO:0000003	reproduction	Reproduction	C0035150
+41065	41114	GO:0003674	molecular_function		C1148560
+41119	41136	GO:0007567	parturition	Birth	C0005615
+41119	41136	GO:0000003	reproduction	Reproduction	C0035150
+41337	41404	GO:0003677	DNA binding	dna binding	C1148673
+41598	41615	GO:0009291	unidirectional conjugation		C1160186
+41598	41615	GO:0007618	mating		C1260875
+41598	41615	GO:0000747	conjugation with cellular fusion		C1748461
+41598	41615	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+41639	41649	GO:0009790	embryo development	Embryonic Development	C0013936
+41654	41719	GO:0005488	binding	Binding 	C1167622
+41957	41984	GO:0009790	embryo development	Embryonic Development	C0013936
+42260	42266	GO:0040007	growth	Growth	C0018270
+42301	42307	GO:0040007	growth	Growth	C0018270
+42360	42363	GO:0044805	late nucleophagy		C3714709
+42363	42372	GO:0044805	late nucleophagy		C3714709
+42670	42681	GO:0006280	mutagenesis	Mutagenesis Process	C0079866
+42670	42690	GO:0006280	mutagenesis	Mutagenesis Process	C0079866
+43334	43349	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+43613	43620	GO:0005488	binding	Binding 	C1167622
+43681	43684	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+43715	43743	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+43820	43841	GO:0004396	hexokinase activity		C1150445
+44039	44048	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+44153	44156	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+44377	44396	GO:0004396	hexokinase activity		C1150445
+44661	44672	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+44854	44870	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+44916	44945	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45014	45040	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45117	45159	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45614	45618	GO:0005623	cell	Cells	C0007634
+45740	45744	GO:0005623	cell	Cells	C0007634
+45977	45995	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+46032	46035	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+46055	46096	GO:0000746	conjugation		C1160466
+46102	46105	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+46296	46320	GO:0008104	protein localization	protein localization location	C0597704
+46296	46320	GO:0006886	intracellular protein transport		C1159772
+46726	46771	GO:0015074	DNA integration	DNA Integration	C1158478
+47535	47570	GO:0007601	vision	Vision	C0042789
+47571	47610	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+47854	47858	GO:0005623	cell	Cells	C0007634
+47953	47964	GO:0006280	mutagenesis	Mutagenesis Process	C0079866
+47965	47991	GO:0007567	parturition	Birth	C0005615
+47965	47991	GO:0000003	reproduction	Reproduction	C0035150
+47970	47990	GO:0007567	parturition	Birth	C0005615
+47970	47990	GO:0000003	reproduction	Reproduction	C0035150
+48193	48256	GO:0007567	parturition	Birth	C0005615
+48193	48256	GO:0000003	reproduction	Reproduction	C0035150
+48295	48303	GO:0005840	ribosome	Ribosomes	C0035553
+48326	48366	GO:0016791	phosphoric monoester hydrolase activity		C1149880
+48757	48777	GO:0007567	parturition	Birth	C0005615
+48757	48777	GO:0000003	reproduction	Reproduction	C0035150
+48884	48922	GO:0009790	embryo development	Embryonic Development	C0013936
+49707	49754	GO:1902698	acidogenesis		C3823112
+49910	49925	GO:0008218	bioluminescence	Bioluminescence	C0162404
+50232	50249	GO:0044237	cellular metabolic process	Metabolic Process, Cellular	C1524026
+50311	50320	GO:0007565	gestation	Pregnancy	C0032961
+50324	50330	GO:0007567	parturition	Birth	C0005615
+50847	50864	GO:0050975	tactile sense	Touch sensation	C0702221
+51013	51036	GO:0071254	cytoplasmic U snRNP body		C2754456
+51795	51804	GO:0007601	vision	Vision	C0042789
+51932	51939	GO:0003809	topical	Topical surface	C0332237
+52605	52636	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+52910	52926	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+53117	53202	GO:0001917	photoreceptor inner segment	Inner segment of photoreceptor	C1523372
+53681	53685	GO:0005623	cell	Cells	C0007634
+53735	53747	GO:0005739	mitochondria	Mitochondria	C0026237
+53866	53903	GO:0044237	cellular metabolic process	Metabolic Process, Cellular	C1524026
+54021	54078	GO:0007567	parturition	Birth	C0005615
+54021	54078	GO:0000003	reproduction	Reproduction	C0035150
+54193	54216	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+54258	54275	GO:0032117	horsetail-astral microtubule array	Horsetail-astral microtubule array	C1828470
+54276	54309	GO:0042465	kinesis	Kinesis	C0022699
+54417	54435	GO:0003755	cyclophilin activity		C1325303
+54568	54580	GO:0005643	nuclear pore	Nuclear Pore	C0028587
+54590	54620	GO:0008536	Ran GTPase binding		C1325817
+54652	54663	GO:0038045	large latent transforming growth factor-beta complex		C3271738
+54891	54923	GO:0006983	ER-overload response		C1155303
+55102	55106	GO:0000407	pre-autophagosomal structure		C1820373

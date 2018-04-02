@@ -1,0 +1,188 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+163	176	GO:0006351	transcription	Transcription, Genetic	C0040649
+205	214	GO:0007601	vision	Vision	C0042789
+232	243	GO:0032502	development	Biologic Development	C0678723
+302	318	GO:0007567	parturition	Birth	C0005615
+302	318	GO:0000003	reproduction	Reproduction	C0035150
+324	348	GO:0007601	vision	Vision	C0042789
+886	907	GO:0014069	post-synaptic density	Post-Synaptic Density	C1817671
+934	940	GO:0003777	dynein	dynein activity	C1622677
+1064	1087	GO:0007601	vision	Vision	C0042789
+1364	1377	GO:0006351	transcription	Transcription, Genetic	C0040649
+1597	1610	GO:0006351	transcription	Transcription, Genetic	C0040649
+1631	1658	GO:0007601	vision	Vision	C0042789
+1663	1681	GO:0022008	neurogenesis	Neurogenesis	C0814002
+1687	1747	GO:0007567	parturition	Birth	C0005615
+1687	1747	GO:0000003	reproduction	Reproduction	C0035150
+1774	1819	GO:0007601	vision	Vision	C0042789
+1897	1934	GO:0007601	vision	Vision	C0042789
+2012	2023	GO:0032502	development	Biologic Development	C0678723
+2064	2108	GO:0007608	smell perception	Smell Perception	C0037361
+2167	2184	GO:0007420	brain development		C1160340
+2297	2351	GO:0021905	forebrain-midbrain boundary formation		C1818477
+2357	2370	GO:0007411	axon guidance	Axon Guidance	C2984268
+2376	2402	GO:0022008	neural cell differentiation		C2755962
+2421	2457	GO:0001764	neuron migration		C1326504
+2521	2538	GO:0007420	brain development		C1160340
+3065	3123	GO:0016597	amino acid binding		C1148572
+3228	3253	GO:0003677	DNA binding	dna binding	C1148673
+3367	3406	GO:1902698	acidogenesis		C3823112
+3434	3447	GO:0006351	transcription	Transcription, Genetic	C0040649
+3501	3529	GO:0007567	parturition	Birth	C0005615
+3501	3529	GO:0000003	reproduction	Reproduction	C0035150
+3587	3600	GO:0007567	parturition	Birth	C0005615
+3587	3600	GO:0000003	reproduction	Reproduction	C0035150
+3621	3670	GO:0007601	vision	Vision	C0042789
+3772	3793	GO:0032502	developmental process	Developmental process	C1511806
+4014	4066	GO:0061564	axon development		C3820918
+4149	4201	GO:0022008	neural cell differentiation		C2755962
+4277	4309	GO:0007567	parturition	Birth	C0005615
+4277	4309	GO:0000003	reproduction	Reproduction	C0035150
+4544	4570	GO:0000988	transcription factor activity		C1148759
+4715	4793	GO:0000988	transcription factor activity		C1148759
+4868	4944	GO:0007567	parturition	Birth	C0005615
+4868	4944	GO:0000003	reproduction	Reproduction	C0035150
+4978	5021	GO:0048666	neuron development		C1657987
+5089	5141	GO:0010467	gene expression	Gene Expression	C0017262
+5349	5379	GO:1902698	acidogenesis		C3823112
+5871	5935	GO:1902698	acidogenesis		C3823112
+5958	6013	GO:1902698	acidogenesis		C3823112
+6083	6116	GO:0007601	vision	Vision	C0042789
+6271	6327	GO:1902698	acidogenesis		C3823112
+6536	6559	GO:1902698	acidogenesis		C3823112
+6725	6782	GO:0004062	aryl sulfotransferase activity		C1152487
+6942	6956	GO:0004062	aryl sulfotransferase activity		C1152487
+7454	7524	GO:1902698	acidogenesis		C3823112
+7568	7601	GO:1902698	acidogenesis		C3823112
+7900	7933	GO:1902698	acidogenesis		C3823112
+8245	8281	GO:1902698	acidogenesis		C3823112
+8310	8321	GO:0003677	DNA binding	dna binding	C1148673
+8434	8477	GO:1902698	acidogenesis		C3823112
+8657	8677	GO:0004062	aryl sulfotransferase activity		C1152487
+8785	8806	GO:0004062	aryl sulfotransferase activity		C1152487
+8948	8958	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+8968	8974	GO:0003777	dynein	dynein activity	C1622677
+9002	9012	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+9095	9104	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+9259	9295	GO:0004062	aryl sulfotransferase activity		C1152487
+9510	9531	GO:0014069	post-synaptic density	Post-Synaptic Density	C1817671
+9562	9603	GO:0043234	protein complex location		C1523872
+9604	9610	GO:0003777	dynein	dynein activity	C1622677
+9644	9669	GO:0005622	protoplasm	Protoplasm	C0175996
+9698	9707	GO:0043226	organelle	Organelles	C0029219
+11369	11388	GO:0004062	aryl sulfotransferase activity		C1152487
+11590	11625	GO:0004062	aryl sulfotransferase activity		C1152487
+11725	11781	GO:0004062	aryl sulfotransferase activity		C1152487
+11785	11794	GO:0007610	behavior	Behavior	C0004927
+12095	12125	GO:1902698	acidogenesis		C3823112
+12240	12243	GO:0007601	vision	Vision	C0042789
+12367	12392	GO:0004062	aryl sulfotransferase activity		C1152487
+12476	12500	GO:0007567	parturition	Birth	C0005615
+12476	12500	GO:0000003	reproduction	Reproduction	C0035150
+12734	12740	GO:0040007	growth	Growth	C0018270
+12762	12782	GO:1902698	acidogenesis		C3823112
+12982	13013	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+13224	13249	GO:1902698	acidogenesis		C3823112
+13440	13468	GO:0004062	aryl sulfotransferase activity		C1152487
+13628	13676	GO:0007567	parturition	Birth	C0005615
+13628	13676	GO:0000003	reproduction	Reproduction	C0035150
+13787	13802	GO:0004062	aryl sulfotransferase activity		C1152487
+13819	13858	GO:0004062	aryl sulfotransferase activity		C1152487
+13875	13915	GO:0004062	aryl sulfotransferase activity		C1152487
+13935	13979	GO:0004062	aryl sulfotransferase activity		C1152487
+13993	14008	GO:0004062	aryl sulfotransferase activity		C1152487
+14076	14106	GO:1902698	acidogenesis		C3823112
+14515	14530	GO:0004062	aryl sulfotransferase activity		C1152487
+14515	14530	GO:0004062	aryl sulfotransferase activity		C1152487
+14639	14678	GO:0004062	aryl sulfotransferase activity		C1152487
+14695	14735	GO:0004062	aryl sulfotransferase activity		C1152487
+14753	14798	GO:0004062	aryl sulfotransferase activity		C1152487
+14878	14908	GO:1902698	acidogenesis		C3823112
+14957	14991	GO:0004062	aryl sulfotransferase activity		C1152487
+15131	15153	GO:0007601	vision	Vision	C0042789
+15229	15276	GO:1902698	acidogenesis		C3823112
+15661	15720	GO:0006412	protein biosynthesis	Protein Biosynthesis	C0597295
+15751	15799	GO:1902698	acidogenesis		C3823112
+15804	15843	GO:1902698	acidogenesis		C3823112
+15945	15954	GO:0050890	cognition	Cognition	C0009240
+16421	16457	GO:1902698	acidogenesis		C3823112
+16648	16663	GO:0007608	smell perception	Smell Perception	C0037361
+17397	17453	GO:0004062	aryl sulfotransferase activity		C1152487
+17519	17552	GO:1902698	acidogenesis		C3823112
+17716	17736	GO:0004062	aryl sulfotransferase activity		C1152487
+17895	17909	GO:0004062	aryl sulfotransferase activity		C1152487
+17934	17959	GO:0004062	aryl sulfotransferase activity		C1152487
+18056	18112	GO:0004062	aryl sulfotransferase activity		C1152487
+18113	18152	GO:0004062	aryl sulfotransferase activity		C1152487
+18472	18508	GO:0004062	aryl sulfotransferase activity		C1152487
+18593	18642	GO:0005488	binding	Binding 	C1167622
+18720	18741	GO:0097708	intracellular vesicle		C4236736
+18859	18893	GO:0023052	biological signaling		C3537152
+19056	19069	GO:0007411	axon guidance	Axon Guidance	C2984268
+19077	19094	GO:0007420	brain development		C1160340
+19111	19170	GO:0006886	intracellular protein transport		C1159772
+19171	19177	GO:0003777	dynein	dynein activity	C1622677
+19171	19177	GO:0003777	dynein	dynein activity	C1622677
+19239	19250	GO:0005874	microtubule	Microtubules	C0026046
+19308	19317	GO:0043226	organelle	Organelles	C0029219
+19323	19330	GO:0031982	vesicle		C1622418
+19401	19435	GO:0005488	binding	Binding 	C1167622
+20040	20081	GO:1903009	proteasome complex disassembly		C3824143
+20334	20369	GO:0023052	biological signaling		C3537152
+20381	20396	GO:0010467	gene expression	Gene Expression	C0017262
+20448	20455	GO:0005488	binding	Binding 	C1167622
+20706	20749	GO:0005884	microfilament	Microfilaments	C0025979
+20762	20768	GO:0003777	dynein	dynein activity	C1622677
+20798	20809	GO:0005874	microtubule	Microtubules	C0026046
+20839	20850	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+20873	20906	GO:0006508	proteolysis	Proteolysis	C0597304
+20873	20906	GO:0030163	protein degradation	Protein Degradation, Regulatory	C1623036
+20959	21010	GO:0000988	transcription factor activity		C1148759
+21020	21041	GO:0014069	post-synaptic density	Post-Synaptic Density	C1817671
+21102	21109	GO:0045202	synapse	Synapses	C0039062
+21114	21125	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+21316	21325	GO:0005737	cytoplasm	Cytoplasm	C0010834
+21333	21338	GO:0005488	binding	Binding 	C1167622
+21460	21501	GO:0051179	establishment and maintenance of localization		C1744691
+21593	21659	GO:0008104	protein localization	protein localization location	C0597704
+21593	21659	GO:0006886	intracellular protein transport		C1159772
+21731	21740	GO:0005737	cytoplasm	Cytoplasm	C0010834
+21764	21773	GO:0005737	cytoplasm	Cytoplasm	C0010834
+21786	21806	GO:0051179	establishment and maintenance of localization		C1744691
+21862	21871	GO:0005737	cytoplasm	Cytoplasm	C0010834
+21890	21899	GO:0005737	cytoplasm	Cytoplasm	C0010834
+22543	22581	GO:0004062	aryl sulfotransferase activity		C1152487
+22775	22815	GO:1902698	acidogenesis		C3823112
+23061	23105	GO:0006412	protein biosynthesis	Protein Biosynthesis	C0597295
+23281	23329	GO:1902698	acidogenesis		C3823112
+23431	23494	GO:0004062	aryl sulfotransferase activity		C1152487
+23606	23635	GO:0004062	aryl sulfotransferase activity		C1152487
+23932	23967	GO:0000184	nonsense-mediated mRNA decay	Nonsense Mediated mRNA Decay	C1158013
+24349	24364	GO:0023052	biological signaling		C3537152
+24717	24730	GO:0006351	transcription	Transcription, Genetic	C0040649
+24854	24894	GO:0023052	biological signaling		C3537152
+24930	24945	GO:0010467	gene expression	Gene Expression	C0017262
+25555	25575	GO:1902698	acidogenesis		C3823112
+25918	25929	GO:0003677	DNA binding	dna binding	C1148673
+25955	25975	GO:0004062	aryl sulfotransferase activity		C1152487
+25976	26028	GO:1902698	acidogenesis		C3823112
+26355	26369	GO:0004062	aryl sulfotransferase activity		C1152487
+26674	26701	GO:0004062	aryl sulfotransferase activity		C1152487
+27217	27270	GO:0005579	membrane attack complex location		C1167383
+27678	27714	GO:0007567	parturition	Birth	C0005615
+27678	27714	GO:0000003	reproduction	Reproduction	C0035150
+27835	27846	GO:0003677	DNA binding	dna binding	C1148673
+27998	28004	GO:0040007	growth	Growth	C0018270
+27998	28014	GO:0040007	growth	Growth	C0018270
+28094	28113	GO:1902698	acidogenesis		C3823112
+28151	28157	GO:0040007	growth	Growth	C0018270
+28524	28528	GO:0005623	cell	Cells	C0007634
+29037	29041	GO:0005623	cell	Cells	C0007634
+29342	29379	GO:1902698	acidogenesis		C3823112
+29838	29878	GO:0007567	parturition	Birth	C0005615
+29838	29878	GO:0000003	reproduction	Reproduction	C0035150
+30062	30097	GO:0005579	membrane attack complex location		C1167383
+30926	30937	GO:0004062	aryl sulfotransferase activity		C1152487
+30988	31009	GO:0014069	post-synaptic density	Post-Synaptic Density	C1817671
+31541	31550	GO:0007601	vision	Vision	C0042789
+31585	31596	GO:0032502	development	Biologic Development	C0678723

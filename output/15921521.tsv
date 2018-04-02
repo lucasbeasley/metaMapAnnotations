@@ -1,0 +1,205 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+0	84	GO:0007567	parturition	Birth	C0005615
+0	84	GO:0000003	reproduction	Reproduction	C0035150
+94	104	GO:0005694	chromosome	Chromosomes	C0008633
+190	261	GO:0005260	cystic-fibrosis membrane-conductance-regulating protein activity		C2262295
+316	348	GO:0007567	parturition	Birth	C0005615
+316	348	GO:0000003	reproduction	Reproduction	C0035150
+434	465	GO:0070701	mucus layer		C2753459
+570	627	GO:0007567	parturition	Birth	C0005615
+570	627	GO:0000003	reproduction	Reproduction	C0035150
+720	732	GO:0006954	Inflammation		C0021368
+906	943	GO:0007567	parturition	Birth	C0005615
+906	943	GO:0000003	reproduction	Reproduction	C0035150
+1206	1218	GO:0006954	Inflammation		C0021368
+1254	1271	GO:0007567	parturition	Birth	C0005615
+1254	1271	GO:0000003	reproduction	Reproduction	C0035150
+1316	1368	GO:0070701	mucus layer		C2753459
+2047	2081	GO:0007567	parturition	Birth	C0005615
+2047	2081	GO:0000003	reproduction	Reproduction	C0035150
+2097	2178	GO:0007567	parturition	Birth	C0005615
+2097	2178	GO:0000003	reproduction	Reproduction	C0035150
+2236	2306	GO:0005260	cystic-fibrosis membrane-conductance-regulating protein activity		C2262295
+2919	2930	GO:0007567	parturition	Birth	C0005615
+2919	2930	GO:0000003	reproduction	Reproduction	C0035150
+3062	3071	GO:0007586	digestion	Digestion	C0012238
+3232	3262	GO:1902698	acidogenesis		C3823112
+3326	3335	GO:0007586	digestion	Digestion	C0012238
+3563	3617	GO:0070701	mucus layer		C2753459
+3636	3648	GO:0006954	Inflammation		C0021368
+3665	3670	GO:0070701	mucus layer		C2753459
+3894	3906	GO:0006954	Inflammation		C0021368
+3999	4015	GO:0007567	parturition	Birth	C0005615
+3999	4015	GO:0000003	reproduction	Reproduction	C0035150
+4060	4089	GO:0007567	parturition	Birth	C0005615
+4060	4089	GO:0000003	reproduction	Reproduction	C0035150
+4170	4189	GO:0007567	parturition	Birth	C0005615
+4170	4189	GO:0000003	reproduction	Reproduction	C0035150
+4272	4313	GO:0007567	parturition	Birth	C0005615
+4272	4313	GO:0000003	reproduction	Reproduction	C0035150
+4314	4344	GO:0098687	chromosome region	Region of chromosome	C1953345
+4507	4573	GO:0098687	chromosome region	Region of chromosome	C1953345
+4722	4734	GO:0006954	Inflammation		C0021368
+4762	4766	GO:0005623	cell	Cells	C0007634
+5450	5489	GO:0007567	parturition	Birth	C0005615
+5450	5489	GO:0000003	reproduction	Reproduction	C0035150
+6427	6455	GO:0007567	parturition	Birth	C0005615
+6427	6455	GO:0000003	reproduction	Reproduction	C0035150
+7070	7082	GO:0006954	Inflammation		C0021368
+7133	7161	GO:0007567	parturition	Birth	C0005615
+7133	7161	GO:0000003	reproduction	Reproduction	C0035150
+7171	7211	GO:0010467	gene expression	Gene Expression	C0017262
+7263	7278	GO:0010467	gene expression	Gene Expression	C0017262
+7280	7313	GO:0010467	gene expression	Gene Expression	C0017262
+7344	7389	GO:0007567	parturition	Birth	C0005615
+7344	7389	GO:0000003	reproduction	Reproduction	C0035150
+7395	7399	GO:0005623	cell	Cells	C0007634
+7422	7459	GO:0060374	mast cell differentiation		C2610521
+7454	7458	GO:0005623	cell	Cells	C0007634
+7672	7685	GO:0007567	parturition	Birth	C0005615
+7672	7685	GO:0000003	reproduction	Reproduction	C0035150
+7733	7737	GO:0005623	cell	Cells	C0007634
+7864	7876	GO:0006954	Inflammation		C0021368
+7886	7917	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+7953	7971	GO:0008283	cell proliferation	Cell Proliferation	C0596290
+8081	8100	GO:0007567	parturition	Birth	C0005615
+8081	8100	GO:0000003	reproduction	Reproduction	C0035150
+8141	8145	GO:0005623	cell	Cells	C0007634
+8184	8218	GO:0007165	signal transduction	Signal Transduction	C0037083
+8184	8218	GO:0023052	biological signaling		C3537152
+8236	8261	GO:0007567	parturition	Birth	C0005615
+8236	8261	GO:0000003	reproduction	Reproduction	C0035150
+8286	8289	GO:0004713	JAK	JAK activity	C1150611
+8452	8464	GO:0009986	cell surface	Cell surface	C0699040
+9794	9822	GO:0007567	parturition	Birth	C0005615
+9794	9822	GO:0000003	reproduction	Reproduction	C0035150
+9839	9854	GO:0010467	gene expression	Gene Expression	C0017262
+9884	9905	GO:0006351	transcription	Transcription, Genetic	C0040649
+9961	9983	GO:0007567	parturition	Birth	C0005615
+9961	9983	GO:0000003	reproduction	Reproduction	C0035150
+10273	10322	GO:0007567	parturition	Birth	C0005615
+10273	10322	GO:0000003	reproduction	Reproduction	C0035150
+10496	10510	GO:0007567	parturition	Birth	C0005615
+10496	10510	GO:0000003	reproduction	Reproduction	C0035150
+10566	10581	GO:0010467	gene expression	Gene Expression	C0017262
+10795	10829	GO:0070701	mucus layer		C2753459
+10908	10933	GO:0070701	mucus layer		C2753459
+11081	11103	GO:1902698	acidogenesis		C3823112
+11246	11275	GO:0007567	parturition	Birth	C0005615
+11246	11275	GO:0000003	reproduction	Reproduction	C0035150
+11338	11362	GO:0000407	pre-autophagosomal structure		C1820373
+11481	11485	GO:0005623	cell	Cells	C0007634
+11573	11601	GO:0007567	parturition	Birth	C0005615
+11573	11601	GO:0000003	reproduction	Reproduction	C0035150
+11635	11665	GO:0000407	pre-autophagosomal structure		C1820373
+11713	11749	GO:0070701	mucus layer		C2753459
+11784	11803	GO:0070701	mucus layer		C2753459
+11924	11941	GO:0070701	mucus layer		C2753459
+12009	12033	GO:0070701	mucus layer		C2753459
+12062	12089	GO:0070701	mucus layer		C2753459
+12192	12205	GO:0070701	mucus layer		C2753459
+12214	12225	GO:0070701	mucus layer		C2753459
+12238	12264	GO:0070701	mucus layer		C2753459
+12358	12381	GO:0070701	mucus layer		C2753459
+12499	12544	GO:0007567	parturition	Birth	C0005615
+12499	12544	GO:0000003	reproduction	Reproduction	C0035150
+12578	12594	GO:0000407	pre-autophagosomal structure		C1820373
+13009	13039	GO:0000407	pre-autophagosomal structure		C1820373
+13310	13328	GO:0070701	mucus layer		C2753459
+13470	13516	GO:0007567	parturition	Birth	C0005615
+13470	13516	GO:0000003	reproduction	Reproduction	C0035150
+13579	13600	GO:0070701	mucus layer		C2753459
+13699	13714	GO:0010467	gene expression	Gene Expression	C0017262
+13756	13813	GO:0010467	gene expression	Gene Expression	C0017262
+14127	14174	GO:0070701	mucus layer		C2753459
+14357	14381	GO:0070701	mucus layer		C2753459
+14415	14430	GO:0010467	gene expression	Gene Expression	C0017262
+16024	16071	GO:0070701	mucus layer		C2753459
+16533	16561	GO:0007567	parturition	Birth	C0005615
+16533	16561	GO:0000003	reproduction	Reproduction	C0035150
+17251	17295	GO:0007567	parturition	Birth	C0005615
+17251	17295	GO:0000003	reproduction	Reproduction	C0035150
+17769	17779	GO:0005694	chromosome	Chromosomes	C0008633
+17797	17835	GO:0007567	parturition	Birth	C0005615
+17797	17835	GO:0000003	reproduction	Reproduction	C0035150
+18052	18078	GO:0098687	chromosome region	Region of chromosome	C1953345
+18535	18568	GO:0007567	parturition	Birth	C0005615
+18535	18568	GO:0000003	reproduction	Reproduction	C0035150
+18947	18980	GO:0007567	parturition	Birth	C0005615
+18947	18980	GO:0000003	reproduction	Reproduction	C0035150
+19168	19211	GO:0098687	chromosome region	Region of chromosome	C1953345
+19260	19317	GO:0007567	parturition	Birth	C0005615
+19260	19317	GO:0000003	reproduction	Reproduction	C0035150
+19364	19379	GO:0042044	fluid transport		C1159569
+19479	19493	GO:0007567	parturition	Birth	C0005615
+19479	19493	GO:0000003	reproduction	Reproduction	C0035150
+19543	19555	GO:0006954	Inflammation		C0021368
+19653	19665	GO:0006954	Inflammation		C0021368
+19684	19697	GO:0007567	parturition	Birth	C0005615
+19684	19697	GO:0000003	reproduction	Reproduction	C0035150
+19710	19722	GO:0006954	Inflammation		C0021368
+19882	19899	GO:0042110	T cell activation	T-Cell Activation	C1155065
+19915	19923	GO:0008337	selectin	selectin activity	C1325391
+19994	19998	GO:0005623	cell	Cells	C0007634
+20066	20078	GO:0009986	cell surface	Cell surface	C0699040
+20159	20182	GO:0007567	parturition	Birth	C0005615
+20159	20182	GO:0000003	reproduction	Reproduction	C0035150
+20225	20229	GO:0005623	cell	Cells	C0007634
+20270	20284	GO:0003823	immunoglobulin	immunoglobulin activity	C1621846
+20544	20548	GO:0005623	cell	Cells	C0007634
+20733	20737	GO:0005623	cell	Cells	C0007634
+20765	20790	GO:0060374	mast cell differentiation		C2610521
+20826	20861	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+20907	20911	GO:0005623	cell	Cells	C0007634
+20933	20942	GO:0005618	cell wall	Cell Wall	C0007623
+21170	21177	GO:0007567	parturition	Birth	C0005615
+21170	21177	GO:0000003	reproduction	Reproduction	C0035150
+21204	21260	GO:0035556	intracellular signal transduction pathway		C2755994
+21552	21563	GO:0035264	body growth	Body growth	C0231256
+21601	21642	GO:0035264	body growth	Body growth	C0231256
+21670	21705	GO:0007567	parturition	Birth	C0005615
+21670	21705	GO:0000003	reproduction	Reproduction	C0035150
+21777	21825	GO:0045087	innate immunity	Immunity, Innate	C0020969
+21849	21853	GO:0005623	cell	Cells	C0007634
+21872	21881	GO:0007567	parturition	Birth	C0005615
+21872	21881	GO:0000003	reproduction	Reproduction	C0035150
+21900	21904	GO:0005623	cell	Cells	C0007634
+21931	21944	GO:0007567	parturition	Birth	C0005615
+21931	21944	GO:0000003	reproduction	Reproduction	C0035150
+21948	21990	GO:0060374	mast cell differentiation		C2610521
+22032	22065	GO:0048468	cell development	Cell development	C0815089
+22159	22167	GO:0008337	selectin	selectin activity	C1325391
+22218	22259	GO:0072672	neutrophil extravasation		C3156749
+22260	22306	GO:0008015	blood circulation	Blood Circulation	C0005775
+22316	22331	GO:0006955	immune response	Immune response	C0301872
+22342	22380	GO:0070701	mucus layer		C2753459
+22408	22425	GO:0070701	mucus layer		C2753459
+22483	22516	GO:0007589	body fluid secretion		C2263233
+22521	22580	GO:1902698	acidogenesis		C3823112
+22599	22640	GO:0070701	mucus layer		C2753459
+22711	22715	GO:0005623	cell	Cells	C0007634
+22810	22825	GO:0070254	mucus secretion		C2610947
+23111	23123	GO:0006954	Inflammation		C0021368
+23186	23190	GO:0005623	cell	Cells	C0007634
+23195	23210	GO:0070254	mucus secretion		C2610947
+23212	23247	GO:0007567	parturition	Birth	C0005615
+23212	23247	GO:0000003	reproduction	Reproduction	C0035150
+23275	23279	GO:0005623	cell	Cells	C0007634
+23284	23310	GO:0030223	neutrophil differentiation		C1159958
+23315	23323	GO:0007610	behavior	Behavior	C0004927
+23487	23515	GO:0010467	gene expression	Gene Expression	C0017262
+23600	23651	GO:0007567	parturition	Birth	C0005615
+23600	23651	GO:0000003	reproduction	Reproduction	C0035150
+23954	23993	GO:0007567	parturition	Birth	C0005615
+23954	23993	GO:0000003	reproduction	Reproduction	C0035150
+24274	24283	GO:0007601	vision	Vision	C0042789
+25040	25081	GO:0009405	pathogenesis	Pathogenesis	C0699748
+25184	25216	GO:0007567	parturition	Birth	C0005615
+25184	25216	GO:0000003	reproduction	Reproduction	C0035150
+25720	25728	GO:0030849	autosome	Autosome	C0596142
+25747	25762	GO:0010467	gene expression	Gene Expression	C0017262
+25901	25929	GO:0010467	gene expression	Gene Expression	C0017262
+26016	26052	GO:0010467	gene expression	Gene Expression	C0017262
+26548	26583	GO:1902698	acidogenesis		C3823112
+26623	26638	GO:0010467	gene expression	Gene Expression	C0017262
+27085	27088	GO:0097194	apoptosis	Apoptosis	C0162638

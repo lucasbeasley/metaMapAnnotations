@@ -1,0 +1,592 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+33	44	GO:0032502	development	Biologic Development	C0678723
+49	78	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+211	226	GO:0010467	gene expression	Gene Expression	C0017262
+293	337	GO:0007567	parturition	Birth	C0005615
+293	337	GO:0000003	reproduction	Reproduction	C0035150
+421	432	GO:0032502	development	Biologic Development	C0678723
+604	636	GO:0048468	cell development	Cell development	C0815089
+688	700	GO:0009790	embryo development	Embryonic Development	C0013936
+797	860	GO:0009058	anabolism	Anabolism	C0220781
+861	912	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+913	938	GO:0009790	embryo development	Embryonic Development	C0013936
+1034	1046	GO:0000805	X chromosome	X Chromosome	C0043292
+1195	1240	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+1355	1366	GO:0032502	development	Biologic Development	C0678723
+1426	1467	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+1556	1565	GO:0000785	chromatin	chromatin location	C1325550
+1612	1634	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+1677	1692	GO:0010467	gene expression	Gene Expression	C0017262
+1694	1721	GO:0007567	parturition	Birth	C0005615
+1694	1721	GO:0000003	reproduction	Reproduction	C0035150
+1755	1767	GO:0000805	X chromosome	X Chromosome	C0043292
+1915	1926	GO:0032502	development	Biologic Development	C0678723
+2038	2042	GO:0005623	cell	Cells	C0007634
+2098	2121	GO:0007567	parturition	Birth	C0005615
+2098	2121	GO:0000003	reproduction	Reproduction	C0035150
+2221	2232	GO:0032502	development	Biologic Development	C0678723
+2333	2345	GO:0000805	X chromosome	X Chromosome	C0043292
+2432	2444	GO:0000805	X chromosome	X Chromosome	C0043292
+2679	2719	GO:0007567	parturition	Birth	C0005615
+2679	2719	GO:0000003	reproduction	Reproduction	C0035150
+2769	2815	GO:0000805	X chromosome	X Chromosome	C0043292
+3049	3120	GO:0010467	gene expression	Gene Expression	C0017262
+3163	3169	GO:0001524	globin	globin activity	C1149093
+3180	3211	GO:0016234	inclusion body	Inclusion Bodies	C0007637
+3237	3241	GO:0005623	cell	Cells	C0007634
+3282	3307	GO:0016234	inclusion body	Inclusion Bodies	C0007637
+3364	3400	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+3425	3481	GO:0009048	chromosome inactivation		C1621908
+3543	3573	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+3680	3689	GO:0007567	parturition	Birth	C0005615
+3680	3689	GO:0000003	reproduction	Reproduction	C0035150
+3755	3765	GO:0005694	chromosome	Chromosomes	C0008633
+3778	3787	GO:0007567	parturition	Birth	C0005615
+3778	3787	GO:0000003	reproduction	Reproduction	C0035150
+4187	4222	GO:0007567	parturition	Birth	C0005615
+4187	4222	GO:0000003	reproduction	Reproduction	C0035150
+4253	4265	GO:0000805	X chromosome	X Chromosome	C0043292
+4407	4443	GO:0007567	parturition	Birth	C0005615
+4407	4443	GO:0000003	reproduction	Reproduction	C0035150
+4599	4608	GO:0000785	chromatin	chromatin location	C1325550
+4632	4676	GO:0006338	chromatin remodeling		C1156210
+4645	4654	GO:0000785	chromatin	chromatin location	C1325550
+4853	4868	GO:0000792	heterochromatin	Heterochromatin	C0019397
+4880	4930	GO:1990251	nuclear body	Intranuclear body	C0230595
+5026	5041	GO:0006306	DNA methylation	DNA Methylation	C0376452
+5085	5100	GO:0010467	gene expression	Gene Expression	C0017262
+5119	5150	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+5221	5270	GO:0006338	chromatin remodeling		C1156210
+5295	5308	GO:0006351	transcription	Transcription, Genetic	C0040649
+5421	5427	GO:0001524	globin	globin activity	C1149093
+5441	5498	GO:0006355	transcriptional control	Transcriptional Regulation	C1158770
+5594	5605	GO:0032502	development	Biologic Development	C0678723
+5660	5671	GO:0032502	development	Biologic Development	C0678723
+5686	5733	GO:0007567	parturition	Birth	C0005615
+5686	5733	GO:0000003	reproduction	Reproduction	C0035150
+5734	5769	GO:0009790	embryo development	Embryonic Development	C0013936
+5785	5789	GO:0005623	cell	Cells	C0007634
+5868	5879	GO:0009790	embryo development	Embryonic Development	C0013936
+5880	5901	GO:0009790	embryo development	Embryonic Development	C0013936
+5929	5933	GO:0005623	cell	Cells	C0007634
+5961	5981	GO:0007567	parturition	Birth	C0005615
+5961	5981	GO:0000003	reproduction	Reproduction	C0035150
+5982	6001	GO:0007567	parturition	Birth	C0005615
+5982	6001	GO:0000003	reproduction	Reproduction	C0035150
+6087	6091	GO:0005623	cell	Cells	C0007634
+6164	6214	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+6234	6238	GO:0005623	cell	Cells	C0007634
+6268	6306	GO:0007567	parturition	Birth	C0005615
+6268	6306	GO:0000003	reproduction	Reproduction	C0035150
+6528	6543	GO:0010467	gene expression	Gene Expression	C0017262
+6659	6670	GO:0016049	cell growth		C0007595
+7277	7281	GO:0005623	cell	Cells	C0007634
+7583	7637	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+8405	8409	GO:0005623	cell	Cells	C0007634
+8458	8464	GO:0040007	growth	Growth	C0018270
+8469	8480	GO:0032259	methylation	Methylation	C0025723
+8504	8508	GO:0005623	cell	Cells	C0007634
+8640	8684	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+8735	8746	GO:0016049	cell growth		C0007595
+8782	8786	GO:0005623	cell	Cells	C0007634
+8947	8951	GO:0005623	cell	Cells	C0007634
+9274	9278	GO:0005623	cell	Cells	C0007634
+9284	9288	GO:0005623	cell	Cells	C0007634
+9538	9542	GO:0005623	cell	Cells	C0007634
+9731	9742	GO:0016049	cell growth		C0007595
+9760	9812	GO:0007049	cell cycle	Cell Cycle	C0007586
+9760	9812	GO:0000278	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+9829	9839	GO:0007049	cell cycle	Cell Cycle	C0007586
+9960	9964	GO:0005623	cell	Cells	C0007634
+9984	9994	GO:0007049	cell cycle	Cell Cycle	C0007586
+9984	9996	GO:0000278	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+10038	10042	GO:0005623	cell	Cells	C0007634
+10209	10213	GO:0005623	cell	Cells	C0007634
+10275	10282	GO:0000278	mitosis	Mitosis	C0026255
+10302	10347	GO:0007049	cell cycle	Cell Cycle	C0007586
+10471	10477	GO:0040007	growth	Growth	C0018270
+10512	10554	GO:0016049	cell growth		C0007595
+10555	10595	GO:0042981	regulation of apoptotic process		C1148568
+10608	10612	GO:0005623	cell	Cells	C0007634
+10656	10689	GO:0097194	apoptosis	Apoptosis	C0162638
+10767	10773	GO:0040007	growth	Growth	C0018270
+10796	10800	GO:0005623	cell	Cells	C0007634
+10840	10850	GO:0007049	cell cycle	Cell Cycle	C0007586
+10840	10878	GO:0000278	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+10860	10896	GO:0010942	positive regulation of cell death	Positive Regulation of Cell Death	C1516338
+10976	10980	GO:0005623	cell	Cells	C0007634
+11000	11043	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+11098	11104	GO:0040007	growth	Growth	C0018270
+11167	11218	GO:0007049	cell cycle	Cell Cycle	C0007586
+11219	11263	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+11283	11336	GO:0007567	parturition	Birth	C0005615
+11283	11336	GO:0000003	reproduction	Reproduction	C0035150
+11383	11398	GO:0006306	DNA methylation	DNA Methylation	C0376452
+11470	11527	GO:0005840	ribosome	Ribosomes	C0035553
+11629	11640	GO:0032259	methylation	Methylation	C0025723
+11689	11733	GO:0044028	DNA hypomethylation	Hypomethylation	C2613367
+11734	11762	GO:0005840	ribosome	Ribosomes	C0035553
+11786	11790	GO:0005623	cell	Cells	C0007634
+11832	11836	GO:0005623	cell	Cells	C0007634
+11948	11957	GO:0005840	ribosome	Ribosomes	C0035553
+12011	12015	GO:0005623	cell	Cells	C0007634
+12049	12095	GO:0005840	ribosome	Ribosomes	C0035553
+12124	12135	GO:0032502	development	Biologic Development	C0678723
+12219	12223	GO:0005623	cell	Cells	C0007634
+12632	12636	GO:0005623	cell	Cells	C0007634
+12648	12659	GO:0032259	methylation	Methylation	C0025723
+12648	12664	GO:0006479	protein methylation	Protein methylation	C1159269
+12837	12852	GO:0006306	DNA methylation	DNA Methylation	C0376452
+12905	12909	GO:0005623	cell	Cells	C0007634
+12913	12960	GO:0009790	embryo development	Embryonic Development	C0013936
+13019	13030	GO:0032502	development	Biologic Development	C0678723
+13139	13143	GO:0005623	cell	Cells	C0007634
+13697	13741	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+13837	13916	GO:0010468	regulation of gene expression	Gene Expression Regulation	C0017263
+13993	14032	GO:0009790	embryo development	Embryonic Development	C0013936
+14132	14187	GO:0007567	parturition	Birth	C0005615
+14132	14187	GO:0000003	reproduction	Reproduction	C0035150
+14250	14263	GO:0006351	transcription	Transcription, Genetic	C0040649
+14268	14299	GO:0006415	translational termination		C1157567
+14348	14405	GO:0048468	cell development	Cell development	C0815089
+14522	14570	GO:0007618	mating		C1260875
+14645	14664	GO:0007567	parturition	Birth	C0005615
+14701	14732	GO:0009790	embryo development	Embryonic Development	C0013936
+14819	14822	GO:0007601	vision	Vision	C0042789
+14836	14843	GO:0009790	embryo development	Embryonic Development	C0013936
+14936	14940	GO:0060417	yolk		C2610566
+14948	14960	GO:0009790	embryo development	Embryonic Development	C0013936
+15308	15335	GO:0009790	embryo development	Embryonic Development	C0013936
+15376	15410	GO:0009790	embryo development	Embryonic Development	C0013936
+15427	15457	GO:0009790	embryo development	Embryonic Development	C0013936
+15578	15607	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+15683	15721	GO:0009790	embryo development	Embryonic Development	C0013936
+15750	15781	GO:0009790	embryo development	Embryonic Development	C0013936
+15802	15809	GO:0042600	chorion	Chorion 	C1384315
+15870	15904	GO:0020010	conoid		C1166649
+16024	16028	GO:0005623	cell	Cells	C0007634
+16064	16072	GO:0016020	membrane	Membrane	C0596901
+16086	16124	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+16196	16211	GO:0000792	heterochromatin	Heterochromatin	C0019397
+16270	16322	GO:0007601	vision	Vision	C0042789
+16392	16410	GO:0007567	parturition	Birth	C0005615
+16392	16410	GO:0000003	reproduction	Reproduction	C0035150
+16427	16465	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+16503	16527	GO:0009790	embryo development	Embryonic Development	C0013936
+16618	16643	GO:0009790	embryo development	Embryonic Development	C0013936
+16728	16764	GO:0009790	embryo development	Embryonic Development	C0013936
+16829	16836	GO:0042600	chorion	Chorion 	C1384315
+16946	16977	GO:0009790	embryo development	Embryonic Development	C0013936
+17006	17013	GO:0009790	embryo development	Embryonic Development	C0013936
+17145	17149	GO:0060417	yolk		C2610566
+17224	17260	GO:0009790	embryo development	Embryonic Development	C0013936
+17559	17580	GO:0009790	embryo development	Embryonic Development	C0013936
+17622	17662	GO:0009790	embryo development	Embryonic Development	C0013936
+17689	17698	GO:0097194	apoptosis	Apoptosis	C0162638
+17712	17757	GO:0009790	embryo development	Embryonic Development	C0013936
+17824	17848	GO:0097194	apoptosis	Apoptosis	C0162638
+17854	17892	GO:0009790	embryo development	Embryonic Development	C0013936
+17893	17913	GO:0009790	embryo development	Embryonic Development	C0013936
+17914	17959	GO:0097194	apoptosis	Apoptosis	C0162638
+17982	18049	GO:0097194	apoptosis	Apoptosis	C0162638
+18065	18069	GO:0005623	cell	Cells	C0007634
+18084	18106	GO:0097194	apoptosis	Apoptosis	C0162638
+18107	18135	GO:0009790	embryo development	Embryonic Development	C0013936
+18221	18225	GO:0005623	cell	Cells	C0007634
+18234	18263	GO:0097194	apoptosis	Apoptosis	C0162638
+18323	18352	GO:0009790	embryo development	Embryonic Development	C0013936
+18394	18465	GO:0009790	embryo development	Embryonic Development	C0013936
+18474	18481	GO:0000278	mitosis	Mitosis	C0026255
+18569	18599	GO:0009790	embryo development	Embryonic Development	C0013936
+18626	18630	GO:0005623	cell	Cells	C0007634
+18632	18660	GO:0009790	embryo development	Embryonic Development	C0013936
+18632	18660	GO:0009790	embryo development	Embryonic Development	C0013936
+18913	18922	GO:0097194	apoptosis	Apoptosis	C0162638
+18935	18941	GO:0040007	growth	Growth	C0018270
+18982	18986	GO:0005623	cell	Cells	C0007634
+19001	19037	GO:0009790	embryo development	Embryonic Development	C0013936
+19066	19070	GO:0005623	cell	Cells	C0007634
+19086	19117	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19201	19220	GO:0009790	embryo development	Embryonic Development	C0013936
+19249	19253	GO:0005623	cell	Cells	C0007634
+19400	19409	GO:0007601	vision	Vision	C0042789
+19413	19454	GO:0009790	embryo development	Embryonic Development	C0013936
+19456	19498	GO:0009790	embryo development	Embryonic Development	C0013936
+19559	19591	GO:0009790	embryo development	Embryonic Development	C0013936
+19686	19693	GO:0009790	embryo development	Embryonic Development	C0013936
+19780	19807	GO:0009790	embryo development	Embryonic Development	C0013936
+19847	19880	GO:0020010	conoid		C1166649
+19984	20000	GO:0009790	embryo development	Embryonic Development	C0013936
+20084	20127	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+20158	20162	GO:0005623	cell	Cells	C0007634
+20194	20221	GO:0009790	embryo development	Embryonic Development	C0013936
+20269	20273	GO:0005623	cell	Cells	C0007634
+20287	20309	GO:0007566	embryo implantation	Blastocyst Implantation, natural	C0029976
+20364	20368	GO:0005623	cell	Cells	C0007634
+20374	20417	GO:0007566	embryo implantation	Blastocyst Implantation, natural	C0029976
+20429	20445	GO:0009790	embryo development	Embryonic Development	C0013936
+20548	20622	GO:0009790	embryo development	Embryonic Development	C0013936
+20623	20661	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+20789	20793	GO:0005623	cell	Cells	C0007634
+20807	20832	GO:0009790	embryo development	Embryonic Development	C0013936
+20976	21001	GO:0020010	conoid		C1166649
+21074	21078	GO:0005623	cell	Cells	C0007634
+21152	21227	GO:0001829	trophectodermal cell differentiation		C1326118
+21631	21662	GO:0035188	hatching		C0598016
+21692	21696	GO:0005623	cell	Cells	C0007634
+21727	21731	GO:0005623	cell	Cells	C0007634
+22127	22131	GO:0005623	cell	Cells	C0007634
+22247	22259	GO:0007369	gastrulation	Gastrulation	C0259902
+22334	22375	GO:0009058	anabolism	Anabolism	C0220781
+22426	22488	GO:0009790	embryo development	Embryonic Development	C0013936
+22886	22904	GO:0007567	parturition	Birth	C0005615
+23067	23105	GO:0009790	embryo development	Embryonic Development	C0013936
+23192	23233	GO:0007610	behavior	Behavior	C0004927
+23265	23307	GO:0009790	embryo development	Embryonic Development	C0013936
+23436	23461	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+23595	23649	GO:0060817	inactivation of paternal X chromosome		C2753045
+23674	23698	GO:0009790	embryo development	Embryonic Development	C0013936
+23730	23734	GO:0005623	cell	Cells	C0007634
+23759	23773	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+23862	23893	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+24326	24402	GO:0009790	embryo development	Embryonic Development	C0013936
+24394	24401	GO:0009790	embryo development	Embryonic Development	C0013936
+24815	24847	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+24848	24899	GO:0009790	embryo development	Embryonic Development	C0013936
+24985	24989	GO:0005623	cell	Cells	C0007634
+25006	25013	GO:0009790	embryo development	Embryonic Development	C0013936
+25022	25057	GO:0009790	embryo development	Embryonic Development	C0013936
+25084	25129	GO:0009790	embryo development	Embryonic Development	C0013936
+25190	25194	GO:0005623	cell	Cells	C0007634
+25272	25276	GO:0005623	cell	Cells	C0007634
+25351	25364	GO:0007567	parturition	Birth	C0005615
+25351	25364	GO:0000003	reproduction	Reproduction	C0035150
+25365	25408	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+25572	25579	GO:0042600	chorion	Chorion 	C1384315
+25652	25656	GO:0005623	cell	Cells	C0007634
+25878	25885	GO:0042600	chorion	Chorion 	C1384315
+25955	25976	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+26053	26063	GO:0005694	chromosome	Chromosomes	C0008633
+26073	26167	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+26235	26246	GO:0032502	development	Biologic Development	C0678723
+26342	26346	GO:0005623	cell	Cells	C0007634
+26373	26406	GO:0009790	embryo development	Embryonic Development	C0013936
+26419	26423	GO:0005623	cell	Cells	C0007634
+26438	26442	GO:0005623	cell	Cells	C0007634
+26639	26643	GO:0005623	cell	Cells	C0007634
+26697	26703	GO:0040007	growth	Growth	C0018270
+26729	26733	GO:0005623	cell	Cells	C0007634
+26833	26837	GO:0005623	cell	Cells	C0007634
+26889	26898	GO:0097194	apoptosis	Apoptosis	C0162638
+26939	26943	GO:0005623	cell	Cells	C0007634
+26977	27020	GO:0009790	embryo development	Embryonic Development	C0013936
+27097	27174	GO:0097194	apoptosis	Apoptosis	C0162638
+27451	27482	GO:0042981	regulation of apoptotic process		C1148568
+27673	27677	GO:0005623	cell	Cells	C0007634
+27696	27722	GO:0043065	positive regulation of apoptosis	Positive Regulation of Apoptosis	C1326205
+27792	27796	GO:0005623	cell	Cells	C0007634
+27839	27848	GO:0097194	apoptosis	Apoptosis	C0162638
+27929	27953	GO:0048468	terminal differentiation		C2752630
+27987	27998	GO:0032502	development	Biologic Development	C0678723
+28076	28083	GO:0009790	embryo development	Embryonic Development	C0013936
+28121	28137	GO:0009790	embryo development	Embryonic Development	C0013936
+28224	28266	GO:0009790	embryo development	Embryonic Development	C0013936
+28293	28320	GO:0009790	embryo development	Embryonic Development	C0013936
+28346	28357	GO:0032502	development	Biologic Development	C0678723
+28456	28506	GO:0020010	conoid		C1166649
+28540	28544	GO:0005623	cell	Cells	C0007634
+28578	28592	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+28606	28610	GO:0005623	cell	Cells	C0007634
+28722	28726	GO:0005623	cell	Cells	C0007634
+28771	28775	GO:0005623	cell	Cells	C0007634
+28882	28921	GO:0007566	embryo implantation	Blastocyst Implantation, natural	C0029976
+28922	28947	GO:0032940	secretion by cell	Cell secretion	C1327616
+28981	28987	GO:0040007	growth	Growth	C0018270
+29000	29016	GO:0009790	embryo development	Embryonic Development	C0013936
+29120	29131	GO:0032502	development	Biologic Development	C0678723
+29134	29161	GO:0009790	embryo development	Embryonic Development	C0013936
+29439	29465	GO:0007567	parturition	Birth	C0005615
+29631	29661	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+29964	30015	GO:0016887	adenosinetriphosphatase activity		C1148926
+30478	30506	GO:0009790	embryo development	Embryonic Development	C0013936
+30559	30613	GO:0009888	histogenesis	Histogenic Process	C0178679
+30658	30707	GO:0009790	embryo development	Embryonic Development	C0013936
+30869	30892	GO:0009790	embryo development	Embryonic Development	C0013936
+31005	31016	GO:0032502	development	Biologic Development	C0678723
+31259	31304	GO:0030182	neuron differentiation		C1159970
+31259	31304	GO:0022008	neural cell differentiation		C2755962
+31380	31391	GO:0032502	development	Biologic Development	C0678723
+31437	31512	GO:0044297	cell body		C2752549
+31590	31594	GO:0005623	cell	Cells	C0007634
+31681	31713	GO:0007567	parturition	Birth	C0005615
+31681	31713	GO:0000003	reproduction	Reproduction	C0035150
+31744	31782	GO:0007566	embryo implantation	Blastocyst Implantation, natural	C0029976
+31954	31965	GO:0032502	development	Biologic Development	C0678723
+31967	31986	GO:0009790	embryo development	Embryonic Development	C0013936
+31996	32016	GO:0009790	embryo development	Embryonic Development	C0013936
+32099	32103	GO:0005623	cell	Cells	C0007634
+32131	32135	GO:0005623	cell	Cells	C0007634
+32183	32202	GO:0009790	embryo development	Embryonic Development	C0013936
+32335	32383	GO:0007566	embryo implantation	Blastocyst Implantation, natural	C0029976
+32432	32451	GO:0009790	embryo development	Embryonic Development	C0013936
+32487	32529	GO:0009790	embryo development	Embryonic Development	C0013936
+32596	32666	GO:0000988	transcription factor activity		C1148759
+32729	32760	GO:0009790	embryo development	Embryonic Development	C0013936
+32766	32791	GO:0009790	embryo development	Embryonic Development	C0013936
+32817	32866	GO:0020010	conoid		C1166649
+33053	33084	GO:0006949	syncytium formation		C1159455
+33176	33200	GO:0048468	terminal differentiation		C2752630
+33251	33255	GO:0005623	cell	Cells	C0007634
+33285	33310	GO:0020010	conoid		C1166649
+33421	33434	GO:0006351	transcription	Transcription, Genetic	C0040649
+33460	33469	GO:0000785	chromatin	chromatin location	C1325550
+33657	33670	GO:0006351	transcription	Transcription, Genetic	C0040649
+33907	33957	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+34021	34088	GO:0010467	gene expression	Gene Expression	C0017262
+34089	34132	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+34158	34164	GO:0001524	globin	globin activity	C1149093
+34191	34228	GO:0006355	transcriptional control	Transcriptional Regulation	C1158770
+34290	34314	GO:0048468	terminal differentiation		C2752630
+34346	34432	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+34484	34510	GO:0009790	embryo development	Embryonic Development	C0013936
+34566	34606	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+34633	34709	GO:0000805	X chromosome	X Chromosome	C0043292
+34855	34865	GO:0005694	chromosome	Chromosomes	C0008633
+35245	35256	GO:0032502	development	Biologic Development	C0678723
+35397	35457	GO:0007601	vision	Vision	C0042789
+35618	35643	GO:0007567	parturition	Birth	C0005615
+35618	35643	GO:0000003	reproduction	Reproduction	C0035150
+35650	35690	GO:0009790	embryo development	Embryonic Development	C0013936
+35775	35799	GO:0007567	parturition	Birth	C0005615
+35775	35799	GO:0000003	reproduction	Reproduction	C0035150
+35828	35840	GO:0000805	X chromosome	X Chromosome	C0043292
+35912	35922	GO:0005694	chromosome	Chromosomes	C0008633
+35951	35962	GO:0007567	parturition	Birth	C0005615
+35951	35962	GO:0000003	reproduction	Reproduction	C0035150
+35987	35998	GO:0016049	cell growth		C0007595
+36064	36068	GO:0005623	cell	Cells	C0007634
+36139	36151	GO:0000805	X chromosome	X Chromosome	C0043292
+36313	36334	GO:0007567	parturition	Birth	C0005615
+36313	36334	GO:0000003	reproduction	Reproduction	C0035150
+36335	36361	GO:0016458	gene silencing	Gene Silencing	C0598496
+36474	36484	GO:0005694	chromosome	Chromosomes	C0008633
+36651	36655	GO:0005623	cell	Cells	C0007634
+36713	36789	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+37015	37044	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+37134	37138	GO:0005623	cell	Cells	C0007634
+37200	37212	GO:0000805	X chromosome	X Chromosome	C0043292
+37257	37261	GO:0005623	cell	Cells	C0007634
+37350	37360	GO:0005694	chromosome	Chromosomes	C0008633
+37571	37575	GO:0005623	cell	Cells	C0007634
+37647	37651	GO:0005623	cell	Cells	C0007634
+37701	37718	GO:0006260	DNA replication	DNA Replication	C0598312
+37809	37835	GO:0009790	embryo development	Embryonic Development	C0013936
+37840	37844	GO:0005623	cell	Cells	C0007634
+37887	37897	GO:0005694	chromosome	Chromosomes	C0008633
+37953	37957	GO:0005623	cell	Cells	C0007634
+38028	38039	GO:0016049	cell growth		C0007595
+38043	38059	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+38198	38240	GO:0009790	embryo development	Embryonic Development	C0013936
+38326	38359	GO:0007567	parturition	Birth	C0005615
+38326	38359	GO:0000003	reproduction	Reproduction	C0035150
+38396	38407	GO:0032502	development	Biologic Development	C0678723
+38489	38493	GO:0005623	cell	Cells	C0007634
+38785	38820	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+38846	38850	GO:0005623	cell	Cells	C0007634
+38870	38907	GO:0007567	parturition	Birth	C0005615
+39061	39101	GO:0007567	parturition	Birth	C0005615
+39143	39192	GO:0009048	chromosome inactivation		C1621908
+39200	39265	GO:0009790	embryo development	Embryonic Development	C0013936
+39319	39350	GO:0007567	parturition	Birth	C0005615
+39319	39350	GO:0000003	reproduction	Reproduction	C0035150
+39383	39417	GO:0006338	chromatin remodeling		C1156210
+39464	39479	GO:0010467	gene expression	Gene Expression	C0017262
+39505	39509	GO:0005623	cell	Cells	C0007634
+39684	39695	GO:0032502	development	Biologic Development	C0678723
+39980	40024	GO:0007567	parturition	Birth	C0005615
+39980	40024	GO:0000003	reproduction	Reproduction	C0035150
+40032	40068	GO:0009790	embryo development	Embryonic Development	C0013936
+40106	40149	GO:0009058	anabolism	Anabolism	C0220781
+40186	40280	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+40322	40326	GO:0005623	cell	Cells	C0007634
+40449	40522	GO:0007567	parturition	Birth	C0005615
+40449	40522	GO:0000003	reproduction	Reproduction	C0035150
+40618	40621	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+40666	40670	GO:0005623	cell	Cells	C0007634
+41333	41350	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+41387	41391	GO:0005623	cell	Cells	C0007634
+41418	41422	GO:0005623	cell	Cells	C0007634
+41467	41471	GO:0005623	cell	Cells	C0007634
+41511	41514	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+41599	41603	GO:0005623	cell	Cells	C0007634
+42046	42049	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+42180	42216	GO:0007567	parturition	Birth	C0005615
+42180	42216	GO:0000003	reproduction	Reproduction	C0035150
+42298	42306	GO:0016020	membrane	Membrane	C0596901
+42511	42554	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+42573	42583	GO:0007049	cell cycle	Cell Cycle	C0007586
+42573	42595	GO:0000278	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+42588	42597	GO:0097194	apoptosis	Apoptosis	C0162638
+42628	42639	GO:0032259	methylation	Methylation	C0025723
+42628	42647	GO:0006479	protein methylation	Protein methylation	C1159269
+42676	42680	GO:0005623	cell	Cells	C0007634
+42712	42759	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+42820	42831	GO:0032259	methylation	Methylation	C0025723
+43364	43399	GO:0007567	parturition	Birth	C0005615
+43364	43399	GO:0000003	reproduction	Reproduction	C0035150
+43641	43645	GO:0005623	cell	Cells	C0007634
+43795	43813	GO:0007618	mating		C1260875
+44004	44026	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+44288	44314	GO:0070267	oncosis	Oncosis	C1709317
+44420	44433	GO:0009790	embryo development	Embryonic Development	C0013936
+44775	44816	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+45190	45214	GO:0097194	apoptosis	Apoptosis	C0162638
+45233	45243	GO:0008219	cell death	Cell Death	C0007587
+45505	45533	GO:0009790	embryo development	Embryonic Development	C0013936
+45629	45672	GO:0007566	embryo implantation	Blastocyst Implantation, natural	C0029976
+45673	45691	GO:0009790	embryo development	Embryonic Development	C0013936
+45766	45769	GO:0007601	vision	Vision	C0042789
+45887	45937	GO:0007618	mating		C1260875
+46390	46400	GO:0007049	cell cycle	Cell Cycle	C0007586
+46390	46426	GO:0000278	mitotic cell cycle	Mitotic Cell Cycle	C1155839
+46443	46447	GO:0005623	cell	Cells	C0007634
+46501	46505	GO:0005623	cell	Cells	C0007634
+46719	46723	GO:0005623	cell	Cells	C0007634
+46820	46845	GO:0022403	cell cycle phase	Cell Cycle Phase	C1516337
+46929	46933	GO:0005623	cell	Cells	C0007634
+46949	46988	GO:0022403	cell cycle phase	Cell Cycle Phase	C1516337
+47014	47018	GO:0005623	cell	Cells	C0007634
+47126	47133	GO:0000278	mitosis	Mitosis	C0026255
+47370	47374	GO:0005623	cell	Cells	C0007634
+47494	47503	GO:0097194	apoptosis	Apoptosis	C0162638
+47537	47541	GO:0005623	cell	Cells	C0007634
+47564	47568	GO:0005623	cell	Cells	C0007634
+47726	47757	GO:0097194	apoptosis	Apoptosis	C0162638
+47788	47802	GO:0097194	apoptosis	Apoptosis	C0162638
+47806	47814	GO:0070265	necrosis	Necrosis	C0027540
+47955	47970	GO:0006306	DNA methylation	DNA Methylation	C0376452
+48015	48019	GO:0005623	cell	Cells	C0007634
+48147	48151	GO:0005623	cell	Cells	C0007634
+48184	48195	GO:0032259	methylation	Methylation	C0025723
+48230	48241	GO:0032259	methylation	Methylation	C0025723
+48230	48275	GO:0006479	protein methylation	Protein methylation	C1159269
+48342	48350	GO:0016020	membrane	Membrane	C0596901
+48505	48516	GO:0032259	methylation	Methylation	C0025723
+48505	48543	GO:0006479	protein methylation	Protein methylation	C1159269
+48581	48585	GO:0005623	cell	Cells	C0007634
+48622	48633	GO:0032259	methylation	Methylation	C0025723
+48622	48668	GO:0006479	protein methylation	Protein methylation	C1159269
+48647	48651	GO:0005623	cell	Cells	C0007634
+48733	48755	GO:0009008	DNA methylase	DNA methylase activity	C1621907
+48828	48839	GO:0032259	methylation	Methylation	C0025723
+48828	48851	GO:0006479	protein methylation	Protein methylation	C1159269
+48899	48903	GO:0005623	cell	Cells	C0007634
+49010	49042	GO:0009790	embryo development	Embryonic Development	C0013936
+49142	49149	GO:0009790	embryo development	Embryonic Development	C0013936
+49274	49284	GO:0005694	chromosome	Chromosomes	C0008633
+49318	49328	GO:0005694	chromosome	Chromosomes	C0008633
+49364	49399	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+49477	49484	GO:0009790	embryo development	Embryonic Development	C0013936
+49527	49534	GO:0009790	embryo development	Embryonic Development	C0013936
+49615	49619	GO:0005623	cell	Cells	C0007634
+49739	49757	GO:0009790	embryo development	Embryonic Development	C0013936
+49810	49817	GO:0042600	chorion	Chorion 	C1384315
+49887	49912	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297
+50053	50084	GO:0007601	vision	Vision	C0042789
+50623	50628	GO:0007567	parturition	Birth	C0005615
+50623	50628	GO:0000003	reproduction	Reproduction	C0035150
+51130	51134	GO:0005623	cell	Cells	C0007634
+51331	51349	GO:0009790	embryo development	Embryonic Development	C0013936
+51418	51422	GO:0005623	cell	Cells	C0007634
+51481	51501	GO:0005840	ribosome	Ribosomes	C0035553
+51527	51531	GO:0005623	cell	Cells	C0007634
+51803	51838	GO:0008380	RNA splicing	RNA Splicing	C0035687
+51803	51838	GO:0045292	nuclear mRNA cis splicing, via spliceosome		C2610186
+52435	52445	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+52482	52498	GO:1902698	acidogenesis		C3823112
+52566	52570	GO:0005623	cell	Cells	C0007634
+52577	52636	GO:0007567	parturition	Birth	C0005615
+52577	52636	GO:0000003	reproduction	Reproduction	C0035150
+52792	52832	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+52912	52951	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+53125	53165	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+53322	53334	GO:0000805	X chromosome	X Chromosome	C0043292
+53497	53501	GO:0005623	cell	Cells	C0007634
+53524	53528	GO:0005623	cell	Cells	C0007634
+53878	53882	GO:0005623	cell	Cells	C0007634
+53905	53909	GO:0005623	cell	Cells	C0007634
+54038	54046	GO:0016020	membrane	Membrane	C0596901
+54248	54252	GO:0005623	cell	Cells	C0007634
+54272	54280	GO:0016020	membrane	Membrane	C0596901
+54313	54342	GO:0007567	parturition	Birth	C0005615
+54313	54342	GO:0000003	reproduction	Reproduction	C0035150
+54582	54586	GO:0005623	cell	Cells	C0007634
+54631	54663	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+54812	54818	GO:0040007	growth	Growth	C0018270
+54823	54834	GO:0032259	methylation	Methylation	C0025723
+54924	54928	GO:0005623	cell	Cells	C0007634
+55073	55077	GO:0005623	cell	Cells	C0007634
+55173	55181	GO:0016020	membrane	Membrane	C0596901
+55396	55405	GO:0007567	parturition	Birth	C0005615
+55396	55405	GO:0000003	reproduction	Reproduction	C0035150
+55626	55637	GO:0032259	methylation	Methylation	C0025723
+55685	55696	GO:0032259	methylation	Methylation	C0025723
+55685	55709	GO:0006479	protein methylation	Protein methylation	C1159269
+55895	55899	GO:0005623	cell	Cells	C0007634
+56040	56067	GO:0032259	methylation	Methylation	C0025723
+56040	56067	GO:0006479	protein methylation	Protein methylation	C1159269
+56237	56248	GO:0032259	methylation	Methylation	C0025723
+56684	56691	GO:0009790	embryo development	Embryonic Development	C0013936
+56723	56727	GO:0005623	cell	Cells	C0007634
+56859	56863	GO:0005623	cell	Cells	C0007634
+56865	56884	GO:0009790	embryo development	Embryonic Development	C0013936
+56960	56970	GO:0009790	embryo development	Embryonic Development	C0013936
+57143	57179	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+57230	57279	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+57390	57409	GO:0009790	embryo development	Embryonic Development	C0013936
+57486	57498	GO:0000806	Y chromosome	Y Chromosome	C0043381
+57537	57567	GO:0009790	embryo development	Embryonic Development	C0013936
+57626	57650	GO:0009790	embryo development	Embryonic Development	C0013936
+57716	57745	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+57992	57999	GO:0042600	chorion	Chorion 	C1384315
+58069	58087	GO:0020010	conoid		C1166649
+58125	58133	GO:0016020	membrane	Membrane	C0596901
+58158	58162	GO:0005623	cell	Cells	C0007634
+58192	58233	GO:0009790	embryo development	Embryonic Development	C0013936
+58348	58352	GO:0060417	yolk		C2610566
+58441	58450	GO:0097194	apoptosis	Apoptosis	C0162638
+58455	58462	GO:0000278	mitosis	Mitosis	C0026255
+58522	58546	GO:0009790	embryo development	Embryonic Development	C0013936
+58610	58625	GO:0097194	apoptosis	Apoptosis	C0162638
+58737	58761	GO:0009790	embryo development	Embryonic Development	C0013936
+58767	58791	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+58804	58811	GO:0000278	mitosis	Mitosis	C0026255
+58956	58970	GO:0009790	embryo development	Embryonic Development	C0013936
+59016	59043	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+59098	59138	GO:0009790	embryo development	Embryonic Development	C0013936
+59144	59159	GO:0009790	embryo development	Embryonic Development	C0013936
+59308	59336	GO:0009790	embryo development	Embryonic Development	C0013936
+59663	59728	GO:0009790	embryo development	Embryonic Development	C0013936
+59768	59819	GO:0020010	conoid		C1166649
+59879	59924	GO:0007566	embryo implantation	Blastocyst Implantation, natural	C0029976
+60010	60018	GO:0009790	embryo development	Embryonic Development	C0013936
+60064	60093	GO:0009790	embryo development	Embryonic Development	C0013936
+60161	60185	GO:0009790	embryo development	Embryonic Development	C0013936
+60221	60256	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+60289	60303	GO:0009790	embryo development	Embryonic Development	C0013936
+60349	60376	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+60520	60524	GO:0005623	cell	Cells	C0007634
+60828	60843	GO:0009790	embryo development	Embryonic Development	C0013936
+60879	60914	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+61035	61054	GO:0009790	embryo development	Embryonic Development	C0013936
+61085	61092	GO:0042600	chorion	Chorion 	C1384315
+61111	61130	GO:0020010	conoid		C1166649
+61306	61313	GO:0042600	chorion	Chorion 	C1384315
+61367	61374	GO:0042600	chorion	Chorion 	C1384315
+61391	61398	GO:0042600	chorion	Chorion 	C1384315
+61452	61468	GO:0009291	unidirectional conjugation		C1160186
+61452	61468	GO:0007618	mating		C1260875
+61452	61468	GO:0000747	conjugation with cellular fusion		C1748461
+61452	61468	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+62051	62062	GO:0032502	development	Biologic Development	C0678723
+62067	62096	GO:0009048	dosage compensation by inactivation of X chromosome	X Chromosome Inactivation function	C0043297

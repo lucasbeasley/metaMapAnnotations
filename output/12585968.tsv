@@ -1,0 +1,359 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+50	59	GO:0051235	retention	cellular entity retention	C1753315
+157	177	GO:0009289	pilus	Bacterial Fimbria	C0031921
+238	247	GO:0097194	apoptosis	Apoptosis	C0162638
+261	299	GO:0060117	auditory receptor cell development		C2262876
+306	344	GO:0043121	neurotrophin binding		C1323315
+356	402	GO:0007600	sensory perception	Esthesia	C0036658
+467	478	GO:0060384	innervation	innervation aspect	C1619351
+479	520	GO:0043121	neurotrophin binding		C1323315
+531	539	GO:0007567	parturition	Birth	C0005615
+582	618	GO:0007600	sensory perception	Esthesia	C0036658
+704	732	GO:0043121	neurotrophin binding		C1323315
+762	773	GO:0060384	innervation	innervation aspect	C1619351
+833	879	GO:0070451	cell hair		C2678510
+941	974	GO:0070451	cell hair		C2678510
+975	1024	GO:0007600	sensory perception	Esthesia	C0036658
+1025	1063	GO:0070451	cell hair		C2678510
+1106	1131	GO:0007600	sensory perception	Esthesia	C0036658
+1216	1263	GO:0007600	sensory perception	Esthesia	C0036658
+1268	1298	GO:0097683	dinoflagellate apex		C3890171
+1311	1339	GO:0009289	pilus	Bacterial Fimbria	C0031921
+1428	1454	GO:0009289	pilus	Bacterial Fimbria	C0031921
+1516	1555	GO:0043121	neurotrophin binding		C1323315
+1610	1631	GO:0007600	sensory perception	Esthesia	C0036658
+1667	1673	GO:0007567	parturition	Birth	C0005615
+1674	1745	GO:0043524	neuron survival		C1819944
+1774	1789	GO:0043583	ear development		C1656421
+1807	1818	GO:0009289	pilus	Bacterial Fimbria	C0031921
+1832	1843	GO:0060384	innervation	innervation aspect	C1619351
+1858	1869	GO:0060384	innervation	innervation aspect	C1619351
+1920	1964	GO:0060119	inner ear receptor cell development		C2262878
+1998	2018	GO:0032502	development	Biologic Development	C0678723
+2062	2088	GO:0009289	pilus	Bacterial Fimbria	C0031921
+2128	2132	GO:0005623	cell	Cells	C0007634
+2218	2265	GO:0070451	cell hair		C2678510
+2274	2283	GO:0097194	apoptosis	Apoptosis	C0162638
+2301	2358	GO:0032502	development	Biologic Development	C0678723
+2427	2431	GO:0005623	cell	Cells	C0007634
+2789	2800	GO:0060384	innervation	innervation aspect	C1619351
+2837	2848	GO:0032502	development	Biologic Development	C0678723
+2853	2890	GO:0035315	hair cell differentiation		C1622762
+2923	2959	GO:0043121	neurotrophin binding		C1323315
+2969	2973	GO:0005623	cell	Cells	C0007634
+2986	3031	GO:0007600	sensory perception	Esthesia	C0036658
+3071	3105	GO:0043121	neurotrophin binding		C1323315
+3122	3157	GO:0043121	neurotrophin binding		C1323315
+3164	3215	GO:0007600	sensory perception	Esthesia	C0036658
+3216	3236	GO:0009790	embryo development	Embryonic Development	C0013936
+3311	3347	GO:0043121	neurotrophin binding		C1323315
+3348	3371	GO:0009289	pilus	Bacterial Fimbria	C0031921
+3400	3420	GO:0009790	embryo development	Embryonic Development	C0013936
+3458	3462	GO:0005623	cell	Cells	C0007634
+3472	3489	GO:0007567	parturition	Birth	C0005615
+3490	3505	GO:0009289	pilus	Bacterial Fimbria	C0031921
+3558	3594	GO:0007600	sensory perception	Esthesia	C0036658
+3737	3777	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+3830	3845	GO:0043121	neurotrophin binding		C1323315
+3991	4002	GO:0060384	innervation	innervation aspect	C1619351
+4089	4155	GO:0007600	sensory perception	Esthesia	C0036658
+4160	4194	GO:0043121	neurotrophin binding		C1323315
+4198	4228	GO:0070451	cell hair		C2678510
+4229	4237	GO:0007567	parturition	Birth	C0005615
+4345	4372	GO:0007567	parturition	Birth	C0005615
+4345	4372	GO:0000003	reproduction	Reproduction	C0035150
+4412	4421	GO:0051235	retention	cellular entity retention	C1753315
+4473	4508	GO:0097683	dinoflagellate apex		C3890171
+4541	4550	GO:0051235	retention	cellular entity retention	C1753315
+4594	4619	GO:0035315	hair cell differentiation		C1622762
+4623	4651	GO:0009289	pilus	Bacterial Fimbria	C0031921
+4760	4769	GO:0051235	retention	cellular entity retention	C1753315
+4798	4837	GO:0043121	neurotrophin binding		C1323315
+5008	5019	GO:0060384	innervation	innervation aspect	C1619351
+5070	5098	GO:0007567	parturition	Birth	C0005615
+5161	5172	GO:0060384	innervation	innervation aspect	C1619351
+5219	5230	GO:0060384	innervation	innervation aspect	C1619351
+5384	5455	GO:0009058	anabolism	Anabolism	C0220781
+5554	5606	GO:0032902	nerve growth factor production		C2246239
+5657	5668	GO:0043005	nerve fiber	Nerve Fibers	C0027749
+5676	5703	GO:0007567	parturition	Birth	C0005615
+6026	6072	GO:0007600	sensory perception	Esthesia	C0036658
+6108	6148	GO:0007600	sensory perception	Esthesia	C0036658
+6185	6238	GO:0007600	sensory perception	Esthesia	C0036658
+6290	6317	GO:0009289	pilus	Bacterial Fimbria	C0031921
+6650	6664	GO:0007567	parturition	Birth	C0005615
+6650	6664	GO:0000003	reproduction	Reproduction	C0035150
+6684	6690	GO:0005791	rough endoplasmic reticulum	Rough endoplasmic reticulum	C0230779
+6745	6765	GO:0009289	pilus	Bacterial Fimbria	C0031921
+6772	6787	GO:0009289	pilus	Bacterial Fimbria	C0031921
+6794	6812	GO:0009289	pilus	Bacterial Fimbria	C0031921
+6856	6871	GO:0009289	pilus	Bacterial Fimbria	C0031921
+6942	6950	GO:0016020	membrane	Membrane	C0596901
+6969	6993	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+7121	7173	GO:0007600	sensory perception	Esthesia	C0036658
+7229	7240	GO:0060384	innervation	innervation aspect	C1619351
+7374	7426	GO:0007600	sensory perception	Esthesia	C0036658
+7443	7454	GO:0060384	innervation	innervation aspect	C1619351
+7500	7511	GO:0060384	innervation	innervation aspect	C1619351
+7690	7701	GO:0060384	innervation	innervation aspect	C1619351
+7782	7793	GO:0060384	innervation	innervation aspect	C1619351
+8207	8230	GO:0009289	pilus	Bacterial Fimbria	C0031921
+8462	8498	GO:0007600	sensory perception	Esthesia	C0036658
+8556	8567	GO:0060384	innervation	innervation aspect	C1619351
+8773	8784	GO:0060384	innervation	innervation aspect	C1619351
+8861	8872	GO:0060384	innervation	innervation aspect	C1619351
+8952	8973	GO:0097683	dinoflagellate apex		C3890171
+9016	9027	GO:0060384	innervation	innervation aspect	C1619351
+9120	9167	GO:0043121	neurotrophin binding		C1323315
+9198	9224	GO:0007600	sensory perception	Esthesia	C0036658
+9390	9402	GO:0097683	dinoflagellate apex		C3890171
+9501	9551	GO:0043121	neurotrophin binding		C1323315
+9578	9602	GO:0070451	cell hair		C2678510
+9708	9740	GO:0070451	cell hair		C2678510
+9883	9918	GO:0070451	cell hair		C2678510
+9938	9991	GO:0043711	pilus organization		C2248609
+10087	10098	GO:0060384	innervation	innervation aspect	C1619351
+10279	10290	GO:0060384	innervation	innervation aspect	C1619351
+10437	10448	GO:0060384	innervation	innervation aspect	C1619351
+10496	10507	GO:0060384	innervation	innervation aspect	C1619351
+10553	10585	GO:0007600	sensory perception	Esthesia	C0036658
+10628	10639	GO:0060384	innervation	innervation aspect	C1619351
+10921	10965	GO:0070451	cell hair		C2678510
+10974	10982	GO:0097683	dinoflagellate apex		C3890171
+11037	11068	GO:0070451	cell hair		C2678510
+11073	11110	GO:0009058	anabolism	Anabolism	C0220781
+11111	11152	GO:0070451	cell hair		C2678510
+11401	11412	GO:0060384	innervation	innervation aspect	C1619351
+11437	11461	GO:0070451	cell hair		C2678510
+11501	11512	GO:0060384	innervation	innervation aspect	C1619351
+11578	11614	GO:0070451	cell hair		C2678510
+11689	11700	GO:0060384	innervation	innervation aspect	C1619351
+11834	11842	GO:0097683	dinoflagellate apex		C3890171
+11958	11998	GO:0070451	cell hair		C2678510
+12008	12057	GO:0009058	anabolism	Anabolism	C0220781
+12254	12265	GO:0060384	innervation	innervation aspect	C1619351
+12520	12560	GO:0070451	cell hair		C2678510
+12613	12640	GO:0009289	pilus	Bacterial Fimbria	C0031921
+12641	12674	GO:0097683	dinoflagellate apex		C3890171
+12688	12712	GO:0009289	pilus	Bacterial Fimbria	C0031921
+12717	12764	GO:0070451	cell hair		C2678510
+12844	12935	GO:0070451	cell hair		C2678510
+12936	12947	GO:0043005	nerve fiber	Nerve Fibers	C0027749
+12956	12996	GO:0007600	sensory perception	Esthesia	C0036658
+13064	13107	GO:0007600	sensory perception	Esthesia	C0036658
+13108	13165	GO:0097683	dinoflagellate apex		C3890171
+13340	13371	GO:0070451	cell hair		C2678510
+13393	13422	GO:0044249	cellular biosynthetic process		C1523936
+13493	13497	GO:0005623	cell	Cells	C0007634
+13596	13628	GO:0009289	pilus	Bacterial Fimbria	C0031921
+13644	13648	GO:0005623	cell	Cells	C0007634
+13670	13700	GO:0070451	cell hair		C2678510
+13802	13847	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+13992	14044	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+14045	14069	GO:0070451	cell hair		C2678510
+14080	14114	GO:0070451	cell hair		C2678510
+14157	14185	GO:0009289	pilus	Bacterial Fimbria	C0031921
+14272	14276	GO:0005623	cell	Cells	C0007634
+14326	14364	GO:0009289	pilus	Bacterial Fimbria	C0031921
+14365	14383	GO:0097683	dinoflagellate apex		C3890171
+14398	14441	GO:0035315	hair cell differentiation		C1622762
+14621	14656	GO:0070451	cell hair		C2678510
+14803	14811	GO:0016020	membrane	Membrane	C0596901
+14846	14882	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+14947	14951	GO:0005623	cell	Cells	C0007634
+15011	15032	GO:0070451	cell hair		C2678510
+15037	15067	GO:0007600	sensory perception	Esthesia	C0036658
+15168	15212	GO:0070451	cell hair		C2678510
+15304	15328	GO:0007600	sensory perception	Esthesia	C0036658
+15383	15416	GO:0009289	pilus	Bacterial Fimbria	C0031921
+15461	15501	GO:0033774	basal labyrinth		C2247248
+15506	15552	GO:0007600	sensory perception	Esthesia	C0036658
+15594	15614	GO:0097683	dinoflagellate apex		C3890171
+15635	15692	GO:0070451	cell hair		C2678510
+15731	15771	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+15776	15793	GO:0097683	dinoflagellate apex		C3890171
+15822	15854	GO:0007600	sensory perception	Esthesia	C0036658
+15861	15878	GO:0070451	cell hair		C2678510
+15981	16016	GO:0009289	pilus	Bacterial Fimbria	C0031921
+16034	16056	GO:0007600	sensory perception	Esthesia	C0036658
+16106	16129	GO:0009289	pilus	Bacterial Fimbria	C0031921
+16139	16181	GO:0007600	sensory perception	Esthesia	C0036658
+16226	16275	GO:0007600	sensory perception	Esthesia	C0036658
+16331	16334	GO:0007601	vision	Vision	C0042789
+16390	16419	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+16595	16623	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+16760	16801	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+16883	16919	GO:0009289	pilus	Bacterial Fimbria	C0031921
+17160	17220	GO:0043005	nerve fiber	Nerve Fibers	C0027749
+17300	17349	GO:0000280	nuclear division		C1155789
+17441	17495	GO:0007165	signal transduction	Signal Transduction	C0037083
+17769	17780	GO:0060384	innervation	innervation aspect	C1619351
+17857	17911	GO:0007600	sensory perception	Esthesia	C0036658
+18220	18224	GO:0005623	cell	Cells	C0007634
+18329	18333	GO:0005623	cell	Cells	C0007634
+18356	18389	GO:0070451	cell hair		C2678510
+18432	18443	GO:0060384	innervation	innervation aspect	C1619351
+18582	18614	GO:0007600	sensory perception	Esthesia	C0036658
+18633	18664	GO:0007600	sensory perception	Esthesia	C0036658
+18753	18773	GO:0009289	pilus	Bacterial Fimbria	C0031921
+18834	18850	GO:0097683	dinoflagellate apex		C3890171
+18867	18889	GO:0007600	sensory perception	Esthesia	C0036658
+19087	19096	GO:0097683	dinoflagellate apex		C3890171
+19222	19232	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+19308	19345	GO:0070451	cell hair		C2678510
+19381	19394	GO:0032502	development	Biologic Development	C0678723
+19435	19454	GO:0097683	dinoflagellate apex		C3890171
+19509	19531	GO:0032502	development	Biologic Development	C0678723
+19628	19655	GO:0097683	dinoflagellate apex		C3890171
+19697	19708	GO:0060384	innervation	innervation aspect	C1619351
+19745	19768	GO:0043121	neurotrophin binding		C1323315
+19773	19809	GO:0043121	neurotrophin binding		C1323315
+19844	19856	GO:0007567	parturition	Birth	C0005615
+19889	19921	GO:0043121	neurotrophin binding		C1323315
+20092	20138	GO:0043121	neurotrophin binding		C1323315
+20139	20155	GO:0043121	neurotrophin binding		C1323315
+20250	20270	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+20331	20384	GO:0070451	cell hair		C2678510
+20516	20571	GO:0070451	cell hair		C2678510
+20615	20641	GO:0070451	cell hair		C2678510
+20811	20856	GO:0007600	sensory perception	Esthesia	C0036658
+20961	20974	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+21095	21148	GO:0070451	cell hair		C2678510
+21244	21281	GO:0070451	cell hair		C2678510
+21582	21626	GO:0070451	cell hair		C2678510
+21631	21663	GO:0009289	pilus	Bacterial Fimbria	C0031921
+21812	21892	GO:0007600	sensory perception	Esthesia	C0036658
+22127	22164	GO:0097683	dinoflagellate apex		C3890171
+22349	22382	GO:0097683	dinoflagellate apex		C3890171
+22664	22715	GO:0097683	dinoflagellate apex		C3890171
+22804	22837	GO:0097683	dinoflagellate apex		C3890171
+22868	22919	GO:0070451	cell hair		C2678510
+23023	23062	GO:0043121	neurotrophin binding		C1323315
+23063	23114	GO:0043524	neuron survival		C1819944
+23129	23167	GO:0070451	cell hair		C2678510
+23168	23198	GO:0043121	neurotrophin binding		C1323315
+23276	23318	GO:0035315	hair cell differentiation		C1622762
+23435	23467	GO:0007567	parturition	Birth	C0005615
+23469	23488	GO:0009289	pilus	Bacterial Fimbria	C0031921
+23493	23528	GO:0043121	neurotrophin binding		C1323315
+23566	23583	GO:0043121	neurotrophin binding		C1323315
+23647	23657	GO:0008219	cell death	Cell Death	C0007587
+23671	23720	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+23754	23799	GO:0043121	neurotrophin binding		C1323315
+23869	23902	GO:0007600	sensory perception	Esthesia	C0036658
+23903	23948	GO:0043121	neurotrophin binding		C1323315
+23997	24025	GO:0043121	neurotrophin binding		C1323315
+24145	24194	GO:0007600	sensory perception	Esthesia	C0036658
+24251	24262	GO:0060384	innervation	innervation aspect	C1619351
+24274	24332	GO:0043121	neurotrophin binding		C1323315
+24441	24471	GO:0009790	embryo development	Embryonic Development	C0013936
+24501	24531	GO:0009790	embryo development	Embryonic Development	C0013936
+24566	24601	GO:0043524	neuron survival		C1819944
+24650	24690	GO:0043121	neurotrophin binding		C1323315
+24723	24732	GO:0051235	retention	cellular entity retention	C1753315
+24968	25031	GO:0043121	neurotrophin binding		C1323315
+25047	25081	GO:0007600	sensory perception	Esthesia	C0036658
+25082	25114	GO:0009790	embryo development	Embryonic Development	C0013936
+25136	25169	GO:0043121	neurotrophin binding		C1323315
+25170	25205	GO:0007600	sensory perception	Esthesia	C0036658
+25382	25403	GO:0043121	neurotrophin binding		C1323315
+25427	25449	GO:0007600	sensory perception	Esthesia	C0036658
+25476	25527	GO:0090102	cochlea development		C2755509
+25597	25619	GO:0070451	cell hair		C2678510
+25630	25680	GO:0035315	hair cell differentiation		C1622762
+25749	25778	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+25853	25864	GO:0060384	innervation	innervation aspect	C1619351
+25885	25902	GO:0007567	parturition	Birth	C0005615
+25996	26023	GO:0007600	sensory perception	Esthesia	C0036658
+26035	26046	GO:0060384	innervation	innervation aspect	C1619351
+26069	26087	GO:0007567	parturition	Birth	C0005615
+26350	26398	GO:0097683	dinoflagellate apex		C3890171
+26408	26433	GO:0009790	embryo development	Embryonic Development	C0013936
+26477	26496	GO:0009790	embryo development	Embryonic Development	C0013936
+26543	26547	GO:0005623	cell	Cells	C0007634
+26592	26596	GO:0005623	cell	Cells	C0007634
+26662	26730	GO:0007600	sensory perception	Esthesia	C0036658
+26746	26790	GO:0007600	sensory perception	Esthesia	C0036658
+26794	26832	GO:0035315	hair cell differentiation		C1622762
+26844	26875	GO:0043121	neurotrophin binding		C1323315
+26952	26986	GO:0070451	cell hair		C2678510
+27089	27108	GO:0043121	neurotrophin binding		C1323315
+27154	27185	GO:0097683	dinoflagellate apex		C3890171
+27254	27287	GO:0009058	anabolism	Anabolism	C0220781
+27358	27395	GO:0035315	hair cell differentiation		C1622762
+27409	27477	GO:0043121	neurotrophin binding		C1323315
+27536	27555	GO:0043121	neurotrophin binding		C1323315
+27605	27651	GO:0043121	neurotrophin binding		C1323315
+27936	27953	GO:0007567	parturition	Birth	C0005615
+28032	28088	GO:0097683	dinoflagellate apex		C3890171
+28231	28240	GO:0051235	retention	cellular entity retention	C1753315
+28378	28384	GO:0040007	growth	Growth	C0018270
+28427	28444	GO:0032502	development	Biologic Development	C0678723
+28446	28472	GO:0009058	anabolism	Anabolism	C0220781
+28484	28522	GO:0043005	neurite	Neurites	C0085103
+28557	28603	GO:0097683	dinoflagellate apex		C3890171
+28632	28651	GO:0009289	pilus	Bacterial Fimbria	C0031921
+28701	28751	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+28756	28772	GO:0097683	dinoflagellate apex		C3890171
+28803	28821	GO:0007567	parturition	Birth	C0005615
+28837	28867	GO:0042640	hair growth	Hair growth	C0232407
+28974	28994	GO:0009289	pilus	Bacterial Fimbria	C0031921
+29120	29155	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+29253	29276	GO:0032502	development	Biologic Development	C0678723
+29286	29319	GO:0044249	cellular biosynthetic process		C1523936
+29448	29471	GO:0007219	Notch signaling pathway	Notch Signaling Pathway	C1155452
+29540	29569	GO:0070451	cell hair		C2678510
+29573	29631	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+29632	29668	GO:0032502	development	Biologic Development	C0678723
+29717	29721	GO:0005623	cell	Cells	C0007634
+30686	30693	GO:0007605	hearing	Hearing	C0018767
+30775	30794	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+30857	30926	GO:0009058	anabolism	Anabolism	C0220781
+31015	31026	GO:0060384	innervation	innervation aspect	C1619351
+31161	31164	GO:0007601	vision	Vision	C0042789
+31389	31427	GO:0070451	cell hair		C2678510
+31589	31596	GO:0007605	hearing	Hearing	C0018767
+31667	31674	GO:0007605	hearing	Hearing	C0018767
+31808	31815	GO:0007605	hearing	Hearing	C0018767
+31968	31975	GO:0007605	hearing	Hearing	C0018767
+32059	32074	GO:0043524	neuron survival		C1819944
+32240	32247	GO:0007605	hearing	Hearing	C0018767
+32422	32461	GO:0070451	cell hair		C2678510
+32468	32496	GO:0070451	cell hair		C2678510
+32505	32509	GO:0097683	dinoflagellate apex		C3890171
+32545	32567	GO:0070451	cell hair		C2678510
+32617	32628	GO:0060384	innervation	innervation aspect	C1619351
+32709	32720	GO:0060384	innervation	innervation aspect	C1619351
+32868	32910	GO:0043121	neurotrophin binding		C1323315
+32926	32953	GO:0007600	sensory perception	Esthesia	C0036658
+32954	32967	GO:0007567	parturition	Birth	C0005615
+33038	33049	GO:0060384	innervation	innervation aspect	C1619351
+33084	33113	GO:0007600	sensory perception	Esthesia	C0036658
+33128	33167	GO:0038179	neurotrophin signaling pathway	Neurotrophin Signaling Pathway	C2984256
+33365	33400	GO:0097683	dinoflagellate apex		C3890171
+33416	33425	GO:0051235	retention	cellular entity retention	C1753315
+33439	33520	GO:0097683	dinoflagellate apex		C3890171
+33556	33578	GO:0007567	parturition	Birth	C0005615
+33597	33606	GO:0051235	retention	cellular entity retention	C1753315
+33707	33721	GO:0009790	embryo development	Embryonic Development	C0013936
+33726	33749	GO:0009289	pilus	Bacterial Fimbria	C0031921
+34214	34225	GO:0043005	nerve fiber	Nerve Fibers	C0027749
+34842	34853	GO:0060384	innervation	innervation aspect	C1619351
+34988	35026	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35046	35078	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+35339	35383	GO:0007600	sensory perception	Esthesia	C0036658
+36362	36393	GO:0000785	chromatin	chromatin location	C1325550
+36425	36458	GO:0070451	cell hair		C2678510
+36463	36491	GO:0070451	cell hair		C2678510
+36554	36587	GO:0009289	pilus	Bacterial Fimbria	C0031921
+36598	36606	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+36765	36789	GO:0070451	cell hair		C2678510
+36765	36789	GO:0070451	cell hair		C2678510
+36899	36915	GO:0007600	sensory perception	Esthesia	C0036658
+37035	37069	GO:0007600	sensory perception	Esthesia	C0036658
+37140	37166	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+37171	37179	GO:0005730	nucleolus	Cell Nucleolus	C0007609
+37530	37539	GO:0007610	behavior	Behavior	C0004927
+37675	37718	GO:0043121	neurotrophin binding		C1323315
+37967	38006	GO:0007601	vision	Vision	C0042789
+38022	38065	GO:0007567	parturition	Birth	C0005615

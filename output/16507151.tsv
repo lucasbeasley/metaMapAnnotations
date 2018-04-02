@@ -1,0 +1,147 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+314	383	GO:0007567	parturition	Birth	C0005615
+314	383	GO:0000003	reproduction	Reproduction	C0035150
+486	505	GO:0007567	parturition	Birth	C0005615
+486	505	GO:0000003	reproduction	Reproduction	C0035150
+662	695	GO:0000003	reproduction	Reproduction	C0035150
+1001	1011	GO:0005694	chromosome	Chromosomes	C0008633
+1038	1093	GO:0007565	gestation	Pregnancy	C0032961
+1236	1246	GO:0005694	chromosome	Chromosomes	C0008633
+1311	1359	GO:0005585	collagen type II trimer	collagen type II location	C1167376
+1378	1388	GO:0005694	chromosome	Chromosomes	C0008633
+1414	1436	GO:0007567	parturition	Birth	C0005615
+1414	1436	GO:0000003	reproduction	Reproduction	C0035150
+1520	1553	GO:0007565	gestation	Pregnancy	C0032961
+1784	1814	GO:0000003	reproduction	Reproduction	C0035150
+1958	2007	GO:0007565	gestation	Pregnancy	C0032961
+2120	2145	GO:0007565	gestation	Pregnancy	C0032961
+2285	2307	GO:0007565	gestation	Pregnancy	C0032961
+2402	2446	GO:0007567	parturition	Birth	C0005615
+2402	2446	GO:0000003	reproduction	Reproduction	C0035150
+2415	2446	GO:0007567	parturition	Birth	C0005615
+2415	2446	GO:0000003	reproduction	Reproduction	C0035150
+2982	2999	GO:0007567	parturition	Birth	C0005615
+2982	2999	GO:0000003	reproduction	Reproduction	C0035150
+3004	3012	GO:0007610	behavior	Behavior	C0004927
+3133	3151	GO:0007565	gestation	Pregnancy	C0032961
+3152	3176	GO:0007565	gestation	Pregnancy	C0032961
+3278	3312	GO:0007565	gestation	Pregnancy	C0032961
+3358	3377	GO:0060209	estrus	Estrus	C0014948
+3450	3461	GO:0060209	estrus	Estrus	C0014948
+3501	3510	GO:0005148	prolactin	prolactin binding	C1744644
+3539	3560	GO:0007565	gestation	Pregnancy	C0032961
+3916	3936	GO:0000003	reproduction	Reproduction	C0035150
+4172	4198	GO:0010468	regulation of gene expression	Gene Expression Regulation	C0017263
+5095	5111	GO:0009790	embryo development	Embryonic Development	C0013936
+5126	5138	GO:0000003	reproduction	Reproduction	C0035150
+5317	5343	GO:0000003	reproduction	Reproduction	C0035150
+5360	5386	GO:0009291	unidirectional conjugation		C1160186
+5360	5386	GO:0007618	mating		C1260875
+5360	5386	GO:0000747	conjugation with cellular fusion		C1748461
+5360	5386	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+5426	5430	GO:0007618	mating		C1260875
+5457	5491	GO:0009291	unidirectional conjugation		C1160186
+5457	5491	GO:0007618	mating		C1260875
+5457	5491	GO:0000747	conjugation with cellular fusion		C1748461
+5457	5491	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+5493	5525	GO:0046776	major histocompatibility complex	major histocompatibility complex location	C1753349
+5542	5546	GO:0007618	mating		C1260875
+5570	5603	GO:0009291	unidirectional conjugation		C1160186
+5570	5603	GO:0007618	mating		C1260875
+5570	5603	GO:0000747	conjugation with cellular fusion		C1748461
+5570	5603	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+5606	5641	GO:0007565	gestation	Pregnancy	C0032961
+5795	5798	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+5826	5857	GO:1902698	acidogenesis		C3823112
+5991	5994	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+5999	6030	GO:1902698	acidogenesis		C3823112
+6453	6480	GO:0070267	oncosis	Oncosis	C1709317
+6485	6497	GO:0006954	Inflammation		C0021368
+6533	6545	GO:0006954	Inflammation		C0021368
+7369	7381	GO:0000806	Y chromosome	Y Chromosome	C0043381
+7740	7758	GO:0003887	Taq DNA polymerase	Taq DNA polymerase activity	C2257065
+8284	8318	GO:0007567	parturition	Birth	C0005615
+8284	8318	GO:0000003	reproduction	Reproduction	C0035150
+9183	9187	GO:0004617	phosphoglycerate dehydrogenase activity		C1151254
+9204	9236	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9305	9308	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+9458	9504	GO:0004617	phosphoglycerate dehydrogenase activity		C1151254
+9505	9540	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9543	9553	GO:0004617	phosphoglycerate dehydrogenase activity		C1151254
+9638	9702	GO:0000746	conjugation		C1160466
+10227	10275	GO:0070267	oncosis	Oncosis	C1709317
+10563	10566	GO:0007601	vision	Vision	C0042789
+10578	10595	GO:0007565	gestation	Pregnancy	C0032961
+10655	10697	GO:0007567	parturition	Birth	C0005615
+10655	10697	GO:0000003	reproduction	Reproduction	C0035150
+10863	10909	GO:0007565	gestation	Pregnancy	C0032961
+11041	11079	GO:0007565	gestation	Pregnancy	C0032961
+11245	11264	GO:0007565	gestation	Pregnancy	C0032961
+11333	11357	GO:0007565	gestation	Pregnancy	C0032961
+11390	11401	GO:0032502	development	Biologic Development	C0678723
+11641	11669	GO:0007567	parturition	Birth	C0005615
+11641	11669	GO:0000003	reproduction	Reproduction	C0035150
+11749	11759	GO:0005694	chromosome	Chromosomes	C0008633
+11819	11866	GO:0033736	L-lysine 6-oxidase activity		C2247199
+11867	11871	GO:0033736	L-lysine 6-oxidase activity		C2247199
+11867	11871	GO:0033736	L-lysine 6-oxidase activity		C2247199
+11915	11974	GO:0033736	L-lysine 6-oxidase activity		C2247199
+12082	12092	GO:0005694	chromosome	Chromosomes	C0008633
+12116	12170	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+12189	12199	GO:0005694	chromosome	Chromosomes	C0008633
+12605	12637	GO:0007567	parturition	Birth	C0005615
+12605	12637	GO:0000003	reproduction	Reproduction	C0035150
+12910	12939	GO:0007567	parturition	Birth	C0005615
+12910	12939	GO:0000003	reproduction	Reproduction	C0035150
+13085	13117	GO:0010468	regulation of gene expression	Gene Expression Regulation	C0017263
+13272	13310	GO:0000003	reproduction	Reproduction	C0035150
+13797	13861	GO:0007567	parturition	Birth	C0005615
+13797	13861	GO:0000003	reproduction	Reproduction	C0035150
+14136	14173	GO:0007565	gestation	Pregnancy	C0032961
+14164	14173	GO:0007565	gestation	Pregnancy	C0032961
+14482	14496	GO:0007567	parturition	Birth	C0005615
+14657	14667	GO:0005694	chromosome	Chromosomes	C0008633
+14720	14730	GO:0005694	chromosome	Chromosomes	C0008633
+14791	14801	GO:0005694	chromosome	Chromosomes	C0008633
+14939	14949	GO:0005694	chromosome	Chromosomes	C0008633
+15034	15039	GO:0007567	parturition	Birth	C0005615
+15034	15039	GO:0000003	reproduction	Reproduction	C0035150
+15330	15352	GO:0007567	parturition	Birth	C0005615
+15330	15352	GO:0000003	reproduction	Reproduction	C0035150
+15483	15502	GO:0002377	antibody production	Antibody Formation	C0003261
+15515	15525	GO:0005694	chromosome	Chromosomes	C0008633
+15708	15718	GO:0005694	chromosome	Chromosomes	C0008633
+15799	15809	GO:0005694	chromosome	Chromosomes	C0008633
+15878	15888	GO:0005694	chromosome	Chromosomes	C0008633
+16012	16022	GO:0005694	chromosome	Chromosomes	C0008633
+16046	16061	GO:0007567	parturition	Birth	C0005615
+16046	16061	GO:0000003	reproduction	Reproduction	C0035150
+16109	16142	GO:0044427	chromosome component	Chromosome Structures	C0729606
+16175	16187	GO:0006954	Inflammation		C0021368
+16353	16363	GO:0005694	chromosome	Chromosomes	C0008633
+16474	16484	GO:0005694	chromosome	Chromosomes	C0008633
+16497	16510	GO:0007567	parturition	Birth	C0005615
+16497	16510	GO:0000003	reproduction	Reproduction	C0035150
+16548	16558	GO:0005694	chromosome	Chromosomes	C0008633
+16686	16696	GO:0005694	chromosome	Chromosomes	C0008633
+16878	16920	GO:0007565	gestation	Pregnancy	C0032961
+16975	16985	GO:0005694	chromosome	Chromosomes	C0008633
+17136	17141	GO:0007567	parturition	Birth	C0005615
+17136	17141	GO:0000003	reproduction	Reproduction	C0035150
+17190	17238	GO:0007567	parturition	Birth	C0005615
+17255	17275	GO:0007565	gestation	Pregnancy	C0032961
+17287	17320	GO:0007565	gestation	Pregnancy	C0032961
+17360	17400	GO:0007565	gestation	Pregnancy	C0032961
+17481	17494	GO:0007567	parturition	Birth	C0005615
+17481	17494	GO:0000003	reproduction	Reproduction	C0035150
+17736	17746	GO:0005694	chromosome	Chromosomes	C0008633
+17765	17775	GO:0005694	chromosome	Chromosomes	C0008633
+17794	17804	GO:0005694	chromosome	Chromosomes	C0008633
+17967	17985	GO:0005585	collagen type II trimer	collagen type II location	C1167376
+17985	17990	GO:0033736	L-lysine 6-oxidase activity		C2247199
+18022	18054	GO:0046776	major histocompatibility complex	major histocompatibility complex location	C1753349
+18845	18897	GO:0005694	chromosome	Chromosomes	C0008633
+18948	18958	GO:0005694	chromosome	Chromosomes	C0008633
+18970	19016	GO:0005585	collagen type II trimer	collagen type II location	C1167376
+19036	19046	GO:0005694	chromosome	Chromosomes	C0008633
+19263	19305	GO:0005585	collagen type II trimer	collagen type II location	C1167376

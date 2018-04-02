@@ -1,0 +1,409 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+10	38	GO:0007165	signal transduction	Signal Transduction	C0037083
+10	38	GO:0023052	biological signaling		C3537152
+52	70	GO:0001822	kidney development		C1171312
+94	124	GO:0007567	parturition	Birth	C0005615
+94	124	GO:0000003	reproduction	Reproduction	C0035150
+188	216	GO:0005667	transcription factor complex		C1167128
+266	323	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+327	345	GO:0001822	kidney development		C1171312
+621	641	GO:0007567	parturition	Birth	C0005615
+684	690	GO:0040007	growth	Growth	C0018270
+712	730	GO:0001822	kidney development		C1171312
+859	870	GO:0032502	development	Biologic Development	C0678723
+970	1027	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+1164	1175	GO:0007567	parturition	Birth	C0005615
+1164	1175	GO:0000003	reproduction	Reproduction	C0035150
+1270	1274	GO:0005623	cell	Cells	C0007634
+1428	1471	GO:0060675	ureteric bud morphogenesis		C2752903
+1616	1672	GO:0030261	chromosome condensation	Chromosome Condensation	C1155631
+1691	1709	GO:0009058	anabolism	Anabolism	C0220781
+1766	1802	GO:0010467	gene expression	Gene Expression	C0017262
+1895	1913	GO:0001822	kidney development		C1171312
+1928	1955	GO:0007567	parturition	Birth	C0005615
+1928	1955	GO:0000003	reproduction	Reproduction	C0035150
+1960	2023	GO:0060675	ureteric bud morphogenesis		C2752903
+2031	2049	GO:0001822	kidney development		C1171312
+2260	2281	GO:0007567	parturition	Birth	C0005615
+2260	2281	GO:0000003	reproduction	Reproduction	C0035150
+2301	2337	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+2324	2337	GO:0007165	signal transduction	Signal Transduction	C0037083
+2324	2337	GO:0023052	biological signaling		C3537152
+2529	2547	GO:0001822	kidney development		C1171312
+2549	2603	GO:0085030	mutualism	Mutualism	C0599514
+2608	2650	GO:0001822	kidney development		C1171312
+2828	2854	GO:0001822	kidney development		C1171312
+2880	2914	GO:0032940	secretion by cell	Cell secretion	C1327616
+2972	2976	GO:0005623	cell	Cells	C0007634
+3117	3138	GO:0009058	anabolism	Anabolism	C0220781
+3397	3434	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+3441	3470	GO:0007567	parturition	Birth	C0005615
+3441	3470	GO:0000003	reproduction	Reproduction	C0035150
+3487	3561	GO:0007567	parturition	Birth	C0005615
+3610	3671	GO:0009058	anabolism	Anabolism	C0220781
+3722	3736	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+3747	3752	GO:0005488	binding	Binding 	C1167622
+3925	3938	GO:0006351	transcription	Transcription, Genetic	C0040649
+4044	4082	GO:0051179	establishment and maintenance of localization		C1744691
+4291	4300	GO:0007567	parturition	Birth	C0005615
+4291	4300	GO:0000003	reproduction	Reproduction	C0035150
+4336	4389	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+4597	4659	GO:0007567	parturition	Birth	C0005615
+4597	4659	GO:0000003	reproduction	Reproduction	C0035150
+4660	4713	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+4714	4760	GO:0009790	embryo development	Embryonic Development	C0013936
+4768	4824	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+4875	4886	GO:0032502	development	Biologic Development	C0678723
+4927	4949	GO:0007567	parturition	Birth	C0005615
+5058	5110	GO:0060675	ureteric bud morphogenesis		C2752903
+5115	5160	GO:0030261	chromosome condensation	Chromosome Condensation	C1155631
+5191	5231	GO:0009058	anabolism	Anabolism	C0220781
+5386	5426	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+5566	5595	GO:0007567	parturition	Birth	C0005615
+5566	5595	GO:0000003	reproduction	Reproduction	C0035150
+5699	5733	GO:0007618	mating		C1260875
+5748	5776	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+5908	5923	GO:0007567	parturition	Birth	C0005615
+5908	5923	GO:0000003	reproduction	Reproduction	C0035150
+6116	6146	GO:0007165	signal transduction	Signal Transduction	C0037083
+6116	6146	GO:0023052	biological signaling		C3537152
+6247	6258	GO:0032502	development	Biologic Development	C0678723
+6307	6341	GO:0007567	parturition	Birth	C0005615
+6307	6341	GO:0000003	reproduction	Reproduction	C0035150
+6342	6373	GO:0007165	signal transduction	Signal Transduction	C0037083
+6342	6373	GO:0023052	biological signaling		C3537152
+6378	6444	GO:0010467	gene expression	Gene Expression	C0017262
+6607	6625	GO:0007567	parturition	Birth	C0005615
+6760	6805	GO:0007165	signal transduction	Signal Transduction	C0037083
+6760	6805	GO:0023052	biological signaling		C3537152
+6843	6849	GO:0040007	growth	Growth	C0018270
+7140	7151	GO:0032502	development	Biologic Development	C0678723
+7260	7271	GO:0032502	development	Biologic Development	C0678723
+7349	7360	GO:0032502	development	Biologic Development	C0678723
+7373	7400	GO:0009790	embryo development	Embryonic Development	C0013936
+7405	7437	GO:0009790	embryo development	Embryonic Development	C0013936
+7507	7550	GO:0009790	embryo development	Embryonic Development	C0013936
+7565	7581	GO:0007601	vision	Vision	C0042789
+7630	7646	GO:0043473	pigmentation	Pigmentation	C0031911
+7661	7707	GO:0009790	embryo development	Embryonic Development	C0013936
+7796	7842	GO:0009790	embryo development	Embryonic Development	C0013936
+8302	8339	GO:0007567	parturition	Birth	C0005615
+8302	8339	GO:0000003	reproduction	Reproduction	C0035150
+8340	8350	GO:0007567	parturition	Birth	C0005615
+8340	8350	GO:0000003	reproduction	Reproduction	C0035150
+8382	8422	GO:0008104	protein localization	protein localization location	C0597704
+8382	8422	GO:0006886	intracellular protein transport		C1159772
+8476	8480	GO:0005623	cell	Cells	C0007634
+8559	8581	GO:0007601	vision	Vision	C0042789
+8647	8651	GO:0005623	cell	Cells	C0007634
+8927	8952	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+8966	8976	GO:0007567	parturition	Birth	C0005615
+8966	8976	GO:0000003	reproduction	Reproduction	C0035150
+9112	9116	GO:0005623	cell	Cells	C0007634
+9150	9154	GO:0005623	cell	Cells	C0007634
+9223	9243	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9421	9455	GO:0001822	kidney development		C1171312
+9538	9549	GO:0032502	development	Biologic Development	C0678723
+9638	9648	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9730	9742	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+9755	9769	GO:0072033	renal vesicle formation		C2755050
+9793	9812	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10256	10269	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10769	10793	GO:0030261	chromosome condensation	Chromosome Condensation	C1155631
+11133	11165	GO:0001822	kidney development		C1171312
+11310	11351	GO:0001822	kidney development		C1171312
+11362	11377	GO:0072033	renal vesicle formation		C2755050
+12134	12155	GO:0007601	vision	Vision	C0042789
+12160	12176	GO:0009790	embryo development	Embryonic Development	C0013936
+12225	12254	GO:0010467	gene expression	Gene Expression	C0017262
+12362	12410	GO:0001658	branching involved in ureteric bud morphogenesis		C1160418
+12416	12431	GO:0007567	parturition	Birth	C0005615
+12416	12431	GO:0000003	reproduction	Reproduction	C0035150
+13220	13278	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13280	13337	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13363	13387	GO:0007165	signal transduction	Signal Transduction	C0037083
+13363	13387	GO:0023052	biological signaling		C3537152
+13445	13463	GO:0009790	embryo development	Embryonic Development	C0013936
+13471	13508	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13698	13719	GO:0007165	signal transduction	Signal Transduction	C0037083
+13698	13719	GO:0023052	biological signaling		C3537152
+13747	13771	GO:0007567	parturition	Birth	C0005615
+13747	13771	GO:0000003	reproduction	Reproduction	C0035150
+13776	13825	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13881	13921	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+13926	13953	GO:0009790	embryo development	Embryonic Development	C0013936
+13954	13968	GO:0009790	embryo development	Embryonic Development	C0013936
+13969	14036	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+14041	14066	GO:0009790	embryo development	Embryonic Development	C0013936
+14146	14153	GO:0031982	vesicle		C1622418
+14228	14258	GO:0009790	embryo development	Embryonic Development	C0013936
+14416	14423	GO:0031982	vesicle		C1622418
+14442	14467	GO:0009790	embryo development	Embryonic Development	C0013936
+14582	14625	GO:0009790	embryo development	Embryonic Development	C0013936
+14685	14718	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+14719	14736	GO:0009790	embryo development	Embryonic Development	C0013936
+14813	14823	GO:0009790	embryo development	Embryonic Development	C0013936
+15132	15146	GO:0007567	parturition	Birth	C0005615
+15132	15146	GO:0000003	reproduction	Reproduction	C0035150
+15150	15186	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+15247	15265	GO:0009790	embryo development	Embryonic Development	C0013936
+16015	16039	GO:0009790	embryo development	Embryonic Development	C0013936
+16049	16083	GO:0009790	embryo development	Embryonic Development	C0013936
+16084	16134	GO:0047963	glycine N-choloyltransferase activity		C1324745
+16189	16213	GO:0009790	embryo development	Embryonic Development	C0013936
+16371	16421	GO:0009790	embryo development	Embryonic Development	C0013936
+16462	16489	GO:0004565	beta-galactosidase activity		C1150053
+16514	16598	GO:0047963	glycine N-choloyltransferase activity		C1324745
+16678	16728	GO:0047963	glycine N-choloyltransferase activity		C1324745
+17417	17421	GO:0005623	cell	Cells	C0007634
+17567	17617	GO:0007601	vision	Vision	C0042789
+18119	18133	GO:0007567	parturition	Birth	C0005615
+18119	18133	GO:0000003	reproduction	Reproduction	C0035150
+18169	18183	GO:0007567	parturition	Birth	C0005615
+18169	18183	GO:0000003	reproduction	Reproduction	C0035150
+18198	18246	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+18402	18468	GO:0007567	parturition	Birth	C0005615
+18402	18468	GO:0000003	reproduction	Reproduction	C0035150
+18638	18684	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+18685	18734	GO:0007567	parturition	Birth	C0005615
+18685	18734	GO:0000003	reproduction	Reproduction	C0035150
+18834	18845	GO:0007567	parturition	Birth	C0005615
+18834	18845	GO:0000003	reproduction	Reproduction	C0035150
+18834	18845	GO:0007567	parturition	Birth	C0005615
+18834	18845	GO:0000003	reproduction	Reproduction	C0035150
+19423	19434	GO:0032502	development	Biologic Development	C0678723
+19467	19516	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+19636	19695	GO:0007601	vision	Vision	C0042789
+19861	19865	GO:0005623	cell	Cells	C0007634
+20148	20185	GO:0007567	parturition	Birth	C0005615
+20148	20185	GO:0000003	reproduction	Reproduction	C0035150
+20186	20233	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+20480	20502	GO:0007567	parturition	Birth	C0005615
+20480	20502	GO:0000003	reproduction	Reproduction	C0035150
+20816	20843	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+21210	21248	GO:0007567	parturition	Birth	C0005615
+21249	21303	GO:0001822	kidney development		C1171312
+22053	22076	GO:0072033	renal vesicle formation		C2755050
+22185	22223	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22297	22346	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22435	22471	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22508	22551	GO:0001822	kidney development		C1171312
+22626	22680	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22793	22844	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+22854	22894	GO:0001822	kidney development		C1171312
+22990	23004	GO:0001822	kidney development		C1171312
+23112	23159	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+23309	23324	GO:0010467	gene expression	Gene Expression	C0017262
+23412	23427	GO:0010467	gene expression	Gene Expression	C0017262
+23514	23531	GO:0007165	signal transduction	Signal Transduction	C0037083
+23514	23531	GO:0023052	biological signaling		C3537152
+23577	23598	GO:0007567	parturition	Birth	C0005615
+23577	23598	GO:0000003	reproduction	Reproduction	C0035150
+23728	23736	GO:0007567	parturition	Birth	C0005615
+23728	23736	GO:0000003	reproduction	Reproduction	C0035150
+24023	24061	GO:0007567	parturition	Birth	C0005615
+24023	24061	GO:0000003	reproduction	Reproduction	C0035150
+24235	24286	GO:0030849	autosome	Autosome	C0596142
+24312	24326	GO:0046323	glucose uptake		C1159527
+24483	24504	GO:0007567	parturition	Birth	C0005615
+24483	24504	GO:0000003	reproduction	Reproduction	C0035150
+24516	24544	GO:0072006	nephron development		C2755024
+24580	24585	GO:0007567	parturition	Birth	C0005615
+24580	24585	GO:0000003	reproduction	Reproduction	C0035150
+24721	24737	GO:0007567	parturition	Birth	C0005615
+24721	24737	GO:0000003	reproduction	Reproduction	C0035150
+24997	25014	GO:0048771	tissue remodeling		C1820201
+25020	25048	GO:0008217	blood pressure regulation		C0678863
+25223	25234	GO:0032502	development	Biologic Development	C0678723
+25328	25350	GO:0000988	transcription factor activity		C1148759
+25367	25397	GO:0042752	regulation of circadian rhythm		C1325859
+25478	25510	GO:0001763	morphogenesis of a branching structure		C1622374
+25767	25795	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+25808	25834	GO:0007567	parturition	Birth	C0005615
+25808	25834	GO:0000003	reproduction	Reproduction	C0035150
+25931	25973	GO:0016538	cyclin-dependent protein kinase regulator activity		C1150565
+26149	26209	GO:0010467	gene expression	Gene Expression	C0017262
+26256	26271	GO:0010467	gene expression	Gene Expression	C0017262
+26272	26311	GO:0007165	signal transduction	Signal Transduction	C0037083
+26272	26311	GO:0023052	biological signaling		C3537152
+26516	26554	GO:0007567	parturition	Birth	C0005615
+26516	26554	GO:0000003	reproduction	Reproduction	C0035150
+26576	26606	GO:0007567	parturition	Birth	C0005615
+26576	26606	GO:0000003	reproduction	Reproduction	C0035150
+26922	26932	GO:0007567	parturition	Birth	C0005615
+26922	26932	GO:0000003	reproduction	Reproduction	C0035150
+27091	27117	GO:0007567	parturition	Birth	C0005615
+27091	27117	GO:0000003	reproduction	Reproduction	C0035150
+27247	27262	GO:0010467	gene expression	Gene Expression	C0017262
+27376	27392	GO:0007567	parturition	Birth	C0005615
+27376	27392	GO:0000003	reproduction	Reproduction	C0035150
+27396	27438	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+27453	27490	GO:0007165	signal transduction	Signal Transduction	C0037083
+27453	27490	GO:0023052	biological signaling		C3537152
+27560	27579	GO:0007601	vision	Vision	C0042789
+27601	27641	GO:0007165	signal transduction	Signal Transduction	C0037083
+27601	27641	GO:0023052	biological signaling		C3537152
+27820	27839	GO:0007507	cardiac development		C2263229
+27902	27921	GO:0007165	signal transduction	Signal Transduction	C0037083
+28101	28119	GO:0007567	parturition	Birth	C0005615
+28463	28494	GO:0007567	parturition	Birth	C0005615
+28463	28494	GO:0000003	reproduction	Reproduction	C0035150
+28537	28549	GO:0007567	parturition	Birth	C0005615
+28537	28549	GO:0000003	reproduction	Reproduction	C0035150
+28751	28767	GO:0007165	signal transduction	Signal Transduction	C0037083
+28751	28767	GO:0023052	biological signaling		C3537152
+28786	28821	GO:1902698	acidogenesis		C3823112
+28928	28950	GO:0000988	transcription factor activity		C1148759
+28979	28999	GO:0006338	chromatin remodeling		C1156210
+29116	29148	GO:1902698	acidogenesis		C3823112
+29182	29226	GO:0007165	signal transduction	Signal Transduction	C0037083
+29231	29256	GO:0007444	imaginal disc development		C1160285
+29398	29417	GO:0007567	parturition	Birth	C0005615
+29398	29417	GO:0000003	reproduction	Reproduction	C0035150
+29418	29468	GO:1902698	acidogenesis		C3823112
+29482	29505	GO:0007567	parturition	Birth	C0005615
+29482	29505	GO:0000003	reproduction	Reproduction	C0035150
+29517	29551	GO:1902698	acidogenesis		C3823112
+29740	29762	GO:0007165	signal transduction	Signal Transduction	C0037083
+29740	29762	GO:0023052	biological signaling		C3537152
+29807	29842	GO:0001822	kidney development		C1171312
+29828	29841	GO:0001822	kidney development		C1171312
+30036	30062	GO:0001822	kidney development		C1171312
+30239	30257	GO:0001822	kidney development		C1171312
+30300	30339	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+30469	30508	GO:0007165	signal transduction	Signal Transduction	C0037083
+30469	30508	GO:0023052	biological signaling		C3537152
+30667	30701	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+30702	30749	GO:0060675	ureteric bud morphogenesis		C2752903
+30787	30828	GO:0007165	signal transduction	Signal Transduction	C0037083
+30787	30828	GO:0023052	biological signaling		C3537152
+30917	30973	GO:0007165	signal transduction	Signal Transduction	C0037083
+30917	30973	GO:0023052	biological signaling		C3537152
+30989	31026	GO:0007165	signal transduction	Signal Transduction	C0037083
+30989	31026	GO:0023052	biological signaling		C3537152
+31028	31115	GO:0060675	ureteric bud morphogenesis		C2752903
+31372	31389	GO:0007567	parturition	Birth	C0005615
+31372	31389	GO:0000003	reproduction	Reproduction	C0035150
+31398	31422	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+31457	31503	GO:0007165	signal transduction	Signal Transduction	C0037083
+31457	31503	GO:0023052	biological signaling		C3537152
+31548	31582	GO:0007165	signal transduction	Signal Transduction	C0037083
+31548	31582	GO:0023052	biological signaling		C3537152
+31643	31687	GO:0007165	signal transduction	Signal Transduction	C0037083
+31643	31687	GO:0023052	biological signaling		C3537152
+31812	31871	GO:0072093	metanephric renal vesicle formation		C2755109
+31910	31947	GO:0007165	signal transduction	Signal Transduction	C0037083
+31910	31947	GO:0023052	biological signaling		C3537152
+32003	32044	GO:0001822	kidney development		C1171312
+32204	32220	GO:0007567	parturition	Birth	C0005615
+32204	32220	GO:0000003	reproduction	Reproduction	C0035150
+32230	32267	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+32285	32306	GO:0007567	parturition	Birth	C0005615
+32285	32306	GO:0000003	reproduction	Reproduction	C0035150
+32322	32364	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+32365	32422	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+32452	32500	GO:0009790	embryo development	Embryonic Development	C0013936
+32628	32639	GO:0032502	development	Biologic Development	C0678723
+32672	32685	GO:0048513	organogenesis	Organogenesis	C0242290
+32799	32833	GO:0007567	parturition	Birth	C0005615
+32799	32833	GO:0000003	reproduction	Reproduction	C0035150
+32838	32897	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+33113	33175	GO:0007567	parturition	Birth	C0005615
+33113	33175	GO:0000003	reproduction	Reproduction	C0035150
+33217	33241	GO:0010467	gene expression	Gene Expression	C0017262
+33277	33287	GO:0007567	parturition	Birth	C0005615
+33277	33287	GO:0000003	reproduction	Reproduction	C0035150
+33461	33489	GO:0007567	parturition	Birth	C0005615
+33461	33489	GO:0000003	reproduction	Reproduction	C0035150
+33494	33531	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+33576	33613	GO:0010467	gene expression	Gene Expression	C0017262
+33670	33688	GO:0001822	kidney development		C1171312
+33707	33718	GO:0007567	parturition	Birth	C0005615
+33707	33718	GO:0000003	reproduction	Reproduction	C0035150
+33807	33842	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+33871	33895	GO:0007567	parturition	Birth	C0005615
+33871	33895	GO:0000003	reproduction	Reproduction	C0035150
+33899	33963	GO:0060675	ureteric bud morphogenesis		C2752903
+34161	34178	GO:0009058	anabolism	Anabolism	C0220781
+34289	34323	GO:0007567	parturition	Birth	C0005615
+34289	34323	GO:0000003	reproduction	Reproduction	C0035150
+34324	34365	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+34370	34411	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+34412	34429	GO:0001822	kidney development		C1171312
+34453	34480	GO:0007567	parturition	Birth	C0005615
+34453	34480	GO:0000003	reproduction	Reproduction	C0035150
+34514	34561	GO:0007165	signal transduction	Signal Transduction	C0037083
+34514	34561	GO:0023052	biological signaling		C3537152
+34571	34575	GO:0005623	cell	Cells	C0007634
+34724	34788	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+34889	34933	GO:0007567	parturition	Birth	C0005615
+34889	34933	GO:0000003	reproduction	Reproduction	C0035150
+34934	34950	GO:0007165	signal transduction	Signal Transduction	C0037083
+34934	34950	GO:0023052	biological signaling		C3537152
+35000	35013	GO:0048513	organogenesis	Organogenesis	C0242290
+35103	35114	GO:0007567	parturition	Birth	C0005615
+35103	35114	GO:0000003	reproduction	Reproduction	C0035150
+35120	35177	GO:0007567	parturition	Birth	C0005615
+35120	35177	GO:0000003	reproduction	Reproduction	C0035150
+35178	35223	GO:0005667	transcription factor complex		C1167128
+35298	35322	GO:0051179	establishment and maintenance of localization		C1744691
+35330	35343	GO:0006351	transcription	Transcription, Genetic	C0040649
+35411	35449	GO:0007567	parturition	Birth	C0005615
+35411	35449	GO:0000003	reproduction	Reproduction	C0035150
+35525	35536	GO:0007567	parturition	Birth	C0005615
+35525	35536	GO:0000003	reproduction	Reproduction	C0035150
+35757	35783	GO:0007567	parturition	Birth	C0005615
+35757	35783	GO:0000003	reproduction	Reproduction	C0035150
+35887	35913	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+36070	36074	GO:0005623	cell	Cells	C0007634
+36683	36687	GO:0005623	cell	Cells	C0007634
+36716	36720	GO:0005623	cell	Cells	C0007634
+36818	36846	GO:0007618	mating		C1260875
+36973	37017	GO:0009291	unidirectional conjugation		C1160186
+36973	37017	GO:0007618	mating		C1260875
+36973	37017	GO:0000747	conjugation with cellular fusion		C1748461
+36973	37017	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+37693	37704	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+37751	37806	GO:0000746	conjugation		C1160466
+37893	37913	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+37914	37936	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+38108	38114	GO:0007601	vision	Vision	C0042789
+38147	38171	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+38177	38209	GO:0000746	conjugation		C1160466
+38214	38254	GO:0000746	conjugation		C1160466
+38412	38420	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+38441	38448	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+38453	38459	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+38462	38498	GO:0007601	vision	Vision	C0042789
+38682	38730	GO:0009790	embryo development	Embryonic Development	C0013936
+39070	39089	GO:0002377	antibody production	Antibody Formation	C0003261
+39138	39191	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+39217	39276	GO:1902698	acidogenesis		C3823112
+39280	39321	GO:1902698	acidogenesis		C3823112
+39581	39600	GO:0002377	antibody production	Antibody Formation	C0003261
+39725	39756	GO:0005488	binding	Binding 	C1167622
+39767	39794	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+39900	39922	GO:0005488	binding	Binding 	C1167622
+39969	39988	GO:0005488	binding	Binding 	C1167622
+40040	40060	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+40061	40084	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+40102	40164	GO:0009790	embryo development	Embryonic Development	C0013936
+40178	40237	GO:0060070	canonical Wnt signaling pathway	Canonical Wnt Signaling Pathway	C2262808
+40239	40269	GO:0009790	embryo development	Embryonic Development	C0013936
+40373	40400	GO:0004565	beta-galactosidase activity		C1150053
+40595	40598	GO:0005020	stem cell factor receptor activity		C1150635
+40941	40974	GO:0009790	embryo development	Embryonic Development	C0013936
+40981	40997	GO:0005020	stem cell factor receptor activity		C1150635
+40998	41038	GO:0005020	stem cell factor receptor activity		C1150635
+41125	41141	GO:0005020	stem cell factor receptor activity		C1150635
+41316	41354	GO:0007567	parturition	Birth	C0005615
+41316	41354	GO:0000003	reproduction	Reproduction	C0035150
+41349	41354	GO:0007567	parturition	Birth	C0005615
+41349	41354	GO:0000003	reproduction	Reproduction	C0035150
+41829	41866	GO:0007567	parturition	Birth	C0005615
+41829	41866	GO:0000003	reproduction	Reproduction	C0035150
+42107	42123	GO:0005020	stem cell factor receptor activity		C1150635
+42124	42153	GO:0005020	stem cell factor receptor activity		C1150635
+43394	43409	GO:0007567	parturition	Birth	C0005615
+43394	43409	GO:0000003	reproduction	Reproduction	C0035150
+43621	43641	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580

@@ -1,0 +1,236 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+0	26	GO:0000988	transcription factor activity		C1148759
+59	69	GO:0006281	DNA repair	DNA Repair	C0012899
+407	433	GO:0007567	parturition	Birth	C0005615
+407	433	GO:0000003	reproduction	Reproduction	C0035150
+506	510	GO:0005623	cell	Cells	C0007634
+569	617	GO:0005623	cell	Cells	C0007634
+658	668	GO:0006281	DNA repair	DNA Repair	C0012899
+680	720	GO:0007567	parturition	Birth	C0005615
+680	720	GO:0000003	reproduction	Reproduction	C0035150
+775	785	GO:0006281	DNA repair	DNA Repair	C0012899
+819	845	GO:0000988	transcription factor activity		C1148759
+922	957	GO:0000988	transcription factor activity		C1148759
+1030	1081	GO:0000988	transcription factor activity		C1148759
+1082	1120	GO:0007567	parturition	Birth	C0005615
+1082	1120	GO:0000003	reproduction	Reproduction	C0035150
+1219	1232	GO:0006351	transcription	Transcription, Genetic	C0040649
+1290	1300	GO:0006281	DNA repair	DNA Repair	C0012899
+1419	1445	GO:0000988	transcription factor activity		C1148759
+1519	1529	GO:0006281	DNA repair	DNA Repair	C0012899
+1697	1718	GO:0007567	parturition	Birth	C0005615
+1697	1718	GO:0000003	reproduction	Reproduction	C0035150
+1745	1749	GO:0004784	superoxide dismutase activity		C1151619
+1812	1838	GO:0000988	transcription factor activity		C1148759
+1839	1885	GO:0007567	parturition	Birth	C0005615
+1839	1885	GO:0000003	reproduction	Reproduction	C0035150
+2146	2170	GO:0000988	transcription factor activity		C1148759
+2208	2221	GO:0006351	transcription	Transcription, Genetic	C0040649
+2245	2255	GO:0006281	DNA repair	DNA Repair	C0012899
+2342	2353	GO:0032502	development	Biologic Development	C0678723
+2379	2416	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+2421	2431	GO:0006281	DNA repair	DNA Repair	C0012899
+2726	2744	GO:0003910	DNA repair enzyme activity		C1325315
+2837	2841	GO:0005623	cell	Cells	C0007634
+2879	2883	GO:0005623	cell	Cells	C0007634
+2897	2964	GO:0007567	parturition	Birth	C0005615
+2897	2964	GO:0000003	reproduction	Reproduction	C0035150
+3040	3073	GO:0005623	cell	Cells	C0007634
+3107	3132	GO:0006805	xenobiotic metabolism		C1154744
+3194	3233	GO:0044237	cellular metabolic process	Metabolic Process, Cellular	C1524026
+3298	3323	GO:0030164	protein denaturation	Protein Denaturation	C0033627
+3365	3400	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+3431	3449	GO:0003910	DNA repair enzyme activity		C1325315
+3435	3441	GO:0042060	wound healing	Wound Healing	C0043240
+3638	3708	GO:0007567	parturition	Birth	C0005615
+3638	3708	GO:0000003	reproduction	Reproduction	C0035150
+3990	4000	GO:0006281	DNA repair	DNA Repair	C0012899
+4057	4067	GO:0007567	parturition	Birth	C0005615
+4057	4067	GO:0000003	reproduction	Reproduction	C0035150
+4128	4138	GO:0004784	superoxide dismutase activity		C1151619
+4198	4204	GO:0007567	parturition	Birth	C0005615
+4198	4204	GO:0000003	reproduction	Reproduction	C0035150
+4223	4236	GO:0006351	transcription	Transcription, Genetic	C0040649
+4379	4438	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+4443	4453	GO:0006281	DNA repair	DNA Repair	C0012899
+4470	4496	GO:0000988	transcription factor activity		C1148759
+4509	4553	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+4571	4582	GO:0032502	development	Biologic Development	C0678723
+4641	4679	GO:0000988	transcription factor activity		C1148759
+4680	4747	GO:0007567	parturition	Birth	C0005615
+4680	4747	GO:0000003	reproduction	Reproduction	C0035150
+4910	4920	GO:0006281	DNA repair	DNA Repair	C0012899
+5885	5898	GO:0034062	transcriptase	Transcriptase activity	C2257077
+6060	6094	GO:0007567	parturition	Birth	C0005615
+6060	6094	GO:0000003	reproduction	Reproduction	C0035150
+6276	6312	GO:0005020	stem cell factor receptor activity		C1150635
+6462	6478	GO:0007567	parturition	Birth	C0005615
+6462	6478	GO:0000003	reproduction	Reproduction	C0035150
+6564	6585	GO:0007567	parturition	Birth	C0005615
+6564	6585	GO:0000003	reproduction	Reproduction	C0035150
+6616	6665	GO:0007567	parturition	Birth	C0005615
+6616	6665	GO:0000003	reproduction	Reproduction	C0035150
+7741	7766	GO:0007567	parturition	Birth	C0005615
+7741	7766	GO:0000003	reproduction	Reproduction	C0035150
+7791	7804	GO:0007567	parturition	Birth	C0005615
+7791	7804	GO:0000003	reproduction	Reproduction	C0035150
+8154	8167	GO:0007567	parturition	Birth	C0005615
+8154	8167	GO:0000003	reproduction	Reproduction	C0035150
+8469	8502	GO:0007610	behavior	Behavior	C0004927
+8528	8557	GO:0000988	transcription factor activity		C1148759
+8586	8596	GO:0006281	DNA repair	DNA Repair	C0012899
+8718	8731	GO:0006351	transcription	Transcription, Genetic	C0040649
+8772	8782	GO:0006281	DNA repair	DNA Repair	C0012899
+8937	8963	GO:0010467	gene expression	Gene Expression	C0017262
+9126	9139	GO:0006351	transcription	Transcription, Genetic	C0040649
+9178	9188	GO:0006281	DNA repair	DNA Repair	C0012899
+9356	9425	GO:0007567	parturition	Birth	C0005615
+9356	9425	GO:0000003	reproduction	Reproduction	C0035150
+9559	9605	GO:0000988	transcription factor activity		C1148759
+9695	9733	GO:0007567	parturition	Birth	C0005615
+9695	9733	GO:0000003	reproduction	Reproduction	C0035150
+9745	9784	GO:0000496	base pairing	Base Pairing	C0600436
+9785	9813	GO:0000496	base pairing	Base Pairing	C0600436
+9818	9866	GO:0000496	base pairing	Base Pairing	C0600436
+9868	9881	GO:0007567	parturition	Birth	C0005615
+9868	9881	GO:0000003	reproduction	Reproduction	C0035150
+9932	9960	GO:0000496	base pairing	Base Pairing	C0600436
+10036	10101	GO:0000988	transcription factor activity		C1148759
+10160	10194	GO:0000988	transcription factor activity		C1148759
+10290	10305	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+10399	10412	GO:0006351	transcription	Transcription, Genetic	C0040649
+10499	10525	GO:0000988	transcription factor activity		C1148759
+10782	10792	GO:0006281	DNA repair	DNA Repair	C0012899
+10863	10885	GO:0007567	parturition	Birth	C0005615
+10863	10885	GO:0000003	reproduction	Reproduction	C0035150
+10966	11038	GO:0007567	parturition	Birth	C0005615
+10966	11038	GO:0000003	reproduction	Reproduction	C0035150
+11116	11160	GO:0007567	parturition	Birth	C0005615
+11116	11160	GO:0000003	reproduction	Reproduction	C0035150
+11613	11623	GO:0006281	DNA repair	DNA Repair	C0012899
+11665	11670	GO:0004784	superoxide dismutase activity		C1151619
+11804	11814	GO:0006281	DNA repair	DNA Repair	C0012899
+11876	11903	GO:0000988	transcription factor activity		C1148759
+11943	11947	GO:0004784	superoxide dismutase activity		C1151619
+12246	12263	GO:0007567	parturition	Birth	C0005615
+12246	12263	GO:0000003	reproduction	Reproduction	C0035150
+12304	12308	GO:0004784	superoxide dismutase activity		C1151619
+12304	12308	GO:0004784	superoxide dismutase activity		C1151619
+12304	12308	GO:0004784	superoxide dismutase activity		C1151619
+13124	13151	GO:0000988	transcription factor activity		C1148759
+13194	13199	GO:0004784	superoxide dismutase activity		C1151619
+13240	13255	GO:0010467	gene expression	Gene Expression	C0017262
+13359	13390	GO:0007567	parturition	Birth	C0005615
+13359	13390	GO:0000003	reproduction	Reproduction	C0035150
+13568	13627	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+13632	13642	GO:0006281	DNA repair	DNA Repair	C0012899
+13659	13686	GO:0000988	transcription factor activity		C1148759
+13695	13739	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+13757	13768	GO:0032502	development	Biologic Development	C0678723
+13934	13958	GO:0007567	parturition	Birth	C0005615
+13934	13958	GO:0000003	reproduction	Reproduction	C0035150
+14140	14150	GO:0006281	DNA repair	DNA Repair	C0012899
+14235	14265	GO:0007567	parturition	Birth	C0005615
+14235	14265	GO:0000003	reproduction	Reproduction	C0035150
+14336	14346	GO:0006281	DNA repair	DNA Repair	C0012899
+14541	14573	GO:0000988	transcription factor activity		C1148759
+14587	14606	GO:0007567	parturition	Birth	C0005615
+14587	14606	GO:0000003	reproduction	Reproduction	C0035150
+14629	14672	GO:0007567	parturition	Birth	C0005615
+14629	14672	GO:0000003	reproduction	Reproduction	C0035150
+14691	14725	GO:0005488	binding	Binding 	C1167622
+14802	14812	GO:0006281	DNA repair	DNA Repair	C0012899
+14923	14933	GO:0006281	DNA repair	DNA Repair	C0012899
+15035	15045	GO:0006281	DNA repair	DNA Repair	C0012899
+15055	15090	GO:0000988	transcription factor activity		C1148759
+15340	15350	GO:0006281	DNA repair	DNA Repair	C0012899
+15715	15720	GO:0004784	superoxide dismutase activity		C1151619
+16024	16035	GO:0032502	development	Biologic Development	C0678723
+16151	16158	GO:0007610	behavior	Behavior	C0004927
+16259	16270	GO:0032502	development	Biologic Development	C0678723
+16416	16426	GO:0006281	DNA repair	DNA Repair	C0012899
+16663	16673	GO:0006281	DNA repair	DNA Repair	C0012899
+16912	16981	GO:0006355	transcriptional control	Transcriptional Regulation	C1158770
+16985	16995	GO:0006281	DNA repair	DNA Repair	C0012899
+17028	17095	GO:0010468	regulation of gene expression	Gene Expression Regulation	C0017263
+17229	17302	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+17307	17317	GO:0006281	DNA repair	DNA Repair	C0012899
+17307	17324	GO:0006281	DNA repair	DNA Repair	C0012899
+17521	17558	GO:0000988	transcription factor activity		C1148759
+17606	17617	GO:0003677	DNA binding	dna binding	C1148673
+17622	17644	GO:0009058	anabolism	Anabolism	C0220781
+17683	17698	GO:2000144	transactivation	Trans-Activation, Genetic	C0040624
+17829	17842	GO:0006351	transcription	Transcription, Genetic	C0040649
+17944	17948	GO:0005623	cell	Cells	C0007634
+18050	18054	GO:0005623	cell	Cells	C0007634
+18195	18211	GO:0007567	parturition	Birth	C0005615
+18598	18608	GO:0006281	DNA repair	DNA Repair	C0012899
+18669	18698	GO:0007567	parturition	Birth	C0005615
+18669	18698	GO:0000003	reproduction	Reproduction	C0035150
+18798	18808	GO:0006281	DNA repair	DNA Repair	C0012899
+18813	18830	GO:0007567	parturition	Birth	C0005615
+18813	18830	GO:0000003	reproduction	Reproduction	C0035150
+19014	19024	GO:0006281	DNA repair	DNA Repair	C0012899
+19029	19064	GO:0007567	parturition	Birth	C0005615
+19029	19064	GO:0000003	reproduction	Reproduction	C0035150
+19242	19282	GO:0003910	DNA repair enzyme activity		C1325315
+19292	19296	GO:0005623	cell	Cells	C0007634
+19360	19364	GO:0005623	cell	Cells	C0007634
+19420	19430	GO:0006281	DNA repair	DNA Repair	C0012899
+19490	19500	GO:0006281	DNA repair	DNA Repair	C0012899
+19995	20016	GO:0007567	parturition	Birth	C0005615
+19995	20016	GO:0000003	reproduction	Reproduction	C0035150
+20676	20689	GO:0006351	transcription	Transcription, Genetic	C0040649
+20720	20747	GO:0000988	transcription factor activity		C1148759
+20843	20866	GO:0007567	parturition	Birth	C0005615
+20843	20866	GO:0000003	reproduction	Reproduction	C0035150
+21047	21067	GO:0007567	parturition	Birth	C0005615
+21047	21067	GO:0000003	reproduction	Reproduction	C0035150
+21146	21178	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+21193	21198	GO:0004784	superoxide dismutase activity		C1151619
+21386	21419	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+21460	21470	GO:0006281	DNA repair	DNA Repair	C0012899
+21697	21783	GO:0007567	parturition	Birth	C0005615
+21697	21783	GO:0000003	reproduction	Reproduction	C0035150
+21813	21859	GO:0016234	inclusion body	Inclusion Bodies	C0007637
+22089	22100	GO:0032502	development	Biologic Development	C0678723
+22247	22280	GO:0007567	parturition	Birth	C0005615
+22247	22280	GO:0000003	reproduction	Reproduction	C0035150
+22380	22410	GO:0007567	parturition	Birth	C0005615
+22380	22410	GO:0000003	reproduction	Reproduction	C0035150
+22440	22453	GO:0006351	transcription	Transcription, Genetic	C0040649
+22530	22543	GO:0006351	transcription	Transcription, Genetic	C0040649
+22566	22576	GO:0006281	DNA repair	DNA Repair	C0012899
+22627	22643	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+22705	22715	GO:0006281	DNA repair	DNA Repair	C0012899
+22791	22826	GO:0007567	parturition	Birth	C0005615
+22791	22826	GO:0000003	reproduction	Reproduction	C0035150
+23392	23421	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+23584	23607	GO:0003904	photoreactivating enzyme activity		C2257086
+23609	23651	GO:0003904	photoreactivating enzyme activity		C2257086
+23878	23933	GO:0007567	parturition	Birth	C0005615
+23878	23933	GO:0000003	reproduction	Reproduction	C0035150
+23959	23966	GO:0007567	parturition	Birth	C0005615
+23959	23966	GO:0000003	reproduction	Reproduction	C0035150
+23962	23966	GO:0007567	parturition	Birth	C0005615
+23962	23966	GO:0000003	reproduction	Reproduction	C0035150
+24218	24258	GO:0000988	transcription factor activity		C1148759
+24285	24290	GO:0004784	superoxide dismutase activity		C1151619
+24374	24387	GO:0006351	transcription	Transcription, Genetic	C0040649
+24692	24736	GO:0007567	parturition	Birth	C0005615
+24692	24736	GO:0000003	reproduction	Reproduction	C0035150
+25268	25272	GO:0005623	cell	Cells	C0007634
+25316	25320	GO:0005623	cell	Cells	C0007634
+25429	25443	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+25672	25733	GO:0007567	parturition	Birth	C0005615
+25672	25733	GO:0000003	reproduction	Reproduction	C0035150
+26279	26313	GO:0007610	behavior	Behavior	C0004927
+26341	26351	GO:0006281	DNA repair	DNA Repair	C0012899
+26362	26399	GO:0000988	transcription factor activity		C1148759
+26908	26918	GO:0006281	DNA repair	DNA Repair	C0012899
+26931	26957	GO:0000988	transcription factor activity		C1148759
+27085	27098	GO:0006351	transcription	Transcription, Genetic	C0040649
+27147	27157	GO:0006281	DNA repair	DNA Repair	C0012899
+27203	27261	GO:0010467	gene expression	Gene Expression	C0017262
+27542	27555	GO:0006351	transcription	Transcription, Genetic	C0040649
+27594	27604	GO:0006281	DNA repair	DNA Repair	C0012899

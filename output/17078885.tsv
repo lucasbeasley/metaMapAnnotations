@@ -1,0 +1,395 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+0	44	GO:0007165	signal transduction	Signal Transduction	C0037083
+45	105	GO:0051402	apoptosis of neurons	Apoptosis of neurons	C1660771
+201	238	GO:0007567	parturition	Birth	C0005615
+350	365	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+370	428	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+435	465	GO:0007165	signal transduction	Signal Transduction	C0037083
+435	465	GO:0023052	biological signaling		C3537152
+498	527	GO:0014032	neural crest cell development		C1817633
+529	572	GO:0007165	signal transduction	Signal Transduction	C0037083
+529	572	GO:0023052	biological signaling		C3537152
+631	717	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+718	738	GO:0007165	signal transduction	Signal Transduction	C0037083
+718	738	GO:0023052	biological signaling		C3537152
+867	899	GO:0035904	aorta development		C3271358
+942	972	GO:0043198	dendritic shaft		C1523842
+1004	1031	GO:0001755	neural crest cell migration		C1326503
+1071	1150	GO:0043524	neuron survival		C1819944
+1188	1238	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+1258	1262	GO:0005623	cell	Cells	C0007634
+1301	1335	GO:0007507	cardiac development		C2263229
+1349	1399	GO:0007567	parturition	Birth	C0005615
+1444	1459	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+1463	1501	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+1509	1559	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+1668	1707	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+1798	1802	GO:0005623	cell	Cells	C0007634
+1908	1993	GO:0044249	cellular biosynthetic process		C1523936
+2078	2104	GO:0035003	subapical complex location		C1325744
+2078	2104	GO:0071173	spindle assembly checkpoint		C2754376
+2113	2141	GO:0030428	cell septum	Cell septum	C1327729
+2178	2212	GO:0043198	dendritic shaft		C1523842
+2250	2297	GO:0007507	cardiac development		C2263229
+2477	2513	GO:0043198	dendritic shaft		C1523842
+3028	3094	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+3151	3154	GO:0043198	dendritic shaft		C1523842
+3180	3239	GO:0009058	anabolism	Anabolism	C0220781
+3294	3305	GO:0032502	development	Biologic Development	C0678723
+3348	3411	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+3475	3484	GO:0000917	septation		C1748481
+3524	3580	GO:0070022	transforming growth factor beta receptor complex		C2610640
+3656	3663	GO:0005488	binding	Binding 	C1167622
+3673	3688	GO:0016310	phosphorylation	Phosphorylation	C0031715
+3673	3697	GO:0006468	protein phosphorylation	Protein phosphorylation	C1158886
+3768	3816	GO:0007165	signal transduction	Signal Transduction	C0037083
+3768	3816	GO:0023052	biological signaling		C3537152
+3859	3896	GO:0005488	binding	Binding 	C1167622
+3994	4026	GO:0005488	binding	Binding 	C1167622
+4126	4154	GO:0007165	signal transduction	Signal Transduction	C0037083
+4126	4154	GO:0023052	biological signaling		C3537152
+4199	4238	GO:0009058	anabolism	Anabolism	C0220781
+4382	4433	GO:0005488	binding	Binding 	C1167622
+4448	4454	GO:0040007	growth	Growth	C0018270
+4502	4534	GO:0005488	binding	Binding 	C1167622
+4643	4647	GO:0005623	cell	Cells	C0007634
+4697	4723	GO:0007601	vision	Vision	C0042789
+4767	4811	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+4854	4865	GO:0032502	development	Biologic Development	C0678723
+4960	4996	GO:0007601	vision	Vision	C0042789
+5049	5117	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+5144	5182	GO:0009790	embryo development	Embryonic Development	C0013936
+5191	5231	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+5361	5379	GO:0009790	embryo development	Embryonic Development	C0013936
+5388	5405	GO:0035003	subapical complex location		C1325744
+5388	5405	GO:0071173	spindle assembly checkpoint		C2754376
+5471	5480	GO:0000917	septation		C1748481
+5611	5668	GO:0051402	apoptosis of neurons	Apoptosis of neurons	C1660771
+5715	5752	GO:0007601	vision	Vision	C0042789
+5783	5819	GO:0007165	signal transduction	Signal Transduction	C0037083
+5783	5819	GO:0023052	biological signaling		C3537152
+5839	5846	GO:0005488	binding	Binding 	C1167622
+5915	5937	GO:0060465	pharyngeal development		C2610617
+5949	5978	GO:0043198	dendritic shaft		C1523842
+6384	6397	GO:0007567	parturition	Birth	C0005615
+6384	6397	GO:0000003	reproduction	Reproduction	C0035150
+6609	6616	GO:0009790	embryo development	Embryonic Development	C0013936
+6655	6664	GO:0007565	gestation	Pregnancy	C0032961
+6767	6790	GO:0007567	parturition	Birth	C0005615
+6847	6879	GO:0007165	signal transduction	Signal Transduction	C0037083
+6847	6879	GO:0023052	biological signaling		C3537152
+6894	6905	GO:0032502	development	Biologic Development	C0678723
+6968	7006	GO:0009790	embryo development	Embryonic Development	C0013936
+7020	7040	GO:0009790	embryo development	Embryonic Development	C0013936
+7074	7109	GO:0043198	dendritic shaft		C1523842
+7235	7262	GO:0009790	embryo development	Embryonic Development	C0013936
+7286	7319	GO:0043198	dendritic shaft		C1523842
+7339	7374	GO:0009790	embryo development	Embryonic Development	C0013936
+7894	7958	GO:0043198	dendritic shaft		C1523842
+8018	8052	GO:0043198	dendritic shaft		C1523842
+8256	8291	GO:0043198	dendritic shaft		C1523842
+8442	8473	GO:0007601	vision	Vision	C0042789
+8511	8532	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+8533	8580	GO:0043198	dendritic shaft		C1523842
+8614	8627	GO:0009653	morphogenesis	Morphogenesis	C0026559
+8713	8762	GO:0043198	dendritic shaft		C1523842
+8848	8870	GO:0043198	dendritic shaft		C1523842
+9008	9023	GO:0043198	dendritic shaft		C1523842
+9033	9069	GO:0030428	cell septum	Cell septum	C1327729
+9046	9068	GO:0030428	cell septum	Cell septum	C1327729
+9207	9212	GO:0007601	vision	Vision	C0042789
+9252	9268	GO:0043198	dendritic shaft		C1523842
+9326	9331	GO:0043198	dendritic shaft		C1523842
+9332	9347	GO:0043198	dendritic shaft		C1523842
+9496	9526	GO:0043198	dendritic shaft		C1523842
+9584	9618	GO:0035003	subapical complex location		C1325744
+9584	9618	GO:0071173	spindle assembly checkpoint		C2754376
+9620	9654	GO:0072358	cardiovascular system development		C3156318
+9620	9654	GO:0072359	circulatory system development		C3156319
+9655	9663	GO:1990295	post-anaphase microtubule array		C3814045
+9791	9814	GO:0007165	signal transduction	Signal Transduction	C0037083
+9791	9814	GO:0023052	biological signaling		C3537152
+9819	9850	GO:1990295	post-anaphase microtubule array		C3814045
+9911	9922	GO:0032502	development	Biologic Development	C0678723
+9982	10014	GO:1990295	post-anaphase microtubule array		C3814045
+10113	10133	GO:0009058	anabolism	Anabolism	C0220781
+10142	10151	GO:1990295	post-anaphase microtubule array		C3814045
+10217	10225	GO:1990295	post-anaphase microtubule array		C3814045
+10335	10352	GO:1990295	post-anaphase microtubule array		C3814045
+10391	10411	GO:1990295	post-anaphase microtubule array		C3814045
+10721	10738	GO:1990295	post-anaphase microtubule array		C3814045
+10761	10792	GO:1990295	post-anaphase microtubule array		C3814045
+10884	10912	GO:1990295	post-anaphase microtubule array		C3814045
+11242	11251	GO:1990295	post-anaphase microtubule array		C3814045
+11256	11271	GO:0043198	dendritic shaft		C1523842
+11288	11307	GO:0043198	dendritic shaft		C1523842
+11323	11337	GO:0035003	subapical complex location		C1325744
+11323	11337	GO:0071173	spindle assembly checkpoint		C2754376
+11390	11436	GO:0007601	vision	Vision	C0042789
+11562	11606	GO:1990295	post-anaphase microtubule array		C3814045
+11680	11703	GO:0035003	subapical complex location		C1325744
+11680	11703	GO:0071173	spindle assembly checkpoint		C2754376
+11741	11752	GO:0043198	dendritic shaft		C1523842
+11803	11824	GO:1990295	post-anaphase microtubule array		C3814045
+11825	11873	GO:1990295	post-anaphase microtubule array		C3814045
+11976	12003	GO:0035003	subapical complex location		C1325744
+11976	12003	GO:0071173	spindle assembly checkpoint		C2754376
+12004	12025	GO:0009790	embryo development	Embryonic Development	C0013936
+12078	12120	GO:0043198	dendritic shaft		C1523842
+12158	12203	GO:0035003	subapical complex location		C1325744
+12158	12203	GO:0071173	spindle assembly checkpoint		C2754376
+12246	12294	GO:0035003	subapical complex location		C1325744
+12246	12294	GO:0071173	spindle assembly checkpoint		C2754376
+12295	12311	GO:0007601	vision	Vision	C0042789
+12335	12372	GO:0009790	embryo development	Embryonic Development	C0013936
+12498	12538	GO:0035003	subapical complex location		C1325744
+12498	12538	GO:0071173	spindle assembly checkpoint		C2754376
+12925	12946	GO:0009790	embryo development	Embryonic Development	C0013936
+13102	13121	GO:0009790	embryo development	Embryonic Development	C0013936
+13268	13319	GO:0009790	embryo development	Embryonic Development	C0013936
+13376	13380	GO:0005623	cell	Cells	C0007634
+13469	13478	GO:1990295	post-anaphase microtubule array		C3814045
+13479	13489	GO:0035003	subapical complex location		C1325744
+13479	13489	GO:0071173	spindle assembly checkpoint		C2754376
+14069	14077	GO:1990295	post-anaphase microtubule array		C3814045
+14153	14180	GO:0004565	beta-galactosidase activity		C1150053
+14183	14193	GO:0035003	subapical complex location		C1325744
+14183	14193	GO:0071173	spindle assembly checkpoint		C2754376
+14198	14261	GO:0030428	cell septum	Cell septum	C1327729
+14263	14272	GO:0000917	septation		C1748481
+14350	14376	GO:0035003	subapical complex location		C1325744
+14350	14376	GO:0071173	spindle assembly checkpoint		C2754376
+14426	14450	GO:0030261	chromosome condensation	Chromosome Condensation	C1155631
+14471	14506	GO:0035003	subapical complex location		C1325744
+14471	14506	GO:0071173	spindle assembly checkpoint		C2754376
+14507	14533	GO:0007567	parturition	Birth	C0005615
+14507	14533	GO:0000003	reproduction	Reproduction	C0035150
+14538	14547	GO:1990295	post-anaphase microtubule array		C3814045
+14562	14620	GO:0030428	cell septum	Cell septum	C1327729
+14621	14653	GO:0043198	dendritic shaft		C1523842
+14680	14689	GO:0000917	septation		C1748481
+14706	14731	GO:0035003	subapical complex location		C1325744
+14706	14731	GO:0071173	spindle assembly checkpoint		C2754376
+14732	14773	GO:0009790	embryo development	Embryonic Development	C0013936
+14825	14836	GO:0043198	dendritic shaft		C1523842
+14856	14888	GO:0007601	vision	Vision	C0042789
+14913	14942	GO:0043198	dendritic shaft		C1523842
+15160	15211	GO:0035003	subapical complex location		C1325744
+15160	15211	GO:0071173	spindle assembly checkpoint		C2754376
+15263	15308	GO:0035003	subapical complex location		C1325744
+15263	15308	GO:0071173	spindle assembly checkpoint		C2754376
+15313	15343	GO:0043198	dendritic shaft		C1523842
+15351	15360	GO:0000917	septation		C1748481
+15386	15449	GO:0030261	chromosome condensation	Chromosome Condensation	C1155631
+15499	15518	GO:0043198	dendritic shaft		C1523842
+15654	15688	GO:0051145	smooth muscle cell differentiation		C1523169
+15724	15769	GO:0035003	subapical complex location		C1325744
+15724	15769	GO:0071173	spindle assembly checkpoint		C2754376
+15774	15785	GO:0043198	dendritic shaft		C1523842
+15823	15850	GO:0009058	anabolism	Anabolism	C0220781
+16002	16006	GO:0005623	cell	Cells	C0007634
+16052	16083	GO:1990295	post-anaphase microtubule array		C3814045
+16088	16099	GO:0043198	dendritic shaft		C1523842
+16292	16322	GO:0035003	subapical complex location		C1325744
+16292	16322	GO:0071173	spindle assembly checkpoint		C2754376
+16327	16338	GO:0043198	dendritic shaft		C1523842
+16370	16400	GO:0007601	vision	Vision	C0042789
+16426	16450	GO:1990295	post-anaphase microtubule array		C3814045
+16522	16558	GO:0030428	cell septum	Cell septum	C1327729
+16579	16587	GO:1990295	post-anaphase microtubule array		C3814045
+16601	16645	GO:0030261	chromosome condensation	Chromosome Condensation	C1155631
+16663	16699	GO:0043198	dendritic shaft		C1523842
+16712	16726	GO:0030428	cell septum	Cell septum	C1327729
+16741	16753	GO:1990295	post-anaphase microtubule array		C3814045
+16833	16842	GO:0000917	septation		C1748481
+16881	16906	GO:0035003	subapical complex location		C1325744
+16881	16906	GO:0071173	spindle assembly checkpoint		C2754376
+16911	16936	GO:0043198	dendritic shaft		C1523842
+17054	17082	GO:0007165	signal transduction	Signal Transduction	C0037083
+17054	17082	GO:0023052	biological signaling		C3537152
+17098	17132	GO:0051145	smooth muscle cell differentiation		C1523169
+17239	17269	GO:0035003	subapical complex location		C1325744
+17239	17269	GO:0071173	spindle assembly checkpoint		C2754376
+17274	17290	GO:0043198	dendritic shaft		C1523842
+17291	17329	GO:0009058	anabolism	Anabolism	C0220781
+17330	17378	GO:0009405	pathogenesis	Pathogenesis	C0699748
+17419	17434	GO:0043198	dendritic shaft		C1523842
+17562	17584	GO:0009790	embryo development	Embryonic Development	C0013936
+17723	17739	GO:0007601	vision	Vision	C0042789
+17790	17801	GO:0035003	subapical complex location		C1325744
+17790	17801	GO:0071173	spindle assembly checkpoint		C2754376
+17811	17821	GO:0035003	subapical complex location		C1325744
+17811	17821	GO:0071173	spindle assembly checkpoint		C2754376
+17826	17833	GO:0043198	dendritic shaft		C1523842
+17856	17874	GO:0007165	signal transduction	Signal Transduction	C0037083
+17856	17874	GO:0023052	biological signaling		C3537152
+17932	17941	GO:0000917	septation		C1748481
+18265	18276	GO:1990295	post-anaphase microtubule array		C3814045
+18282	18292	GO:0035003	subapical complex location		C1325744
+18282	18292	GO:0071173	spindle assembly checkpoint		C2754376
+18298	18316	GO:0043198	dendritic shaft		C1523842
+18333	18348	GO:0043198	dendritic shaft		C1523842
+18384	18409	GO:0030428	cell septum	Cell septum	C1327729
+18441	18497	GO:0051402	apoptosis of neurons	Apoptosis of neurons	C1660771
+18551	18591	GO:0030428	cell septum	Cell septum	C1327729
+18592	18621	GO:0035003	subapical complex location		C1325744
+18592	18621	GO:0071173	spindle assembly checkpoint		C2754376
+18622	18648	GO:0007567	parturition	Birth	C0005615
+18622	18648	GO:0000003	reproduction	Reproduction	C0035150
+18653	18662	GO:1990295	post-anaphase microtubule array		C3814045
+18764	18773	GO:0097194	apoptosis	Apoptosis	C0162638
+18966	18970	GO:0005623	cell	Cells	C0007634
+18995	19009	GO:0035003	subapical complex location		C1325744
+18995	19009	GO:0071173	spindle assembly checkpoint		C2754376
+19035	19054	GO:0030428	cell septum	Cell septum	C1327729
+19110	19114	GO:0005623	cell	Cells	C0007634
+19140	19144	GO:0005623	cell	Cells	C0007634
+19323	19332	GO:0097194	apoptosis	Apoptosis	C0162638
+19360	19396	GO:0097194	apoptosis	Apoptosis	C0162638
+19438	19465	GO:0030428	cell septum	Cell septum	C1327729
+19535	19544	GO:0097194	apoptosis	Apoptosis	C0162638
+19688	19727	GO:0009790	embryo development	Embryonic Development	C0013936
+19738	19747	GO:0097194	apoptosis	Apoptosis	C0162638
+19823	19832	GO:0000917	septation		C1748481
+19896	19905	GO:0097194	apoptosis	Apoptosis	C0162638
+20034	20043	GO:0097194	apoptosis	Apoptosis	C0162638
+20079	20102	GO:0035003	subapical complex location		C1325744
+20079	20102	GO:0071173	spindle assembly checkpoint		C2754376
+20311	20349	GO:0009790	embryo development	Embryonic Development	C0013936
+20363	20383	GO:0097194	apoptosis	Apoptosis	C0162638
+20384	20411	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+20439	20450	GO:0035003	subapical complex location		C1325744
+20439	20450	GO:0071173	spindle assembly checkpoint		C2754376
+20451	20494	GO:0097194	apoptosis	Apoptosis	C0162638
+20507	20522	GO:0035003	subapical complex location		C1325744
+20507	20522	GO:0071173	spindle assembly checkpoint		C2754376
+20612	20621	GO:0097194	apoptosis	Apoptosis	C0162638
+20622	20672	GO:1990295	post-anaphase microtubule array		C3814045
+20677	20692	GO:0035003	subapical complex location		C1325744
+20677	20692	GO:0071173	spindle assembly checkpoint		C2754376
+20716	20725	GO:0000917	septation		C1748481
+20746	20781	GO:0007165	signal transduction	Signal Transduction	C0037083
+20746	20781	GO:0023052	biological signaling		C3537152
+20847	20856	GO:0097194	apoptosis	Apoptosis	C0162638
+20884	20915	GO:0007601	vision	Vision	C0042789
+21016	21049	GO:0060465	pharyngeal development		C2610617
+21138	21141	GO:0007601	vision	Vision	C0042789
+21303	21319	GO:0007601	vision	Vision	C0042789
+21450	21481	GO:0044326	dendritic spine neck		C3159206
+21498	21543	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+21802	21813	GO:0032502	development	Biologic Development	C0678723
+21905	21936	GO:0044326	dendritic spine neck		C3159206
+21940	21955	GO:0007601	vision	Vision	C0042789
+22294	22325	GO:0007601	vision	Vision	C0042789
+22620	22624	GO:0007601	vision	Vision	C0042789
+22675	22701	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+22736	22740	GO:0005623	cell	Cells	C0007634
+23472	23521	GO:0007567	parturition	Birth	C0005615
+23472	23521	GO:0000003	reproduction	Reproduction	C0035150
+23612	23655	GO:0007567	parturition	Birth	C0005615
+23612	23655	GO:0000003	reproduction	Reproduction	C0035150
+23967	23974	GO:0005488	binding	Binding 	C1167622
+24120	24168	GO:0043198	dendritic shaft		C1523842
+24224	24263	GO:1990295	post-anaphase microtubule array		C3814045
+24273	24322	GO:1990295	post-anaphase microtubule array		C3814045
+24367	24407	GO:0035003	subapical complex location		C1325744
+24367	24407	GO:0071173	spindle assembly checkpoint		C2754376
+24425	24434	GO:0000917	septation		C1748481
+24475	24540	GO:0043198	dendritic shaft		C1523842
+24586	24631	GO:0035003	subapical complex location		C1325744
+24586	24631	GO:0071173	spindle assembly checkpoint		C2754376
+24632	24691	GO:0043198	dendritic shaft		C1523842
+24704	24752	GO:1990295	post-anaphase microtubule array		C3814045
+24823	24911	GO:0051402	apoptosis of neurons	Apoptosis of neurons	C1660771
+24974	24984	GO:0008219	cell death	Cell Death	C0007587
+25078	25112	GO:0007165	signal transduction	Signal Transduction	C0037083
+25078	25112	GO:0023052	biological signaling		C3537152
+25164	25180	GO:0043235	receptor complex		C1523873
+25201	25236	GO:0007165	signal transduction	Signal Transduction	C0037083
+25201	25236	GO:0023052	biological signaling		C3537152
+25389	25433	GO:0048179	activin receptor complex		C1325737
+25518	25524	GO:0040007	growth	Growth	C0018270
+25765	25776	GO:0032502	development	Biologic Development	C0678723
+25830	25852	GO:0040007	growth	Growth	C0018270
+25948	25961	GO:0009653	morphogenesis	Morphogenesis	C0026559
+25988	25997	GO:0097194	apoptosis	Apoptosis	C0162638
+26036	26049	GO:0030428	cell septum	Cell septum	C1327729
+26050	26082	GO:0007567	parturition	Birth	C0005615
+26050	26082	GO:0000003	reproduction	Reproduction	C0035150
+26087	26096	GO:1990295	post-anaphase microtubule array		C3814045
+26124	26127	GO:0007601	vision	Vision	C0042789
+26136	26145	GO:0097194	apoptosis	Apoptosis	C0162638
+26205	26237	GO:0035003	subapical complex location		C1325744
+26205	26237	GO:0071173	spindle assembly checkpoint		C2754376
+26238	26270	GO:0030428	cell septum	Cell septum	C1327729
+26282	26292	GO:0008219	cell death	Cell Death	C0007587
+26302	26322	GO:0030428	cell septum	Cell septum	C1327729
+26323	26339	GO:0007601	vision	Vision	C0042789
+26365	26369	GO:0005623	cell	Cells	C0007634
+26386	26424	GO:0030485	smooth muscle fiber	Myocytes, Smooth Muscle	C1135918
+26468	26514	GO:0030428	cell septum	Cell septum	C1327729
+26580	26584	GO:0005623	cell	Cells	C0007634
+26594	26607	GO:0030428	cell septum	Cell septum	C1327729
+26636	26646	GO:0008219	cell death	Cell Death	C0007587
+26682	26686	GO:0005623	cell	Cells	C0007634
+26696	26709	GO:0030428	cell septum	Cell septum	C1327729
+26746	26783	GO:0030485	smooth muscle fiber	Myocytes, Smooth Muscle	C1135918
+26825	26869	GO:0007165	signal transduction	Signal Transduction	C0037083
+26825	26869	GO:0023052	biological signaling		C3537152
+26870	26896	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+26897	26922	GO:0030485	smooth muscle fiber	Myocytes, Smooth Muscle	C1135918
+27008	27066	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+27067	27083	GO:0030428	cell septum	Cell septum	C1327729
+27234	27257	GO:0007165	signal transduction	Signal Transduction	C0037083
+27234	27257	GO:0023052	biological signaling		C3537152
+27265	27307	GO:0051145	smooth muscle cell differentiation		C1523169
+27437	27483	GO:0007601	vision	Vision	C0042789
+27571	27581	GO:0005694	chromosome	Chromosomes	C0008633
+27671	27700	GO:0007601	vision	Vision	C0042789
+27730	27746	GO:0007601	vision	Vision	C0042789
+27981	27991	GO:0008219	cell death	Cell Death	C0007587
+28163	28183	GO:0007601	vision	Vision	C0042789
+28248	28253	GO:0007567	parturition	Birth	C0005615
+28248	28253	GO:0000003	reproduction	Reproduction	C0035150
+28689	28721	GO:0016477	cell migration	Migration, Cell	C1622501
+28999	29036	GO:0007601	vision	Vision	C0042789
+29051	29078	GO:0035003	subapical complex location		C1325744
+29051	29078	GO:0071173	spindle assembly checkpoint		C2754376
+29255	29295	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+29321	29325	GO:0005623	cell	Cells	C0007634
+29602	29639	GO:0030428	cell septum	Cell septum	C1327729
+29703	29754	GO:0030428	cell septum	Cell septum	C1327729
+29822	29850	GO:0030428	cell septum	Cell septum	C1327729
+29860	29864	GO:0007601	vision	Vision	C0042789
+29866	29917	GO:0035003	subapical complex location		C1325744
+29866	29917	GO:0071173	spindle assembly checkpoint		C2754376
+29922	29934	GO:0043198	dendritic shaft		C1523842
+29951	29994	GO:0030428	cell septum	Cell septum	C1327729
+30011	30045	GO:0051145	smooth muscle cell differentiation		C1523169
+30163	30225	GO:0007567	parturition	Birth	C0005615
+30265	30269	GO:0005623	cell	Cells	C0007634
+30304	30334	GO:0007165	signal transduction	Signal Transduction	C0037083
+30304	30334	GO:0023052	biological signaling		C3537152
+30458	30498	GO:0030061	mitochondrial cristae	Mitochondrial cristae	C0230844
+30531	30560	GO:0007601	vision	Vision	C0042789
+30611	30625	GO:0007165	signal transduction	Signal Transduction	C0037083
+30611	30625	GO:0023052	biological signaling		C3537152
+30692	30730	GO:0007507	cardiac development		C2263229
+30787	30802	GO:0009790	embryo development	Embryonic Development	C0013936
+30808	30836	GO:0009291	unidirectional conjugation		C1160186
+30808	30836	GO:0007618	mating		C1260875
+30808	30836	GO:0000747	conjugation with cellular fusion		C1748461
+30808	30836	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+31350	31408	GO:0007618	mating		C1260875
+31504	31511	GO:0009790	embryo development	Embryonic Development	C0013936
+31504	31511	GO:0009790	embryo development	Embryonic Development	C0013936
+31504	31511	GO:0009790	embryo development	Embryonic Development	C0013936
+31836	31863	GO:0004565	beta-galactosidase activity		C1150053
+32279	32294	GO:0007165	signal transduction	Signal Transduction	C0037083
+32279	32294	GO:0007165	signal transduction	Signal Transduction	C0037083
+32333	32344	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+32447	32459	GO:0009790	embryo development	Embryonic Development	C0013936
+32452	32459	GO:0009790	embryo development	Embryonic Development	C0013936
+32452	32459	GO:0009790	embryo development	Embryonic Development	C0013936
+33383	33408	GO:0009790	embryo development	Embryonic Development	C0013936
+33683	33721	GO:0009790	embryo development	Embryonic Development	C0013936

@@ -1,0 +1,194 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+0	18	GO:0007567	parturition	Birth	C0005615
+0	18	GO:0000003	reproduction	Reproduction	C0035150
+42	52	GO:0007599	hemostasis	Hemostatic function	C0019116
+355	373	GO:0001974	blood vessel remodeling		C1622383
+401	434	GO:0007567	parturition	Birth	C0005615
+401	434	GO:0000003	reproduction	Reproduction	C0035150
+487	497	GO:0007599	hemostasis	Hemostatic function	C0019116
+558	568	GO:0007599	hemostasis	Hemostatic function	C0019116
+642	652	GO:0005694	chromosome	Chromosomes	C0008633
+763	773	GO:0007599	hemostasis	Hemostatic function	C0019116
+999	1009	GO:0007599	hemostasis	Hemostatic function	C0019116
+1090	1100	GO:0005694	chromosome	Chromosomes	C0008633
+1127	1137	GO:0005694	chromosome	Chromosomes	C0008633
+1457	1474	GO:0007596	blood coagulation	Blood coagulation	C0005778
+1457	1474	GO:0050817	clotting	Coagulation process	C1328723
+1579	1589	GO:0005694	chromosome	Chromosomes	C0008633
+1756	1766	GO:0005694	chromosome	Chromosomes	C0008633
+1842	1852	GO:0005694	chromosome	Chromosomes	C0008633
+2068	2079	GO:0007599	hemostasis	Hemostatic function	C0019116
+2137	2147	GO:0005694	chromosome	Chromosomes	C0008633
+2363	2394	GO:0007567	parturition	Birth	C0005615
+2363	2394	GO:0000003	reproduction	Reproduction	C0035150
+2498	2574	GO:0007567	parturition	Birth	C0005615
+2498	2574	GO:0000003	reproduction	Reproduction	C0035150
+2677	2706	GO:0007567	parturition	Birth	C0005615
+2677	2706	GO:0000003	reproduction	Reproduction	C0035150
+2804	2858	GO:0009058	anabolism	Anabolism	C0220781
+3110	3140	GO:0007567	parturition	Birth	C0005615
+3110	3140	GO:0000003	reproduction	Reproduction	C0035150
+3192	3225	GO:0007596	blood coagulation	Blood coagulation	C0005778
+3192	3225	GO:0050817	clotting	Coagulation process	C1328723
+3382	3434	GO:0007567	parturition	Birth	C0005615
+3382	3434	GO:0000003	reproduction	Reproduction	C0035150
+3662	3699	GO:0007567	parturition	Birth	C0005615
+3662	3699	GO:0000003	reproduction	Reproduction	C0035150
+3751	3781	GO:0007567	parturition	Birth	C0005615
+3751	3781	GO:0000003	reproduction	Reproduction	C0035150
+3793	3818	GO:0003674	molecular_function		C1148560
+3850	3868	GO:0009058	anabolism	Anabolism	C0220781
+3873	3878	GO:0019835	cytolysis	pathologic cytolysis	C1536403
+4376	4393	GO:0001974	blood vessel remodeling		C1622383
+4558	4572	GO:0009058	anabolism	Anabolism	C0220781
+4577	4583	GO:0019835	cytolysis	pathologic cytolysis	C1536403
+4632	4652	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+4654	4666	GO:0007596	blood coagulation	Blood coagulation	C0005778
+4654	4666	GO:0050817	clotting	Coagulation process	C1328723
+4937	4947	GO:0005694	chromosome	Chromosomes	C0008633
+5237	5247	GO:0005694	chromosome	Chromosomes	C0008633
+5418	5433	GO:0007567	parturition	Birth	C0005615
+5418	5433	GO:0000003	reproduction	Reproduction	C0035150
+5515	5525	GO:0005694	chromosome	Chromosomes	C0008633
+5550	5560	GO:0005694	chromosome	Chromosomes	C0008633
+5647	5655	GO:0005694	chromosome	Chromosomes	C0008633
+5706	5716	GO:0005694	chromosome	Chromosomes	C0008633
+5904	5932	GO:0005694	chromosome	Chromosomes	C0008633
+5967	6001	GO:0005694	chromosome	Chromosomes	C0008633
+6046	6054	GO:0007610	behavior	Behavior	C0004927
+6097	6122	GO:1902698	acidogenesis		C3823112
+6398	6421	GO:0007596	blood coagulation	Blood coagulation	C0005778
+6398	6421	GO:0050817	clotting	Coagulation process	C1328723
+6426	6438	GO:0042730	fibrinolysis	Fibrinolysis	C0016017
+6560	6584	GO:0007596	blood coagulation	Blood coagulation	C0005778
+6560	6584	GO:0050817	clotting	Coagulation process	C1328723
+6588	6608	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+6844	6894	GO:0007567	parturition	Birth	C0005615
+6844	6894	GO:0000003	reproduction	Reproduction	C0035150
+6895	6922	GO:0007599	hemostasis	Hemostatic function	C0019116
+7024	7090	GO:0007567	parturition	Birth	C0005615
+7024	7090	GO:0000003	reproduction	Reproduction	C0035150
+8311	8354	GO:0009058	anabolism	Anabolism	C0220781
+8495	8502	GO:0031430	midline	midline cell component	C1660780
+9890	9902	GO:0007596	blood coagulation	Blood coagulation	C0005778
+9890	9902	GO:0050817	clotting	Coagulation process	C1328723
+9928	9939	GO:0005577	fibrinogen complex location		C1167394
+10243	10295	GO:0007596	blood coagulation	Blood coagulation	C0005778
+10243	10295	GO:0050817	clotting	Coagulation process	C1328723
+10506	10529	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10679	10711	GO:0005577	fibrinogen complex location		C1167394
+10904	10935	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10981	11011	GO:0005577	fibrinogen complex location		C1167394
+11012	11027	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+11043	11059	GO:0005577	fibrinogen complex location		C1167394
+12122	12125	GO:0007601	vision	Vision	C0042789
+12237	12286	GO:0009058	anabolism	Anabolism	C0220781
+14254	14290	GO:0007599	hemostasis	Hemostatic function	C0019116
+14743	14753	GO:0007599	hemostasis	Hemostatic function	C0019116
+14853	14873	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+14913	14935	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+15404	15424	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+16900	16949	GO:0050789	regulation of biological process	Regulation of biological process	C1327622
+16968	16985	GO:0007596	blood coagulation	Blood coagulation	C0005778
+17027	17053	GO:0007596	blood coagulation	Blood coagulation	C0005778
+17027	17053	GO:0050817	clotting	Coagulation process	C1328723
+17212	17262	GO:0007596	blood coagulation	Blood coagulation	C0005778
+17212	17262	GO:0050817	clotting	Coagulation process	C1328723
+17360	17387	GO:0002542	Factor XII activation		C1817995
+17525	17547	GO:0005577	fibrinogen complex location		C1167394
+17695	17718	GO:0007596	blood coagulation	Blood coagulation	C0005778
+17695	17718	GO:0050817	clotting	Coagulation process	C1328723
+17699	17710	GO:0007596	blood coagulation	Blood coagulation	C0005778
+17699	17710	GO:0050817	clotting	Coagulation process	C1328723
+18246	18256	GO:0005577	fibrinogen complex location		C1167394
+18321	18353	GO:0043687	post-translational protein modification	Post-Translational Protein Processing	C0033666
+18321	18353	GO:0006464	protein modification process		C2263112
+19544	19571	GO:0009289	pilus	Bacterial Fimbria	C0031921
+19760	19836	GO:0030220	platelet formation		C1159962
+20448	20462	GO:0000785	chromatin	chromatin location	C1325550
+20877	20887	GO:0005694	chromosome	Chromosomes	C0008633
+20988	20998	GO:0007599	hemostasis	Hemostatic function	C0019116
+22984	22994	GO:0005694	chromosome	Chromosomes	C0008633
+23122	23132	GO:0005694	chromosome	Chromosomes	C0008633
+23422	23432	GO:0005694	chromosome	Chromosomes	C0008633
+23821	23831	GO:0005694	chromosome	Chromosomes	C0008633
+24021	24031	GO:0005577	fibrinogen complex location		C1167394
+24449	24452	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+25710	25720	GO:0005694	chromosome	Chromosomes	C0008633
+26034	26065	GO:0009058	anabolism	Anabolism	C0220781
+26736	26765	GO:0007567	parturition	Birth	C0005615
+26736	26765	GO:0000003	reproduction	Reproduction	C0035150
+26769	26779	GO:0005694	chromosome	Chromosomes	C0008633
+27017	27027	GO:0005694	chromosome	Chromosomes	C0008633
+27574	27592	GO:0001974	blood vessel remodeling		C1622383
+27777	27819	GO:0007567	parturition	Birth	C0005615
+27777	27819	GO:0000003	reproduction	Reproduction	C0035150
+27893	27926	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+28087	28101	GO:0007596	blood coagulation	Blood coagulation	C0005778
+28087	28101	GO:0050817	clotting	Coagulation process	C1328723
+28105	28123	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+28159	28169	GO:0005694	chromosome	Chromosomes	C0008633
+28171	28190	GO:0007567	parturition	Birth	C0005615
+28171	28190	GO:0000003	reproduction	Reproduction	C0035150
+28285	28295	GO:0005694	chromosome	Chromosomes	C0008633
+28334	28344	GO:0005694	chromosome	Chromosomes	C0008633
+28630	28640	GO:0005694	chromosome	Chromosomes	C0008633
+28630	28653	GO:0005694	chromosome	Chromosomes	C0008633
+28907	28914	GO:0007567	parturition	Birth	C0005615
+28907	28914	GO:0000003	reproduction	Reproduction	C0035150
+29092	29110	GO:0009058	anabolism	Anabolism	C0220781
+29824	29856	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+29861	29877	GO:0007596	blood coagulation	Blood coagulation	C0005778
+29861	29877	GO:0050817	clotting	Coagulation process	C1328723
+29965	29988	GO:0009058	anabolism	Anabolism	C0220781
+30086	30102	GO:0004283	plasmin activity		C1150268
+30115	30138	GO:0019835	cytolysis	pathologic cytolysis	C1536403
+30163	30203	GO:0009058	anabolism	Anabolism	C0220781
+30336	30365	GO:0007596	blood coagulation	Blood coagulation	C0005778
+30336	30365	GO:0050817	clotting	Coagulation process	C1328723
+30529	30592	GO:0007567	parturition	Birth	C0005615
+30804	30846	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+30847	30868	GO:0009058	anabolism	Anabolism	C0220781
+30919	30957	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+31099	31119	GO:0070527	platelet aggregation	Platelet aggregation	C0032176
+31308	31334	GO:0009058	anabolism	Anabolism	C0220781
+31427	31465	GO:0007567	parturition	Birth	C0005615
+33370	33392	GO:0032963	collagen metabolic process		C2246342
+33396	33416	GO:0031012	extracellular matrix	Extracellular Matrix	C0015350
+33548	33566	GO:0007567	parturition	Birth	C0005615
+33548	33566	GO:0000003	reproduction	Reproduction	C0035150
+33617	33627	GO:0005694	chromosome	Chromosomes	C0008633
+34064	34103	GO:0007567	parturition	Birth	C0005615
+34064	34103	GO:0000003	reproduction	Reproduction	C0035150
+34448	34458	GO:0005694	chromosome	Chromosomes	C0008633
+34476	34488	GO:0007567	parturition	Birth	C0005615
+34476	34488	GO:0000003	reproduction	Reproduction	C0035150
+34665	34690	GO:0007567	parturition	Birth	C0005615
+34665	34690	GO:0000003	reproduction	Reproduction	C0035150
+34726	34736	GO:0005694	chromosome	Chromosomes	C0008633
+34740	34769	GO:0007567	parturition	Birth	C0005615
+34740	34769	GO:0000003	reproduction	Reproduction	C0035150
+34770	34816	GO:0000496	base pairing	Base Pairing	C0600436
+34820	34853	GO:0007567	parturition	Birth	C0005615
+34820	34853	GO:0000003	reproduction	Reproduction	C0035150
+34906	34952	GO:0007567	parturition	Birth	C0005615
+34906	34952	GO:0000003	reproduction	Reproduction	C0035150
+35005	35018	GO:0007567	parturition	Birth	C0005615
+35005	35018	GO:0000003	reproduction	Reproduction	C0035150
+35183	35249	GO:0009058	anabolism	Anabolism	C0220781
+35363	35373	GO:0005694	chromosome	Chromosomes	C0008633
+35439	35448	GO:0007567	parturition	Birth	C0005615
+35439	35448	GO:0000003	reproduction	Reproduction	C0035150
+35648	35682	GO:0007567	parturition	Birth	C0005615
+35648	35682	GO:0000003	reproduction	Reproduction	C0035150
+35687	35699	GO:0007599	hemostasis	Hemostatic function	C0019116
+35755	35768	GO:0007567	parturition	Birth	C0005615
+35755	35768	GO:0000003	reproduction	Reproduction	C0035150
+35793	35802	GO:0007567	parturition	Birth	C0005615
+35793	35802	GO:0000003	reproduction	Reproduction	C0035150
+35898	35918	GO:0031012	extracellular matrix	Extracellular Matrix	C0015350
+36056	36117	GO:0007567	parturition	Birth	C0005615
+36056	36117	GO:0000003	reproduction	Reproduction	C0035150
+36155	36165	GO:0005694	chromosome	Chromosomes	C0008633
+37217	37240	GO:0003904	photoreactivating enzyme activity		C2257086
+37242	37284	GO:0003904	photoreactivating enzyme activity		C2257086

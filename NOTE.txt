@@ -1,0 +1,5 @@
+16121255.txt contains non-ascii character ⋅ replaced with -
+16121256.txt contains non-ascii character ‡ replaced with =
+16279840.txt contains non-ascii character ∼ replaced with ~
+16870721.txt contains non-ascii character ∼ replaced with ~
+17696610.txt contains non-ascii character ∼ replaced with ~

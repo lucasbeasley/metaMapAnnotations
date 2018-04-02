@@ -1,0 +1,500 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+0	28	GO:0007567	parturition	Birth	C0005615
+0	28	GO:0000003	reproduction	Reproduction	C0035150
+37	80	GO:0000988	transcription factor activity		C1148759
+107	120	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+132	145	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+159	212	GO:0003677	DNA binding	dna binding	C1148673
+227	240	GO:0006351	transcription	Transcription, Genetic	C0040649
+288	335	GO:0007567	parturition	Birth	C0005615
+288	335	GO:0000003	reproduction	Reproduction	C0035150
+357	371	GO:0009790	embryo development	Embryonic Development	C0013936
+382	395	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+427	431	GO:0005623	cell	Cells	C0007634
+504	517	GO:0006351	transcription	Transcription, Genetic	C0040649
+641	652	GO:0032502	development	Biologic Development	C0678723
+654	699	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+716	769	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+799	808	GO:0097194	apoptosis	Apoptosis	C0162638
+940	990	GO:0035162	embryonic hemopoiesis		C1523613
+1066	1113	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+1118	1165	GO:0009058	anabolism	Anabolism	C0220781
+1227	1231	GO:0005623	cell	Cells	C0007634
+1250	1301	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+1330	1334	GO:0005623	cell	Cells	C0007634
+1458	1473	GO:0048469	cell maturation	Cell Maturation	C1516349
+1519	1532	GO:0006351	transcription	Transcription, Genetic	C0040649
+1555	1600	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+1632	1645	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+1684	1702	GO:0008283	cell proliferation	Cell Proliferation	C0596290
+1707	1771	GO:0048863	stem cell differentiation	Stem Cell Differentiation	C1514964
+1821	1825	GO:0005623	cell	Cells	C0007634
+1850	1863	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+1991	1995	GO:0005623	cell	Cells	C0007634
+2009	2040	GO:0009790	embryo development	Embryonic Development	C0013936
+2041	2090	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+2181	2213	GO:0060215	primitive hemopoiesis		C2262992
+2276	2280	GO:0005623	cell	Cells	C0007634
+2287	2328	GO:0009790	embryo development	Embryonic Development	C0013936
+2329	2364	GO:0060215	primitive hemopoiesis		C2262992
+2374	2407	GO:0009790	embryo development	Embryonic Development	C0013936
+2440	2473	GO:0060216	definitive hemopoiesis		C2262993
+2505	2509	GO:0005623	cell	Cells	C0007634
+2588	2629	GO:0060216	definitive hemopoiesis		C2262993
+2710	2714	GO:0005623	cell	Cells	C0007634
+2760	2764	GO:0005623	cell	Cells	C0007634
+2804	2822	GO:0007567	parturition	Birth	C0005615
+2804	2822	GO:0000003	reproduction	Reproduction	C0035150
+2839	2844	GO:0007567	parturition	Birth	C0005615
+2839	2844	GO:0000003	reproduction	Reproduction	C0035150
+2858	2871	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+2966	2981	GO:0007567	parturition	Birth	C0005615
+2966	2981	GO:0000003	reproduction	Reproduction	C0035150
+3058	3145	GO:0000988	transcription factor activity		C1148759
+3177	3222	GO:0007567	parturition	Birth	C0005615
+3177	3222	GO:0000003	reproduction	Reproduction	C0035150
+3332	3362	GO:0007567	parturition	Birth	C0005615
+3332	3362	GO:0000003	reproduction	Reproduction	C0035150
+3369	3409	GO:0009790	embryo development	Embryonic Development	C0013936
+3414	3445	GO:0060216	definitive hemopoiesis		C2262993
+3486	3490	GO:0005623	cell	Cells	C0007634
+3514	3518	GO:0005623	cell	Cells	C0007634
+3578	3630	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+3643	3652	GO:0097194	apoptosis	Apoptosis	C0162638
+3737	3750	GO:0006351	transcription	Transcription, Genetic	C0040649
+3824	3837	GO:0006351	transcription	Transcription, Genetic	C0040649
+4330	4350	GO:0006338	chromatin remodeling		C1156210
+4388	4454	GO:0005488	binding	Binding 	C1167622
+4510	4537	GO:1902698	acidogenesis		C3823112
+4679	4692	GO:0006351	transcription	Transcription, Genetic	C0040649
+4847	4858	GO:0005488	binding	Binding 	C1167622
+5111	5126	GO:0007567	parturition	Birth	C0005615
+5111	5126	GO:0000003	reproduction	Reproduction	C0035150
+5145	5185	GO:0007567	parturition	Birth	C0005615
+5145	5185	GO:0000003	reproduction	Reproduction	C0035150
+5250	5293	GO:0009790	embryo development	Embryonic Development	C0013936
+5447	5491	GO:0003677	DNA binding	dna binding	C1148673
+5515	5526	GO:0032502	development	Biologic Development	C0678723
+5566	5614	GO:0009790	embryo development	Embryonic Development	C0013936
+5625	5638	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+5655	5659	GO:0005623	cell	Cells	C0007634
+5721	5725	GO:0005623	cell	Cells	C0007634
+5744	5775	GO:0035162	embryonic hemopoiesis		C1523613
+5776	5794	GO:0007567	parturition	Birth	C0005615
+5776	5794	GO:0000003	reproduction	Reproduction	C0035150
+5845	5871	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+5877	5914	GO:0032502	development	Biologic Development	C0678723
+5941	5985	GO:1990251	nuclear body	Intranuclear body	C0230595
+5986	6026	GO:0009790	embryo development	Embryonic Development	C0013936
+6047	6051	GO:0005623	cell	Cells	C0007634
+6147	6163	GO:0048468	cell development	Cell development	C0815089
+6188	6210	GO:0007567	parturition	Birth	C0005615
+6188	6210	GO:0000003	reproduction	Reproduction	C0035150
+6247	6272	GO:0060318	definitive erythrocyte differentiation		C2610444
+6301	6313	GO:0007567	parturition	Birth	C0005615
+6301	6313	GO:0000003	reproduction	Reproduction	C0035150
+6329	6340	GO:0032502	development	Biologic Development	C0678723
+6360	6389	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+6394	6403	GO:0097194	apoptosis	Apoptosis	C0162638
+6448	6469	GO:0009790	embryo development	Embryonic Development	C0013936
+6521	6525	GO:0005623	cell	Cells	C0007634
+6534	6556	GO:0008015	blood circulation	Blood Circulation	C0005775
+6647	6699	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+6700	6728	GO:0009790	embryo development	Embryonic Development	C0013936
+6811	6815	GO:0005623	cell	Cells	C0007634
+6825	6871	GO:0097194	apoptosis	Apoptosis	C0162638
+7004	7049	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+7081	7119	GO:0009790	embryo development	Embryonic Development	C0013936
+7158	7181	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+7211	7262	GO:0009790	embryo development	Embryonic Development	C0013936
+7292	7302	GO:0008219	cell death	Cell Death	C0007587
+7399	7420	GO:0001945	lymph vessel development		C1622375
+7435	7469	GO:0005623	cell	Cells	C0007634
+7609	7649	GO:0097152	mesenchymal cell apoptotic process		C3269099
+7650	7662	GO:0043198	dendritic shaft		C1523842
+7712	7724	GO:0007567	parturition	Birth	C0005615
+7712	7724	GO:0000003	reproduction	Reproduction	C0035150
+7753	7764	GO:0032502	development	Biologic Development	C0678723
+7817	7821	GO:0005623	cell	Cells	C0007634
+7827	7855	GO:0031254	cell trailing edge		C1621432
+7874	7956	GO:0060216	definitive hemopoiesis		C2262993
+8012	8023	GO:0032502	development	Biologic Development	C0678723
+8083	8124	GO:0009790	embryo development	Embryonic Development	C0013936
+8335	8348	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+8430	8486	GO:0030099	myeloid cell differentiation	Myeloid Cell Differentiation	C1622499
+8546	8574	GO:0032502	development	Biologic Development	C0678723
+8624	8660	GO:0030099	myeloid cell differentiation	Myeloid Cell Differentiation	C1622499
+8714	8734	GO:0007567	parturition	Birth	C0005615
+8714	8734	GO:0000003	reproduction	Reproduction	C0035150
+8766	8792	GO:0060318	definitive erythrocyte differentiation		C2610444
+8892	8926	GO:0007567	parturition	Birth	C0005615
+8892	8926	GO:0000003	reproduction	Reproduction	C0035150
+9062	9081	GO:0007567	parturition	Birth	C0005615
+9062	9081	GO:0000003	reproduction	Reproduction	C0035150
+9100	9110	GO:0005694	chromosome	Chromosomes	C0008633
+9433	9453	GO:0007567	parturition	Birth	C0005615
+9433	9453	GO:0000003	reproduction	Reproduction	C0035150
+9474	9527	GO:0005694	chromosome	Chromosomes	C0008633
+9563	9573	GO:0005694	chromosome	Chromosomes	C0008633
+9621	9642	GO:0007567	parturition	Birth	C0005615
+9621	9642	GO:0000003	reproduction	Reproduction	C0035150
+9734	9764	GO:0007567	parturition	Birth	C0005615
+9734	9764	GO:0000003	reproduction	Reproduction	C0035150
+9790	9827	GO:0051321	meiotic cell cycle		C1657605
+9828	9854	GO:0005696	telomere		C0085187
+10098	10137	GO:0007567	parturition	Birth	C0005615
+10098	10137	GO:0000003	reproduction	Reproduction	C0035150
+10247	10261	GO:0007567	parturition	Birth	C0005615
+10247	10261	GO:0000003	reproduction	Reproduction	C0035150
+10263	10275	GO:0007567	parturition	Birth	C0005615
+10263	10275	GO:0000003	reproduction	Reproduction	C0035150
+10315	10328	GO:0006351	transcription	Transcription, Genetic	C0040649
+10570	10581	GO:0007567	parturition	Birth	C0005615
+10570	10581	GO:0000003	reproduction	Reproduction	C0035150
+10629	10639	GO:0005694	chromosome	Chromosomes	C0008633
+10666	10711	GO:0098687	chromosome region	Region of chromosome	C1953345
+10726	10744	GO:0007567	parturition	Birth	C0005615
+10726	10744	GO:0000003	reproduction	Reproduction	C0035150
+10784	10813	GO:0007567	parturition	Birth	C0005615
+10784	10813	GO:0000003	reproduction	Reproduction	C0035150
+10945	10966	GO:0005694	chromosome	Chromosomes	C0008633
+10967	10989	GO:0007567	parturition	Birth	C0005615
+10967	10989	GO:0000003	reproduction	Reproduction	C0035150
+10993	11041	GO:0007567	parturition	Birth	C0005615
+10993	11041	GO:0000003	reproduction	Reproduction	C0035150
+11287	11291	GO:0005623	cell	Cells	C0007634
+11355	11359	GO:0005623	cell	Cells	C0007634
+11372	11449	GO:0008015	blood circulation	Blood Circulation	C0005775
+11453	11497	GO:0009790	embryo development	Embryonic Development	C0013936
+11596	11638	GO:1902698	acidogenesis		C3823112
+11683	11727	GO:0007567	parturition	Birth	C0005615
+11683	11727	GO:0000003	reproduction	Reproduction	C0035150
+11756	11794	GO:1902698	acidogenesis		C3823112
+11795	11851	GO:0006412	protein biosynthesis	Protein Biosynthesis	C0597295
+11864	11891	GO:0002188	translation reinitiation		C3268334
+12236	12272	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+12273	12344	GO:0009790	embryo development	Embryonic Development	C0013936
+12404	12431	GO:0009790	embryo development	Embryonic Development	C0013936
+12463	12475	GO:0007369	gastrulation	Gastrulation	C0259902
+12480	12487	GO:0090504	epiboly		C3548582
+12760	12812	GO:0006351	cellular transcription		C2755756
+12853	12857	GO:0005623	cell	Cells	C0007634
+12927	12953	GO:0009790	embryo development	Embryonic Development	C0013936
+12977	12995	GO:0007567	parturition	Birth	C0005615
+12977	12995	GO:0000003	reproduction	Reproduction	C0035150
+13062	13089	GO:0043198	dendritic shaft		C1523842
+13191	13239	GO:0000184	nonsense-mediated mRNA decay	Nonsense Mediated mRNA Decay	C1158013
+13349	13380	GO:0009790	embryo development	Embryonic Development	C0013936
+13386	13411	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+13427	13436	GO:0097194	apoptosis	Apoptosis	C0162638
+13611	13615	GO:0060417	yolk		C2610566
+13870	13883	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+14173	14214	GO:0009790	embryo development	Embryonic Development	C0013936
+14299	14338	GO:1902698	acidogenesis		C3823112
+14340	14343	GO:0007601	vision	Vision	C0042789
+14433	14477	GO:0098687	chromosome region	Region of chromosome	C1953345
+14492	14510	GO:0007567	parturition	Birth	C0005615
+14492	14510	GO:0000003	reproduction	Reproduction	C0035150
+14553	14582	GO:0007567	parturition	Birth	C0005615
+14553	14582	GO:0000003	reproduction	Reproduction	C0035150
+14689	14739	GO:0009790	embryo development	Embryonic Development	C0013936
+14857	14895	GO:0007567	parturition	Birth	C0005615
+14857	14895	GO:0000003	reproduction	Reproduction	C0035150
+14918	14921	GO:0007601	vision	Vision	C0042789
+14988	15075	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+15076	15096	GO:0007601	vision	Vision	C0042789
+15134	15174	GO:0009790	embryo development	Embryonic Development	C0013936
+15263	15267	GO:0005623	cell	Cells	C0007634
+15389	15402	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+15443	15485	GO:0007567	parturition	Birth	C0005615
+15443	15485	GO:0000003	reproduction	Reproduction	C0035150
+15543	15568	GO:0009790	embryo development	Embryonic Development	C0013936
+15649	15653	GO:0005623	cell	Cells	C0007634
+15668	15707	GO:0009058	anabolism	Anabolism	C0220781
+15708	15767	GO:0009790	embryo development	Embryonic Development	C0013936
+15768	15791	GO:0009790	embryo development	Embryonic Development	C0013936
+15795	15808	GO:0048513	organogenesis	Organogenesis	C0242290
+15820	15831	GO:0032502	development	Biologic Development	C0678723
+15901	15905	GO:0005623	cell	Cells	C0007634
+15954	15958	GO:0005623	cell	Cells	C0007634
+16149	16153	GO:0005623	cell	Cells	C0007634
+16276	16280	GO:0005623	cell	Cells	C0007634
+16289	16309	GO:0009790	embryo development	Embryonic Development	C0013936
+16430	16471	GO:0009790	embryo development	Embryonic Development	C0013936
+16560	16573	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+16607	16621	GO:0030218	erythropoiesis	Erythropoiesis	C0014819
+16691	16695	GO:0005623	cell	Cells	C0007634
+16728	16732	GO:0005623	cell	Cells	C0007634
+16773	16796	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+16887	16891	GO:0005623	cell	Cells	C0007634
+16910	16982	GO:0009790	embryo development	Embryonic Development	C0013936
+17138	17142	GO:0005623	cell	Cells	C0007634
+17164	17193	GO:0009790	embryo development	Embryonic Development	C0013936
+17199	17239	GO:0009790	embryo development	Embryonic Development	C0013936
+17267	17286	GO:0018995	host organism	Host 	C1167395
+17317	17338	GO:0009790	embryo development	Embryonic Development	C0013936
+17371	17375	GO:0005623	cell	Cells	C0007634
+17460	17464	GO:0005623	cell	Cells	C0007634
+17558	17562	GO:0005623	cell	Cells	C0007634
+17651	17655	GO:0005623	cell	Cells	C0007634
+17677	17681	GO:0005623	cell	Cells	C0007634
+17720	17746	GO:0009790	embryo development	Embryonic Development	C0013936
+17774	17778	GO:0005623	cell	Cells	C0007634
+17827	17831	GO:0005623	cell	Cells	C0007634
+17833	17851	GO:0009790	embryo development	Embryonic Development	C0013936
+17891	17895	GO:0005623	cell	Cells	C0007634
+17932	17951	GO:0036268	swimming	Swimming	C0039003
+18172	18176	GO:0005623	cell	Cells	C0007634
+18270	18274	GO:0005623	cell	Cells	C0007634
+18324	18328	GO:0005623	cell	Cells	C0007634
+18407	18431	GO:0043198	dendritic shaft		C1523842
+18463	18492	GO:0009790	embryo development	Embryonic Development	C0013936
+18692	18738	GO:1902698	acidogenesis		C3823112
+18789	18841	GO:0009790	embryo development	Embryonic Development	C0013936
+18952	18989	GO:0008104	protein localization	protein localization location	C0597704
+18952	18989	GO:0006886	intracellular protein transport		C1159772
+19057	19085	GO:0007601	vision	Vision	C0042789
+19205	19220	GO:0000792	heterochromatin	Heterochromatin	C0019397
+19237	19266	GO:1902698	acidogenesis		C3823112
+19315	19327	GO:0051179	establishment and maintenance of localization		C1744691
+19396	19417	GO:0032502	developmental process	Developmental process	C1511806
+19524	19539	GO:0000792	heterochromatin	Heterochromatin	C0019397
+19628	19679	GO:0007567	parturition	Birth	C0005615
+19628	19679	GO:0000003	reproduction	Reproduction	C0035150
+19686	19701	GO:1990251	nuclear body	Intranuclear body	C0230595
+19702	19720	GO:1990391	DNA repair complex		C3896148
+19746	19759	GO:0006351	transcription	Transcription, Genetic	C0040649
+19863	19903	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+19929	19933	GO:0005623	cell	Cells	C0007634
+20004	20036	GO:0060209	estrus	Estrus	C0014948
+20063	20083	GO:0060209	estrus	Estrus	C0014948
+20174	20223	GO:0048468	terminal differentiation		C2752630
+20311	20380	GO:0048468	cell development	Cell development	C0815089
+20441	20445	GO:0005623	cell	Cells	C0007634
+20576	20606	GO:0051179	establishment and maintenance of localization		C1744691
+20616	20643	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+20760	20793	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+20899	20914	GO:0010467	gene expression	Gene Expression	C0017262
+21015	21030	GO:0007567	parturition	Birth	C0005615
+21015	21030	GO:0000003	reproduction	Reproduction	C0035150
+21110	21131	GO:0007567	parturition	Birth	C0005615
+21110	21131	GO:0000003	reproduction	Reproduction	C0035150
+21218	21231	GO:0007567	parturition	Birth	C0005615
+21218	21231	GO:0000003	reproduction	Reproduction	C0035150
+21267	21280	GO:0006351	transcription	Transcription, Genetic	C0040649
+21315	21348	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+21350	21362	GO:0007567	parturition	Birth	C0005615
+21350	21362	GO:0000003	reproduction	Reproduction	C0035150
+21495	21528	GO:0007567	parturition	Birth	C0005615
+21495	21528	GO:0000003	reproduction	Reproduction	C0035150
+21589	21629	GO:0007567	parturition	Birth	C0005615
+21589	21629	GO:0000003	reproduction	Reproduction	C0035150
+21711	21714	GO:0007601	vision	Vision	C0042789
+21782	21827	GO:1902698	acidogenesis		C3823112
+21902	21914	GO:0007567	parturition	Birth	C0005615
+21902	21914	GO:0000003	reproduction	Reproduction	C0035150
+21938	21983	GO:0098687	chromosome region	Region of chromosome	C1953345
+21984	22050	GO:0098687	chromosome region	Region of chromosome	C1953345
+22176	22186	GO:0006402	mRNA decay	mRNA Decay	C1257758
+22231	22263	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+22264	22306	GO:0009790	embryo development	Embryonic Development	C0013936
+22318	22321	GO:0007601	vision	Vision	C0042789
+22417	22430	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+22467	22501	GO:0035162	embryonic hemopoiesis		C1523613
+22503	22506	GO:0007601	vision	Vision	C0042789
+22609	22639	GO:0009790	embryo development	Embryonic Development	C0013936
+22718	22721	GO:0007601	vision	Vision	C0042789
+22820	22854	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+22889	22935	GO:1902698	acidogenesis		C3823112
+23211	23253	GO:0000988	transcription factor activity		C1148759
+23257	23262	GO:0005488	binding	Binding 	C1167622
+23597	23610	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+23642	23651	GO:0097194	apoptosis	Apoptosis	C0162638
+23678	23727	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+23728	23737	GO:0097194	apoptosis	Apoptosis	C0162638
+23915	23936	GO:0097194	apoptosis	Apoptosis	C0162638
+23938	23941	GO:0007601	vision	Vision	C0042789
+24033	24037	GO:0005623	cell	Cells	C0007634
+24068	24072	GO:0005623	cell	Cells	C0007634
+24135	24165	GO:0097194	apoptosis	Apoptosis	C0162638
+24170	24217	GO:0061053	somite development		C2753274
+24232	24265	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+24283	24314	GO:0010467	gene expression	Gene Expression	C0017262
+24340	24382	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+24387	24423	GO:0060215	primitive hemopoiesis		C2262992
+24437	24487	GO:0009790	embryo development	Embryonic Development	C0013936
+24519	24549	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+24654	24658	GO:0005623	cell	Cells	C0007634
+24672	24681	GO:0097194	apoptosis	Apoptosis	C0162638
+24720	24724	GO:0005623	cell	Cells	C0007634
+24779	24793	GO:0030218	erythropoiesis	Erythropoiesis	C0014819
+24916	24952	GO:0060216	definitive hemopoiesis		C2262993
+24954	24957	GO:0007601	vision	Vision	C0042789
+25130	25143	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+25164	25177	GO:0048513	organogenesis	Organogenesis	C0242290
+25533	25547	GO:0030218	erythropoiesis	Erythropoiesis	C0014819
+25564	25620	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+25622	25664	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+25697	25701	GO:0005623	cell	Cells	C0007634
+25703	25744	GO:0007601	vision	Vision	C0042789
+25778	25792	GO:0009790	embryo development	Embryonic Development	C0013936
+25874	25908	GO:0007567	parturition	Birth	C0005615
+25874	25908	GO:0000003	reproduction	Reproduction	C0035150
+25954	25968	GO:0030218	erythropoiesis	Erythropoiesis	C0014819
+25999	26033	GO:0009790	embryo development	Embryonic Development	C0013936
+26066	26095	GO:0009790	embryo development	Embryonic Development	C0013936
+26113	26126	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+26331	26367	GO:0007567	parturition	Birth	C0005615
+26331	26367	GO:0000003	reproduction	Reproduction	C0035150
+26375	26415	GO:0048468	cell development	Cell development	C0815089
+26519	26549	GO:0007567	parturition	Birth	C0005615
+26519	26549	GO:0000003	reproduction	Reproduction	C0035150
+26610	26648	GO:0006351	cellular transcription		C2755756
+26689	26714	GO:0060318	definitive erythrocyte differentiation		C2610444
+26801	26877	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+26938	26951	GO:0006351	transcription	Transcription, Genetic	C0040649
+26974	27007	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+27201	27214	GO:0006351	transcription	Transcription, Genetic	C0040649
+27294	27335	GO:0003677	DNA binding	dna binding	C1148673
+27340	27349	GO:0000785	chromatin	chromatin location	C1325550
+27447	27450	GO:0007601	vision	Vision	C0042789
+27561	27576	GO:1990251	nuclear body	Intranuclear body	C0230595
+27587	27598	GO:0016605	PML body		C1167110
+27599	27624	GO:0051179	establishment and maintenance of localization		C1744691
+27625	27648	GO:1990251	nuclear body	Intranuclear body	C0230595
+27656	27699	GO:0043687	post-translational protein modification	Post-Translational Protein Processing	C0033666
+27888	27949	GO:0003677	DNA binding	dna binding	C1148673
+28006	28059	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+28222	28238	GO:0048468	cell development	Cell development	C0815089
+28645	28666	GO:0009291	unidirectional conjugation		C1160186
+28645	28666	GO:0007618	mating		C1260875
+28645	28666	GO:0000747	conjugation with cellular fusion		C1748461
+28645	28666	GO:1990277	parasexual conjugation with cellular fusion		C3812685
+28747	28762	GO:0009790	embryo development	Embryonic Development	C0013936
+28829	28849	GO:0009790	embryo development	Embryonic Development	C0013936
+28915	28953	GO:0009790	embryo development	Embryonic Development	C0013936
+29059	29078	GO:0005694	chromosome	Chromosomes	C0008633
+29195	29215	GO:0007567	parturition	Birth	C0005615
+29195	29215	GO:0000003	reproduction	Reproduction	C0035150
+29540	29544	GO:0005623	cell	Cells	C0007634
+29582	29586	GO:0005623	cell	Cells	C0007634
+29778	29794	GO:0009790	embryo development	Embryonic Development	C0013936
+29829	29833	GO:0005623	cell	Cells	C0007634
+29840	29860	GO:0009790	embryo development	Embryonic Development	C0013936
+29861	29892	GO:0009790	embryo development	Embryonic Development	C0013936
+30017	30021	GO:0005623	cell	Cells	C0007634
+30154	30165	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+30297	30316	GO:0009058	anabolism	Anabolism	C0220781
+30388	30415	GO:0009790	embryo development	Embryonic Development	C0013936
+30566	30570	GO:0005623	cell	Cells	C0007634
+30701	30745	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+30761	30765	GO:0005623	cell	Cells	C0007634
+30805	30840	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+30930	30934	GO:0005623	cell	Cells	C0007634
+31162	31182	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+31327	31331	GO:0005623	cell	Cells	C0007634
+31350	31384	GO:0009790	embryo development	Embryonic Development	C0013936
+31399	31413	GO:0030218	erythropoiesis	Erythropoiesis	C0014819
+31466	31488	GO:0009790	embryo development	Embryonic Development	C0013936
+31547	31562	GO:0008015	blood circulation	Blood Circulation	C0005775
+31576	31580	GO:0005623	cell	Cells	C0007634
+31821	31825	GO:0005623	cell	Cells	C0007634
+31855	31866	GO:0032502	development	Biologic Development	C0678723
+32000	32063	GO:0008015	blood circulation	Blood Circulation	C0005775
+32199	32203	GO:0005623	cell	Cells	C0007634
+32233	32244	GO:0032502	development	Biologic Development	C0678723
+32388	32461	GO:0008015	blood circulation	Blood Circulation	C0005775
+32585	32616	GO:0007567	parturition	Birth	C0005615
+32585	32616	GO:0000003	reproduction	Reproduction	C0035150
+32621	32634	GO:0007567	parturition	Birth	C0005615
+32621	32634	GO:0000003	reproduction	Reproduction	C0035150
+33886	33927	GO:0007567	parturition	Birth	C0005615
+33886	33927	GO:0000003	reproduction	Reproduction	C0035150
+33946	33950	GO:0005623	cell	Cells	C0007634
+33964	33968	GO:0005623	cell	Cells	C0007634
+33985	34026	GO:0000988	transcription factor activity		C1148759
+34111	34152	GO:0060215	primitive hemopoiesis		C2262992
+34190	34229	GO:0031254	cell trailing edge		C1621432
+34238	34247	GO:0097194	apoptosis	Apoptosis	C0162638
+34354	34391	GO:0009790	embryo development	Embryonic Development	C0013936
+34446	34455	GO:0097194	apoptosis	Apoptosis	C0162638
+34459	34479	GO:0043198	dendritic shaft		C1523842
+34527	34531	GO:0005623	cell	Cells	C0007634
+34574	34585	GO:0032502	development	Biologic Development	C0678723
+34794	34798	GO:0005623	cell	Cells	C0007634
+34805	34826	GO:0009790	embryo development	Embryonic Development	C0013936
+34890	34894	GO:0005623	cell	Cells	C0007634
+34998	35010	GO:0009790	embryo development	Embryonic Development	C0013936
+35054	35096	GO:0060216	definitive hemopoiesis		C2262993
+35359	35426	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+35567	35602	GO:0007567	parturition	Birth	C0005615
+35567	35602	GO:0000003	reproduction	Reproduction	C0035150
+35651	35661	GO:0005694	chromosome	Chromosomes	C0008633
+35847	35883	GO:0005694	chromosome	Chromosomes	C0008633
+36007	36046	GO:0007567	parturition	Birth	C0005615
+36007	36046	GO:0000003	reproduction	Reproduction	C0035150
+37026	37048	GO:0007567	parturition	Birth	C0005615
+37026	37048	GO:0000003	reproduction	Reproduction	C0035150
+37059	37094	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+37100	37142	GO:0009790	embryo development	Embryonic Development	C0013936
+37157	37195	GO:0009790	embryo development	Embryonic Development	C0013936
+37386	37397	GO:0032502	development	Biologic Development	C0678723
+37570	37576	GO:0043198	dendritic shaft		C1523842
+37627	37670	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+37843	37868	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+38003	38068	GO:0009790	embryo development	Embryonic Development	C0013936
+38070	38112	GO:0009790	embryo development	Embryonic Development	C0013936
+38151	38171	GO:0009790	embryo development	Embryonic Development	C0013936
+38186	38190	GO:0060417	yolk		C2610566
+38218	38240	GO:0009790	embryo development	Embryonic Development	C0013936
+38303	38343	GO:0009790	embryo development	Embryonic Development	C0013936
+38432	38501	GO:0035162	embryonic hemopoiesis		C1523613
+38605	38616	GO:0032502	development	Biologic Development	C0678723
+38644	38694	GO:0008015	blood circulation	Blood Circulation	C0005775
+38869	38883	GO:0030218	erythropoiesis	Erythropoiesis	C0014819
+39041	39045	GO:0005623	cell	Cells	C0007634
+39064	39098	GO:0009790	embryo development	Embryonic Development	C0013936
+39113	39127	GO:0030218	erythropoiesis	Erythropoiesis	C0014819
+39186	39220	GO:0009790	embryo development	Embryonic Development	C0013936
+39279	39293	GO:0008015	blood circulation	Blood Circulation	C0005775
+39314	39318	GO:0005623	cell	Cells	C0007634
+39488	39491	GO:0007601	vision	Vision	C0042789
+39545	39572	GO:1990251	nuclear body	Intranuclear body	C0230595
+39587	39602	GO:0000792	heterochromatin	Heterochromatin	C0019397
+39608	39690	GO:0009790	embryo development	Embryonic Development	C0013936
+39691	39730	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+39735	39769	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+39837	39869	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+39948	39963	GO:0000792	heterochromatin	Heterochromatin	C0019397
+40038	40042	GO:0005623	cell	Cells	C0007634
+40147	40200	GO:0032502	development	Biologic Development	C0678723
+40338	40362	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+40422	40426	GO:0005623	cell	Cells	C0007634
+40433	40473	GO:0009790	embryo development	Embryonic Development	C0013936
+40474	40494	GO:0009790	embryo development	Embryonic Development	C0013936
+40507	40511	GO:0005623	cell	Cells	C0007634
+40554	40565	GO:0009790	embryo development	Embryonic Development	C0013936
+40618	40644	GO:0043249	erythrocyte maturation		C1523887
+40645	40659	GO:0009790	embryo development	Embryonic Development	C0013936
+40700	40704	GO:0005623	cell	Cells	C0007634
+40740	40766	GO:0009790	embryo development	Embryonic Development	C0013936
+40830	40857	GO:0009790	embryo development	Embryonic Development	C0013936
+40908	40921	GO:0030097	hematopoiesis	Hematopoiesis	C0018951
+40955	40996	GO:0009790	embryo development	Embryonic Development	C0013936
+41034	41038	GO:0005623	cell	Cells	C0007634
+41085	41114	GO:0009790	embryo development	Embryonic Development	C0013936
+41126	41157	GO:0009790	embryo development	Embryonic Development	C0013936
+41210	41214	GO:0005623	cell	Cells	C0007634
+41245	41276	GO:0009790	embryo development	Embryonic Development	C0013936
+41312	41316	GO:0005623	cell	Cells	C0007634
+41318	41333	GO:0008015	blood circulation	Blood Circulation	C0005775
+41383	41417	GO:0009790	embryo development	Embryonic Development	C0013936
+41676	41680	GO:0008747	N-acetylneuraminate lyase activity		C1150873
+41704	41707	GO:0004740	pyruvate dehydrogenase	acetyl-transferring	C1150639
+41761	41765	GO:0008747	N-acetylneuraminate lyase activity		C1150873
+42024	42028	GO:0005623	cell	Cells	C0007634
+42033	42044	GO:0032502	development	Biologic Development	C0678723
+42210	42238	GO:0007567	parturition	Birth	C0005615
+42210	42238	GO:0000003	reproduction	Reproduction	C0035150
+42247	42290	GO:0000988	transcription factor activity		C1148759
+42317	42330	GO:0030097	hematopoiesis	Hematopoiesis	C0018951

@@ -1,0 +1,203 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+123	185	GO:0007567	parturition	Birth	C0005615
+123	185	GO:0000003	reproduction	Reproduction	C0035150
+429	448	GO:0007567	parturition	Birth	C0005615
+429	448	GO:0000003	reproduction	Reproduction	C0035150
+691	701	GO:0006281	DNA repair	DNA Repair	C0012899
+712	725	GO:0006351	transcription	Transcription, Genetic	C0040649
+757	793	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+1120	1133	GO:0006351	transcription	Transcription, Genetic	C0040649
+1212	1223	GO:0032502	development	Biologic Development	C0678723
+2034	2038	GO:0005623	cell	Cells	C0007634
+2312	2358	GO:0007567	parturition	Birth	C0005615
+2312	2358	GO:0000003	reproduction	Reproduction	C0035150
+2413	2459	GO:0007567	parturition	Birth	C0005615
+2413	2459	GO:0000003	reproduction	Reproduction	C0035150
+2904	2923	GO:0007567	parturition	Birth	C0005615
+2904	2923	GO:0000003	reproduction	Reproduction	C0035150
+2937	3016	GO:0000988	transcription factor activity		C1148759
+3123	3136	GO:0006351	transcription	Transcription, Genetic	C0040649
+3152	3218	GO:0006281	DNA repair	DNA Repair	C0012899
+3287	3338	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+3484	3496	GO:0043473	pigmentation	Pigmentation	C0031911
+3603	3609	GO:0040007	growth	Growth	C0018270
+3763	3769	GO:0040007	growth	Growth	C0018270
+3932	3971	GO:0009289	pilus	Bacterial Fimbria	C0031921
+4028	4041	GO:0006351	transcription	Transcription, Genetic	C0040649
+4061	4065	GO:0005623	cell	Cells	C0007634
+5403	5445	GO:0007568	aging	Aging	C0001811
+5466	5470	GO:0005623	cell	Cells	C0007634
+5678	5704	GO:1902698	acidogenesis		C3823112
+5814	5846	GO:0009790	embryo development	Embryonic Development	C0013936
+6291	6318	GO:0007567	parturition	Birth	C0005615
+6323	6341	GO:0009790	embryo development	Embryonic Development	C0013936
+6353	6365	GO:0061659	ubiquitin-like protein ligase activity		C1150682
+6583	6612	GO:0007567	parturition	Birth	C0005615
+6583	6612	GO:0000003	reproduction	Reproduction	C0035150
+6721	6764	GO:0009790	embryo development	Embryonic Development	C0013936
+7137	7160	GO:0007567	parturition	Birth	C0005615
+7137	7160	GO:0000003	reproduction	Reproduction	C0035150
+7287	7318	GO:0007567	parturition	Birth	C0005615
+7287	7318	GO:0000003	reproduction	Reproduction	C0035150
+7580	7608	GO:0006412	protein biosynthesis	Protein Biosynthesis	C0597295
+7626	7653	GO:0043631	RNA polyadenylation	Polyadenylation	C0949765
+7686	7732	GO:0000496	base pairing	Base Pairing	C0600436
+7859	7865	GO:0001524	globin	globin activity	C1149093
+7984	7990	GO:0001524	globin	globin activity	C1149093
+8340	8344	GO:0043863	4-hydroxy-2-ketopimelate aldolase activity		C2248788
+8439	8486	GO:0009790	embryo development	Embryonic Development	C0013936
+8887	8929	GO:0009790	embryo development	Embryonic Development	C0013936
+9525	9565	GO:0009790	embryo development	Embryonic Development	C0013936
+9609	9620	GO:0032502	development	Biologic Development	C0678723
+9640	9644	GO:0009289	pilus	Bacterial Fimbria	C0031921
+10009	10052	GO:0007567	parturition	Birth	C0005615
+10248	10289	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+10369	10409	GO:1902698	acidogenesis		C3823112
+10693	10718	GO:0009289	pilus	Bacterial Fimbria	C0031921
+10908	10918	GO:0042633	hair cycle		C1327461
+10923	10961	GO:0042633	hair cycle		C1327461
+11077	11087	GO:0042633	hair cycle		C1327461
+11130	11187	GO:0009289	pilus	Bacterial Fimbria	C0031921
+11235	11269	GO:0009289	pilus	Bacterial Fimbria	C0031921
+11323	11342	GO:1902698	acidogenesis		C3823112
+11353	11409	GO:0009289	pilus	Bacterial Fimbria	C0031921
+11712	11723	GO:0032502	development	Biologic Development	C0678723
+11887	11919	GO:0009289	pilus	Bacterial Fimbria	C0031921
+12280	12304	GO:0009289	pilus	Bacterial Fimbria	C0031921
+13019	13023	GO:0005623	cell	Cells	C0007634
+13151	13189	GO:0009289	pilus	Bacterial Fimbria	C0031921
+13340	13351	GO:0032502	development	Biologic Development	C0678723
+13754	13809	GO:0007568	aging	Aging	C0001811
+13854	13934	GO:0031214	mineralization	Physiologic calcification	C0006660
+14988	15010	GO:0007568	aging	Aging	C0001811
+15065	15098	GO:0031214	mineralization	Physiologic calcification	C0006660
+15174	15177	GO:0007601	vision	Vision	C0042789
+15267	15332	GO:0031214	mineralization	Physiologic calcification	C0006660
+15923	15927	GO:0005623	cell	Cells	C0007634
+16279	16288	GO:0009289	pilus	Bacterial Fimbria	C0031921
+16455	16462	GO:0007568	aging	Aging	C0001811
+16904	16908	GO:0005623	cell	Cells	C0007634
+16930	16976	GO:0006281	DNA repair	DNA Repair	C0012899
+16987	17012	GO:0032774	RNA biosynthesis	RNA chemical synthesis	C1623415
+17067	17096	GO:0006289	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+17097	17115	GO:0070911	global genome nucleotide-excision repair		C2753994
+17120	17133	GO:0006351	transcription	Transcription, Genetic	C0040649
+17151	17161	GO:0006289	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+17208	17222	GO:0009411	response to UV		C1154974
+17516	17520	GO:0005623	cell	Cells	C0007634
+17669	17673	GO:0005623	cell	Cells	C0007634
+17764	17768	GO:0005623	cell	Cells	C0007634
+17804	17808	GO:0005623	cell	Cells	C0007634
+17913	17917	GO:0005623	cell	Cells	C0007634
+17975	17995	GO:0009790	embryo development	Embryonic Development	C0013936
+18000	18004	GO:0005623	cell	Cells	C0007634
+18190	18194	GO:0005623	cell	Cells	C0007634
+18212	18234	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+18251	18255	GO:0005623	cell	Cells	C0007634
+18405	18409	GO:0005623	cell	Cells	C0007634
+18429	18453	GO:0009650	ultraviolet resistance		C1817511
+18561	18579	GO:0006289	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+18602	18606	GO:0005623	cell	Cells	C0007634
+18635	18639	GO:0005623	cell	Cells	C0007634
+18807	18854	GO:0006289	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+18951	19013	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+19017	19021	GO:0005623	cell	Cells	C0007634
+19066	19107	GO:0042060	wound healing	Wound Healing	C0043240
+19239	19243	GO:0005623	cell	Cells	C0007634
+19442	19446	GO:0005623	cell	Cells	C0007634
+19615	19619	GO:0005623	cell	Cells	C0007634
+19731	19765	GO:0070911	global genome nucleotide-excision repair		C2753994
+19873	19877	GO:0005623	cell	Cells	C0007634
+20064	20128	GO:0006283	transcription-coupled nucleotide-excision repair		C1158557
+20235	20239	GO:0005623	cell	Cells	C0007634
+20368	20400	GO:0006289	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+20525	20534	GO:0016538	cyclin-dependent protein kinase regulator activity		C1150565
+20605	20609	GO:0005662	DNA replication factor A complex location		C1167121
+20614	20654	GO:0006289	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+21092	21096	GO:0005623	cell	Cells	C0007634
+21245	21249	GO:0005623	cell	Cells	C0007634
+21284	21288	GO:0005623	cell	Cells	C0007634
+21332	21336	GO:0005623	cell	Cells	C0007634
+21377	21381	GO:0005623	cell	Cells	C0007634
+21410	21414	GO:0005623	cell	Cells	C0007634
+21465	21469	GO:0005623	cell	Cells	C0007634
+21503	21507	GO:0005623	cell	Cells	C0007634
+21556	21560	GO:0005623	cell	Cells	C0007634
+21629	21666	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+21719	21723	GO:0005623	cell	Cells	C0007634
+21894	21898	GO:0005623	cell	Cells	C0007634
+22165	22169	GO:0005623	cell	Cells	C0007634
+22648	22683	GO:0007567	parturition	Birth	C0005615
+22648	22683	GO:0000003	reproduction	Reproduction	C0035150
+22770	22774	GO:0005623	cell	Cells	C0007634
+22943	22947	GO:0005623	cell	Cells	C0007634
+23034	23038	GO:0005623	cell	Cells	C0007634
+23362	23395	GO:0009289	pilus	Bacterial Fimbria	C0031921
+23430	23459	GO:0009289	pilus	Bacterial Fimbria	C0031921
+23543	23551	GO:0009289	pilus	Bacterial Fimbria	C0031921
+23777	23782	GO:0009289	pilus	Bacterial Fimbria	C0031921
+23917	23921	GO:0005623	cell	Cells	C0007634
+24303	24322	GO:0007567	parturition	Birth	C0005615
+24303	24322	GO:0000003	reproduction	Reproduction	C0035150
+25425	25434	GO:0007601	vision	Vision	C0042789
+25763	25788	GO:0009289	pilus	Bacterial Fimbria	C0031921
+25822	25835	GO:0006351	transcription	Transcription, Genetic	C0040649
+25840	25846	GO:0042060	wound healing	Wound Healing	C0043240
+26005	26018	GO:0006351	transcription	Transcription, Genetic	C0040649
+26088	26107	GO:0009790	embryo development	Embryonic Development	C0013936
+26112	26136	GO:0048468	terminal differentiation		C2752630
+26167	26171	GO:0005623	cell	Cells	C0007634
+26306	26319	GO:0006351	transcription	Transcription, Genetic	C0040649
+26411	26430	GO:0009790	embryo development	Embryonic Development	C0013936
+26411	26430	GO:0009790	embryo development	Embryonic Development	C0013936
+26845	26858	GO:0006351	transcription	Transcription, Genetic	C0040649
+26924	26948	GO:0048468	terminal differentiation		C2752630
+26958	26969	GO:0009418	pilus shaft		C1167055
+26980	26984	GO:0005623	cell	Cells	C0007634
+27267	27297	GO:0009790	embryo development	Embryonic Development	C0013936
+27311	27335	GO:0048468	terminal differentiation		C2752630
+27349	27354	GO:0009289	pilus	Bacterial Fimbria	C0031921
+27425	27438	GO:0006351	transcription	Transcription, Genetic	C0040649
+27455	27490	GO:0009790	embryo development	Embryonic Development	C0013936
+27554	27587	GO:0040007	growth	Growth	C0018270
+27588	27599	GO:0009418	pilus shaft		C1167055
+27610	27614	GO:0005623	cell	Cells	C0007634
+27645	27690	GO:0042060	wound healing	Wound Healing	C0043240
+27926	27930	GO:0005623	cell	Cells	C0007634
+28002	28056	GO:0042060	wound healing	Wound Healing	C0043240
+28599	28603	GO:0005623	cell	Cells	C0007634
+28694	28706	GO:0006289	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+28801	28834	GO:0006289	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+28878	28883	GO:0005488	binding	Binding 	C1167622
+29120	29138	GO:0090734	site of DNA damage		C4329000
+29189	29238	GO:0006283	transcription-coupled nucleotide-excision repair		C1158557
+29418	29431	GO:0006351	transcription	Transcription, Genetic	C0040649
+29687	29700	GO:0006351	transcription	Transcription, Genetic	C0040649
+30681	30715	GO:0009289	pilus	Bacterial Fimbria	C0031921
+32347	32351	GO:0005623	cell	Cells	C0007634
+32760	32783	GO:0007567	parturition	Birth	C0005615
+32760	32783	GO:0000003	reproduction	Reproduction	C0035150
+32784	32853	GO:0030849	autosome	Autosome	C0596142
+33218	33281	GO:0030849	autosome	Autosome	C0596142
+34028	34055	GO:0009790	embryo development	Embryonic Development	C0013936
+34185	34204	GO:1902698	acidogenesis		C3823112
+34209	34218	GO:0007610	behavior	Behavior	C0004927
+34366	34395	GO:0031214	mineralization	Physiologic calcification	C0006660
+34606	34645	GO:0007567	parturition	Birth	C0005615
+34606	34645	GO:0000003	reproduction	Reproduction	C0035150
+34689	34720	GO:0007610	behavior	Behavior	C0004927
+34752	34767	GO:0002524	hypersensitivity	Hypersensitivity	C0020517
+35044	35048	GO:0005623	cell	Cells	C0007634
+35130	35134	GO:0005623	cell	Cells	C0007634
+35292	35296	GO:0005623	cell	Cells	C0007634
+35615	35667	GO:0009790	embryo development	Embryonic Development	C0013936
+35680	35684	GO:0005623	cell	Cells	C0007634
+35730	35734	GO:0005623	cell	Cells	C0007634
+35755	35759	GO:0005623	cell	Cells	C0007634
+36921	36935	GO:0000496	base pairing	Base Pairing	C0600436
+36969	36986	GO:0009790	embryo development	Embryonic Development	C0013936
+37012	37044	GO:0006289	nucleotide-excision repair	Nucleotide Excision Repair	C0524550
+37080	37129	GO:0000988	transcription factor activity		C1148759
+37158	37192	GO:0032774	RNA biosynthesis	RNA chemical synthesis	C1623415
+37224	37288	GO:0006281	DNA repair	DNA Repair	C0012899
+37696	37700	GO:0005623	cell	Cells	C0007634

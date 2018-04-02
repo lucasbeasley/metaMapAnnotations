@@ -1,0 +1,189 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+102	135	GO:0007567	parturition	Birth	C0005615
+102	135	GO:0000003	reproduction	Reproduction	C0035150
+323	327	GO:0005623	cell	Cells	C0007634
+336	361	GO:0007154	cell communication	Cell Communication	C0007582
+426	440	GO:0007567	parturition	Birth	C0005615
+426	440	GO:0000003	reproduction	Reproduction	C0035150
+571	596	GO:0007567	parturition	Birth	C0005615
+1247	1255	GO:0016020	membrane	Membrane	C0596901
+1471	1484	GO:0009566	fertilization	Fertilization	C0015914
+1486	1496	GO:0048740	myogenesis	Myogenesis	C0596997
+1501	1513	GO:0022008	neurogenesis	Neurogenesis	C0814002
+1617	1630	GO:0005576	extracellular	Extracellular	C0521119
+1774	1802	GO:0043120	tumor necrosis factor binding		C1323304
+1809	1867	GO:0008201	heparin binding		C1148608
+1891	1897	GO:0040007	growth	Growth	C0018270
+1973	1998	GO:0009790	embryo development	Embryonic Development	C0013936
+2044	2050	GO:0040007	growth	Growth	C0018270
+2093	2097	GO:0005623	cell	Cells	C0007634
+2106	2152	GO:0030055	cell-matrix junction	Cell-Matrix Junction	C0887869
+2246	2259	GO:0007155	cell adhesion	Cell Adhesion	C0007577
+2384	2391	GO:0005488	binding	Binding 	C1167622
+2562	2598	GO:0008233	peptidase activity		C1150095
+2689	2701	GO:0007567	parturition	Birth	C0005615
+2689	2701	GO:0000003	reproduction	Reproduction	C0035150
+2946	2958	GO:0009986	cell surface	Cell surface	C0699040
+3025	3054	GO:0007567	parturition	Birth	C0005615
+3025	3054	GO:0000003	reproduction	Reproduction	C0035150
+3220	3224	GO:0005623	cell	Cells	C0007634
+3233	3279	GO:0007154	cell communication	Cell Communication	C0007582
+3386	3399	GO:0005576	extracellular	Extracellular	C0521119
+3453	3469	GO:0005178	integrin binding	Integrin Binding	C1149503
+3763	3798	GO:0007567	parturition	Birth	C0005615
+3763	3798	GO:0000003	reproduction	Reproduction	C0035150
+3860	3900	GO:0007567	parturition	Birth	C0005615
+3860	3900	GO:0000003	reproduction	Reproduction	C0035150
+3906	3943	GO:0006310	DNA recombination	Recombination, Genetic	C0034865
+4245	4291	GO:0051604	protein maturation		C1660003
+4438	4470	GO:0051604	protein maturation		C1660003
+4538	4560	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+4582	4591	GO:0005737	cytoplasm	Cytoplasm	C0010834
+4660	4690	GO:0007567	parturition	Birth	C0005615
+5531	5563	GO:0009790	embryo development	Embryonic Development	C0013936
+5866	5878	GO:0007567	parturition	Birth	C0005615
+6456	6460	GO:0005623	cell	Cells	C0007634
+6466	6488	GO:0009058	anabolism	Anabolism	C0220781
+7001	7005	GO:0005623	cell	Cells	C0007634
+7016	7020	GO:0005623	cell	Cells	C0007634
+7060	7064	GO:0005623	cell	Cells	C0007634
+7145	7166	GO:0009058	anabolism	Anabolism	C0220781
+7228	7256	GO:0001764	neuron migration		C1326504
+7295	7311	GO:0032288	myelin formation		C1819194
+7328	7349	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+7735	7751	GO:0032288	myelin formation		C1819194
+7767	7781	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+7785	7796	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+7990	7994	GO:0005623	cell	Cells	C0007634
+8100	8104	GO:0005623	cell	Cells	C0007634
+8110	8114	GO:0030424	axon	Axon	C0004461
+8205	8209	GO:0005623	cell	Cells	C0007634
+8226	8260	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+8319	8330	GO:0042552	myelination		C0596991
+8360	8364	GO:0030424	axon	Axon	C0004461
+8455	8486	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+8589	8593	GO:0005623	cell	Cells	C0007634
+8722	8761	GO:0014010	Schwann cell proliferation		C1817611
+8783	8798	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+8957	8992	GO:0008380	RNA splicing	RNA Splicing	C0035687
+8957	8992	GO:0045292	nuclear mRNA cis splicing, via spliceosome		C2610186
+9348	9378	GO:0007567	parturition	Birth	C0005615
+9348	9378	GO:0000003	reproduction	Reproduction	C0035150
+9500	9520	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+10067	10071	GO:0005623	cell	Cells	C0007634
+10327	10331	GO:0005623	cell	Cells	C0007634
+11484	11488	GO:0005623	cell	Cells	C0007634
+11584	11588	GO:0005623	cell	Cells	C0007634
+11642	11656	GO:0042552	myelinogenesis		C3893351
+11770	11786	GO:0007567	parturition	Birth	C0005615
+11770	11786	GO:0000003	reproduction	Reproduction	C0035150
+12314	12331	GO:0007420	brain development		C1160340
+12388	12430	GO:0016538	cyclin-dependent protein kinase regulator activity		C1150565
+12457	12491	GO:0001764	neuron migration		C1326504
+12541	12553	GO:0009986	cell surface	Cell surface	C0699040
+12586	12590	GO:0005623	cell	Cells	C0007634
+12599	12624	GO:0007154	cell communication	Cell Communication	C0007582
+12681	12709	GO:0001764	neuron migration		C1326504
+12886	12908	GO:0001764	neuron migration		C1326504
+13086	13099	GO:0007585	respiration	respiratory gaseous exchange in organisms	C1160636
+13137	13148	GO:0009060	respiration	Cell Respiration	C0282636
+13137	13159	GO:0007585	respiration	respiratory gaseous exchange in organisms	C1160636
+13166	13211	GO:0032502	development	Biologic Development	C0678723
+13212	13224	GO:0007567	parturition	Birth	C0005615
+13238	13268	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+13283	13338	GO:0007567	parturition	Birth	C0005615
+13283	13338	GO:0000003	reproduction	Reproduction	C0035150
+13423	13433	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+13537	13548	GO:0009060	respiration	Cell Respiration	C0282636
+13537	13583	GO:0007585	respiration	respiratory gaseous exchange in organisms	C1160636
+13844	13860	GO:0032288	myelin formation		C1819194
+14043	14047	GO:0005623	cell	Cells	C0007634
+14129	14133	GO:0005623	cell	Cells	C0007634
+14195	14217	GO:0007601	vision	Vision	C0042789
+14249	14253	GO:0005623	cell	Cells	C0007634
+14282	14298	GO:0032288	myelin formation		C1819194
+14347	14375	GO:0014037	Schwann cell differentiation		C1817638
+14671	14675	GO:0005623	cell	Cells	C0007634
+14703	14719	GO:0032288	myelin formation		C1819194
+14779	14795	GO:0032288	myelin formation		C1819194
+14969	14985	GO:0032288	myelin formation		C1819194
+15078	15082	GO:0005623	cell	Cells	C0007634
+15177	15181	GO:0030424	axon	Axon	C0004461
+15205	15221	GO:0032288	myelin formation		C1819194
+15258	15291	GO:0007601	vision	Vision	C0042789
+15346	15350	GO:0030424	axon	Axon	C0004461
+15361	15375	GO:0007601	vision	Vision	C0042789
+15490	15506	GO:0032288	myelin formation		C1819194
+15764	15785	GO:0007567	parturition	Birth	C0005615
+15764	15785	GO:0000003	reproduction	Reproduction	C0035150
+15892	15929	GO:0005694	chromosome	Chromosomes	C0008633
+16024	16061	GO:0003674	molecular_function		C1148560
+16173	16220	GO:0007567	parturition	Birth	C0005615
+16173	16220	GO:0000003	reproduction	Reproduction	C0035150
+16284	16304	GO:0007567	parturition	Birth	C0005615
+16284	16304	GO:0000003	reproduction	Reproduction	C0035150
+16456	16492	GO:0007567	parturition	Birth	C0005615
+16456	16492	GO:0000003	reproduction	Reproduction	C0035150
+16505	16556	GO:0007567	parturition	Birth	C0005615
+16505	16556	GO:0000003	reproduction	Reproduction	C0035150
+16755	16781	GO:0015074	DNA integration	DNA Integration	C1158478
+16861	16910	GO:0009790	embryo development	Embryonic Development	C0013936
+17430	17439	GO:0009790	embryo development	Embryonic Development	C0013936
+17498	17502	GO:0005623	cell	Cells	C0007634
+17543	17571	GO:0007618	mating		C1260875
+17996	18015	GO:0002377	antibody production	Antibody Formation	C0003261
+18073	18082	GO:0005737	cytoplasm	Cytoplasm	C0010834
+18143	18168	GO:1902698	acidogenesis		C3823112
+18604	18612	GO:1990116	ribosome-associated ubiquitin-dependent protein catabolic process		C3811628
+18615	18642	GO:0005488	binding	Binding 	C1167622
+18667	18687	GO:0005488	binding	Binding 	C1167622
+18786	18795	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+18896	18908	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19214	19218	GO:0005623	cell	Cells	C0007634
+19348	19352	GO:0005623	cell	Cells	C0007634
+19462	19470	GO:0016020	membrane	Membrane	C0596901
+19490	19524	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19537	19546	GO:0005737	cytoplasm	Cytoplasm	C0010834
+19580	19596	GO:0005488	binding	Binding 	C1167622
+19602	19665	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+19763	19767	GO:0005623	cell	Cells	C0007634
+19793	19797	GO:0005623	cell	Cells	C0007634
+19967	19995	GO:0003904	photoreactivating enzyme activity		C2257086
+20107	20110	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+20497	20501	GO:0005623	cell	Cells	C0007634
+20508	20547	GO:0003904	photoreactivating enzyme activity		C2257086
+20615	20656	GO:0034023	5	carboxyamino	C2247561
+20650	20654	GO:0005623	cell	Cells	C0007634
+20932	20942	GO:0005020	stem cell factor receptor activity		C1150635
+21233	21277	GO:0008380	RNA splicing	RNA Splicing	C0035687
+21306	21347	GO:0016021	integral to membrane		C1167322
+21306	21347	GO:0044214	transmembrane	fully spanning the plasma membrane	C2752508
+22317	22385	GO:0007610	behavior	Behavior	C0004927
+22546	22570	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+22845	22851	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+22879	22882	GO:0043739	MUG	G/U mismatch-specific uracil-DNA glycosylase activity 	C2248641
+23032	23057	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+23619	23624	GO:0007600	sensory perception	Esthesia	C0036658
+24196	24215	GO:0002377	antibody production	Antibody Formation	C0003261
+24280	24289	GO:0007610	behavior	Behavior	C0004927
+24377	24384	GO:1990266	neutrophil migration	Neutrophil migration, function	C0312860
+24681	24685	GO:0060292	long term synaptic depression	Long-Term Synaptic Depression	C1136140
+25695	25704	GO:0005737	cytoplasm	Cytoplasm	C0010834
+25715	25735	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+26382	26409	GO:0007600	sensory perception	Esthesia	C0036658
+26914	26944	GO:0042571	immunoglobulin complex location, circulating	Immunoglobulin complex location, circulating	C3665580
+26956	26969	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+27501	27512	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+27516	27530	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+27531	27561	GO:0043005	nerve fiber	Nerve Fibers	C0027749
+27574	27602	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+27822	27834	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+27853	27862	GO:0043209	myelin sheath	Myelin Sheath	C0026973
+27913	27917	GO:0030424	axon	Axon	C0004461
+27962	28022	GO:0014037	Schwann cell differentiation		C1817638
+28377	28398	GO:0007567	parturition	Birth	C0005615
+28377	28398	GO:0000003	reproduction	Reproduction	C0035150
+28649	28653	GO:0005623	cell	Cells	C0007634
+28675	28721	GO:0007567	parturition	Birth	C0005615
+28675	28721	GO:0000003	reproduction	Reproduction	C0035150
+29246	29250	GO:0005623	cell	Cells	C0007634

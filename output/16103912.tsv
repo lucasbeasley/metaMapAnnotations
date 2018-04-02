@@ -1,0 +1,207 @@
+StartIndex	EndIndex	GO:ID	ConceptName	PreferredName	CUID
+42	58	GO:0030324	lung development		C1160389
+271	282	GO:0032502	development	Biologic Development	C0678723
+307	338	GO:0009790	embryo development	Embryonic Development	C0013936
+478	489	GO:0032502	development	Biologic Development	C0678723
+1165	1181	GO:0030324	lung development		C1160389
+1240	1254	GO:0007567	parturition	Birth	C0005615
+1240	1254	GO:0000003	reproduction	Reproduction	C0035150
+1273	1285	GO:0009405	pathogenesis	Pathogenesis	C0699748
+1374	1385	GO:0032502	development	Biologic Development	C0678723
+1494	1505	GO:0032502	development	Biologic Development	C0678723
+1536	1549	GO:0007567	parturition	Birth	C0005615
+1603	1648	GO:0007567	parturition	Birth	C0005615
+1603	1648	GO:0000003	reproduction	Reproduction	C0035150
+1717	1748	GO:0007567	parturition	Birth	C0005615
+1807	1842	GO:0007585	respiration	respiratory gaseous exchange in organisms	C1160636
+1975	1996	GO:0007567	parturition	Birth	C0005615
+1975	1996	GO:0000003	reproduction	Reproduction	C0035150
+2014	2025	GO:0032502	development	Biologic Development	C0678723
+2113	2150	GO:0007567	parturition	Birth	C0005615
+2113	2150	GO:0000003	reproduction	Reproduction	C0035150
+2174	2201	GO:0007567	parturition	Birth	C0005615
+2174	2201	GO:0000003	reproduction	Reproduction	C0035150
+2238	2259	GO:0060539	diaphragm development		C2752764
+2302	2313	GO:0032502	development	Biologic Development	C0678723
+2526	2548	GO:0007567	parturition	Birth	C0005615
+2526	2548	GO:0000003	reproduction	Reproduction	C0035150
+2580	2615	GO:0007585	respiration	respiratory gaseous exchange in organisms	C1160636
+2733	2749	GO:0030324	lung development		C1160389
+2907	2918	GO:0032502	development	Biologic Development	C0678723
+3021	3067	GO:0007567	parturition	Birth	C0005615
+3182	3197	GO:0007567	parturition	Birth	C0005615
+3282	3291	GO:0007567	parturition	Birth	C0005615
+3671	3683	GO:0009405	pathogenesis	Pathogenesis	C0699748
+3688	3699	GO:0032502	development	Biologic Development	C0678723
+4088	4102	GO:0007567	parturition	Birth	C0005615
+4218	4227	GO:0007567	parturition	Birth	C0005615
+4374	4382	GO:0016020	membrane	Membrane	C0596901
+4680	4689	GO:0050890	cognition	Cognition	C0009240
+4719	4726	GO:0007605	hearing	Hearing	C0018767
+4824	4835	GO:0032502	development	Biologic Development	C0678723
+5154	5176	GO:0007567	parturition	Birth	C0005615
+5154	5176	GO:0000003	reproduction	Reproduction	C0035150
+5280	5291	GO:0032502	development	Biologic Development	C0678723
+5330	5341	GO:0032502	development	Biologic Development	C0678723
+5390	5452	GO:0005694	chromosome	Chromosomes	C0008633
+5502	5513	GO:0032502	development	Biologic Development	C0678723
+5585	5622	GO:0007567	parturition	Birth	C0005615
+5626	5660	GO:0007567	parturition	Birth	C0005615
+5626	5660	GO:0000003	reproduction	Reproduction	C0035150
+5749	5804	GO:0006280	mutagenesis	Mutagenesis Process	C0079866
+5826	5837	GO:0032502	development	Biologic Development	C0678723
+6044	6063	GO:0007507	cardiac development		C2263229
+6308	6338	GO:0007567	parturition	Birth	C0005615
+6308	6338	GO:0000003	reproduction	Reproduction	C0035150
+6352	6363	GO:0032502	development	Biologic Development	C0678723
+6457	6470	GO:0007567	parturition	Birth	C0005615
+6879	6900	GO:0009790	embryo development	Embryonic Development	C0013936
+6922	6933	GO:0032502	development	Biologic Development	C0678723
+6988	7027	GO:0009790	embryo development	Embryonic Development	C0013936
+7149	7159	GO:0005694	chromosome	Chromosomes	C0008633
+7900	7918	GO:0007567	parturition	Birth	C0005615
+8668	8680	GO:0030484	muscle fiber	Muscle Fibers	C0242697
+8910	8927	GO:0007567	parturition	Birth	C0005615
+9031	9073	GO:0009790	embryo development	Embryonic Development	C0013936
+9212	9219	GO:0009790	embryo development	Embryonic Development	C0013936
+9297	9303	GO:0040007	growth	Growth	C0018270
+9329	9359	GO:0009790	embryo development	Embryonic Development	C0013936
+9624	9654	GO:0009790	embryo development	Embryonic Development	C0013936
+9694	9712	GO:0009790	embryo development	Embryonic Development	C0013936
+9724	9777	GO:0009790	embryo development	Embryonic Development	C0013936
+9971	9976	GO:0007567	parturition	Birth	C0005615
+10085	10096	GO:0032502	development	Biologic Development	C0678723
+10387	10404	GO:0007567	parturition	Birth	C0005615
+10446	10501	GO:0030428	cell septum	Cell septum	C1327729
+10502	10538	GO:0030428	cell septum	Cell septum	C1327729
+10657	10676	GO:0007507	cardiac development		C2263229
+10774	10795	GO:0007567	parturition	Birth	C0005615
+10774	10795	GO:0000003	reproduction	Reproduction	C0035150
+10800	10817	GO:0007567	parturition	Birth	C0005615
+10800	10817	GO:0000003	reproduction	Reproduction	C0035150
+11143	11172	GO:0009790	embryo development	Embryonic Development	C0013936
+11385	11402	GO:0008380	RNA splicing	RNA Splicing	C0035687
+11385	11402	GO:0045292	nuclear mRNA cis splicing, via spliceosome		C2610186
+11662	11689	GO:0007567	parturition	Birth	C0005615
+11662	11689	GO:0000003	reproduction	Reproduction	C0035150
+11725	11754	GO:0009790	embryo development	Embryonic Development	C0013936
+12035	12056	GO:0060539	diaphragm development		C2752764
+12100	12109	GO:0007610	behavior	Behavior	C0004927
+12170	12181	GO:0032502	development	Biologic Development	C0678723
+12393	12404	GO:0032502	development	Biologic Development	C0678723
+12408	12423	GO:0007585	respiration	respiratory gaseous exchange in organisms	C1160636
+12613	12658	GO:0001763	morphogenesis of a branching structure		C1622374
+13057	13124	GO:0042465	kinesis	Kinesis	C0022699
+13279	13299	GO:0009790	embryo development	Embryonic Development	C0013936
+13336	13347	GO:0032502	development	Biologic Development	C0678723
+13430	13441	GO:0032502	development	Biologic Development	C0678723
+13959	13986	GO:0009790	embryo development	Embryonic Development	C0013936
+14160	14171	GO:0007567	parturition	Birth	C0005615
+14160	14171	GO:0000003	reproduction	Reproduction	C0035150
+14558	14562	GO:0007601	vision	Vision	C0042789
+14667	14675	GO:0016020	membrane	Membrane	C0596901
+14714	14717	GO:0007601	vision	Vision	C0042789
+14730	14769	GO:0016020	membrane	Membrane	C0596901
+14829	14833	GO:0005623	cell	Cells	C0007634
+14883	14891	GO:0007567	parturition	Birth	C0005615
+14883	14891	GO:0000003	reproduction	Reproduction	C0035150
+15006	15012	GO:0040007	growth	Growth	C0018270
+15118	15146	GO:0016020	membrane	Membrane	C0596901
+15488	15491	GO:0007601	vision	Vision	C0042789
+15526	15547	GO:0000988	transcription factor activity		C1148759
+15587	15624	GO:0048740	myogenesis	Myogenesis	C0596997
+15804	15828	GO:0016020	membrane	Membrane	C0596901
+16041	16090	GO:0035701	hematopoietic stem cell migration		C3158889
+17152	17187	GO:0007567	parturition	Birth	C0005615
+18344	18378	GO:1902698	acidogenesis		C3823112
+18644	18655	GO:0032502	development	Biologic Development	C0678723
+18990	19009	GO:0003904	photoreactivating enzyme activity		C2257086
+19283	19295	GO:0009405	pathogenesis	Pathogenesis	C0699748
+19305	19351	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+19378	19439	GO:0016020	membrane	Membrane	C0596901
+20058	20068	GO:0005694	chromosome	Chromosomes	C0008633
+20182	20192	GO:0005694	chromosome	Chromosomes	C0008633
+20601	20626	GO:0016458	gene silencing	Gene Silencing	C0598496
+20627	20659	GO:0005694	chromosome	Chromosomes	C0008633
+20989	21000	GO:0032502	development	Biologic Development	C0678723
+21189	21222	GO:0007567	parturition	Birth	C0005615
+21189	21222	GO:0000003	reproduction	Reproduction	C0035150
+21228	21239	GO:0032502	development	Biologic Development	C0678723
+21400	21434	GO:0009405	pathogenesis	Pathogenesis	C0699748
+21738	21775	GO:0030428	cell septum	Cell septum	C1327729
+21980	22005	GO:0009058	anabolism	Anabolism	C0220781
+22019	22069	GO:0009058	anabolism	Anabolism	C0220781
+22204	22208	GO:0005623	cell	Cells	C0007634
+22412	22456	GO:0000988	transcription factor activity		C1148759
+22457	22504	GO:0035701	hematopoietic stem cell migration		C3158889
+22509	22524	GO:0030154	cell differentiation	Cell Differentiation process	C0007589
+22567	22623	GO:0035701	hematopoietic stem cell migration		C3158889
+22644	22669	GO:0016020	membrane	Membrane	C0596901
+22740	22784	GO:0000988	transcription factor activity		C1148759
+22879	22890	GO:0032502	development	Biologic Development	C0678723
+23211	23222	GO:0032502	development	Biologic Development	C0678723
+23498	23509	GO:0032502	development	Biologic Development	C0678723
+23887	23898	GO:0032502	development	Biologic Development	C0678723
+24014	24030	GO:0030324	lung development		C1160389
+24177	24228	GO:0007114	cell budding	Cell budding	C1155616
+24736	24747	GO:0032502	development	Biologic Development	C0678723
+25148	25171	GO:0007567	parturition	Birth	C0005615
+25148	25171	GO:0000003	reproduction	Reproduction	C0035150
+25219	25240	GO:0060539	diaphragm development		C2752764
+25388	25404	GO:0030324	lung development		C1160389
+25691	25748	GO:0007610	behavior	Behavior	C0004927
+25935	25977	GO:0007567	parturition	Birth	C0005615
+25935	25977	GO:0000003	reproduction	Reproduction	C0035150
+26070	26094	GO:0007567	parturition	Birth	C0005615
+26070	26094	GO:0000003	reproduction	Reproduction	C0035150
+26211	26238	GO:0007567	parturition	Birth	C0005615
+26211	26238	GO:0000003	reproduction	Reproduction	C0035150
+26289	26300	GO:0032502	development	Biologic Development	C0678723
+26322	26339	GO:0007565	gestation	Pregnancy	C0032961
+26345	26390	GO:0009790	embryo development	Embryonic Development	C0013936
+26382	26389	GO:0009790	embryo development	Embryonic Development	C0013936
+26469	26486	GO:0009790	embryo development	Embryonic Development	C0013936
+26731	26745	GO:0009790	embryo development	Embryonic Development	C0013936
+26783	26811	GO:0009790	embryo development	Embryonic Development	C0013936
+26835	26857	GO:0046930	pore	Pore	C1325742
+26877	26885	GO:0016020	membrane	Membrane	C0596901
+27426	27439	GO:0007567	parturition	Birth	C0005615
+27426	27439	GO:0000003	reproduction	Reproduction	C0035150
+27426	27439	GO:0007567	parturition	Birth	C0005615
+27426	27439	GO:0000003	reproduction	Reproduction	C0035150
+27646	27706	GO:1902698	acidogenesis		C3823112
+27779	27806	GO:0007567	parturition	Birth	C0005615
+27779	27806	GO:0000003	reproduction	Reproduction	C0035150
+27896	27900	GO:0005623	cell	Cells	C0007634
+28092	28142	GO:0009790	embryo development	Embryonic Development	C0013936
+28172	28199	GO:0004565	beta-galactosidase activity		C1150053
+28324	28355	GO:0009790	embryo development	Embryonic Development	C0013936
+28417	28431	GO:0007567	parturition	Birth	C0005615
+28417	28431	GO:0000003	reproduction	Reproduction	C0035150
+28489	28529	GO:0007567	parturition	Birth	C0005615
+28489	28529	GO:0000003	reproduction	Reproduction	C0035150
+28686	28705	GO:0005020	stem cell factor receptor activity		C1150635
+28776	28798	GO:0007567	parturition	Birth	C0005615
+28776	28798	GO:0000003	reproduction	Reproduction	C0035150
+28847	28859	GO:0007567	parturition	Birth	C0005615
+28847	28859	GO:0000003	reproduction	Reproduction	C0035150
+29106	29119	GO:0006351	transcription	Transcription, Genetic	C0040649
+29187	29193	GO:0005634	cell nucleus	Cell Nucleus	C0007610
+29743	29754	GO:0007567	parturition	Birth	C0005615
+29743	29754	GO:0000003	reproduction	Reproduction	C0035150
+30156	30169	GO:0019013	nucleocapsid	viral nucleocapsid location	C1167518
+30671	30682	GO:0032502	development	Biologic Development	C0678723
+30786	30797	GO:0032502	development	Biologic Development	C0678723
+31191	31208	GO:0009790	embryo development	Embryonic Development	C0013936
+31265	31271	GO:0040007	growth	Growth	C0018270
+31399	31410	GO:0032502	development	Biologic Development	C0678723
+31479	31490	GO:0032502	development	Biologic Development	C0678723
+32222	32235	GO:0006351	transcription	Transcription, Genetic	C0040649
+32645	32661	GO:0030324	lung development		C1160389
+32768	32779	GO:0032502	development	Biologic Development	C0678723
+32864	32909	GO:0009790	embryo development	Embryonic Development	C0013936
+32911	32941	GO:0009790	embryo development	Embryonic Development	C0013936
+33250	33261	GO:0009790	embryo development	Embryonic Development	C0013936
+33330	33355	GO:0016020	membrane	Membrane	C0596901
+33532	33545	GO:0007567	parturition	Birth	C0005615
+34280	34296	GO:0030324	lung development		C1160389
