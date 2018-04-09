@@ -1,0 +1,1 @@
+Total number of CUIDs that map to multiple GO:IDs: 55

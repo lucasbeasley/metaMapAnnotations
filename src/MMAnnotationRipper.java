@@ -2,7 +2,9 @@ import java.io.*;
 import java.util.*;
 
 /**
- * Created by altered on 3/17/18.
+ * Created by:  Lucas Beasley
+ * Date:        10/25/17
+ * Purpose:     Generating annotations using MetaMap.
  */
 public class MMAnnotationRipper {
     public class Annotation {
@@ -46,26 +48,22 @@ public class MMAnnotationRipper {
         //name of file containing mappings from CUIDs to GO IDs
         File cuidFile = new File("MRCONSO.RRF");
         MMAnnotationRipper mmAnnotationRipper = new MMAnnotationRipper();
+        List<String> cuids = new ArrayList<>();
         //iterate through annotation files
         for(File infile: inputDirectory.listFiles()){
             String infilename = infile.getName().substring(0,8);
-            //TEST
-//            if(infilename.equals("15492776")) {
-                List<Annotation> annotations = mmAnnotationRipper.annotationRip(infile);
-                //iterate through text files
-                for (File textfile : textDirectory.listFiles()) {
-                    //if same file...
-                    if (infilename.equals(textfile.getName().substring(0, 8))) {
-                        //match annotations to text to retrieve index information
-                        annotations = mmAnnotationRipper.annotationMatch(annotations, textfile, cuidFile);
-                        //write the tsv output file
-                        writeOut(infilename, outputDirectory, annotations);
-                    }
+            List<Annotation> annotations = mmAnnotationRipper.annotationRip(infile);
+            //iterate through text files
+            for (File textfile : textDirectory.listFiles()) {
+                //if same file...
+                if (infilename.equals(textfile.getName().substring(0, 8))) {
+                    //match annotations to text to retrieve index information
+                    annotations = mmAnnotationRipper.annotationMatch(annotations, textfile, cuidFile, cuids);
+                    //write the tsv output file
+                    writeOut(infilename, outputDirectory, annotations, cuids);
                 }
-//            }
+            }
         }
-
-        boolean bool = true;
     }
 
     private List<Annotation> annotationRip(File anoFile){
@@ -150,9 +148,10 @@ public class MMAnnotationRipper {
         return annotations;
     }
 
-    private List<Annotation> annotationMatch(List<Annotation> annotations, File textfile, File cuidFile){
-        String conceptname, phrase, prevphrase = "", text = "", cuid, goid = "";
+    private List<Annotation> annotationMatch(List<Annotation> annotations, File textfile, File cuidFile, List<String> cuids){
+        String conceptname, phrase, prevphrase = "", text = "", cuid, goid, term;
         List<String> lines = new ArrayList<>();
+        List<Annotation> multiMappings = new ArrayList<>();
         int startIndex, endIndex, lastStartIndex = -1, barindex;
         try{
             //pull all text data for file
@@ -161,6 +160,7 @@ public class MMAnnotationRipper {
                 text += scan.nextLine() + "\n";
             }
             text = text.toLowerCase();
+            //get all mappings from CUID -> GO:ID
             scan = new Scanner(cuidFile);
             while(scan.hasNextLine()){
                 lines.add(scan.nextLine());
@@ -168,32 +168,40 @@ public class MMAnnotationRipper {
             scan.close();
             //iterate through annotations
             for(Annotation annotation: annotations){
+                List<String> goids = new ArrayList<>();
                 //pull the current concept name and phrase associated with the annotation
-                conceptname = annotation.getConceptName();
-                phrase = annotation.getPhrase();
-                phrase = phrase.toLowerCase();
+                conceptname = annotation.getConceptName().toLowerCase();
+                phrase = annotation.getPhrase().toLowerCase();
                 //check if concept name exists, if so check if it is literally located within the phrase
                 if(!conceptname.equals("") && !phrase.equals(prevphrase)){
                     //phrase contains concept name
-                    if(phrase.contains(conceptname.toLowerCase())){
-                        startIndex = text.indexOf(phrase, lastStartIndex+1) + phrase.indexOf(conceptname.toLowerCase());
+                    if(phrase.contains(conceptname)){
+                        startIndex = text.indexOf(phrase, lastStartIndex+1) + phrase.indexOf(conceptname);
                         endIndex = startIndex + conceptname.length();
+                        annotation.setTerm(annotation.getConceptName());
+                        term = annotation.getConceptName();
                     }
                     //phrase does not contain concept name
                     else{
                         startIndex = text.indexOf(phrase, lastStartIndex+1);
                         endIndex = startIndex + phrase.length();
+                        annotation.setTerm(phrase);
+                        term = phrase;
                     }
                 }
                 //previous phrase and current phrase do not match
                 else if(!phrase.equals(prevphrase)){
                     startIndex = text.indexOf(phrase, lastStartIndex+1);
                     endIndex = startIndex + phrase.length();
+                    annotation.setTerm(phrase);
+                    term = phrase;
                 }
                 //previous phrase and current phrase do match
                 else{
                     startIndex = lastStartIndex;
                     endIndex = startIndex + phrase.length();
+                    annotation.setTerm(phrase);
+                    term = phrase;
                 }
                 //assign the annotation start and end indices
                 annotation.setStartIndex(startIndex);
@@ -202,19 +210,58 @@ public class MMAnnotationRipper {
                 lastStartIndex = startIndex;
                 prevphrase = phrase;
 
+                //map CUID -> GO:ID
                 cuid = annotation.getConceptID();
+                conceptname = annotation.getConceptName();
                 for(String line: lines){
+                    //check if mapping is the correct one for the current CUID
                     if(line.contains(cuid) && line.contains(conceptname)){
+                        //get GO:ID
                         barindex = line.indexOf("|||");
                         goid = line.substring(barindex+3, barindex+13);
-                        annotation.setGoID(goid);
+                        if(!goids.contains(goid)){
+                            goids.add(goid);
+                        }
+                    }
+                    //check if past all mappings of the current CUID
+                    if(Integer.parseInt(line.substring(1,7)) > Integer.parseInt(cuid.substring(1,7))){
                         break;
                     }
+                }
+                //add annotations for all GO:ID mappings
+                for(int i = 0; i < goids.size(); i++){
+                    //check if first mapping, if so set current annotation GO:ID
+                    if(i == 0){
+                        annotation.setGoID(goids.get(i));
+                    }
+                    //if subsequent mapping, insert new annotation in list
+                    else{
+                        //create new annotation and set values using current annotation values
+                        Annotation temp = new Annotation();
+                        temp.setConceptName(conceptname);
+                        temp.setConceptPrefName(annotation.getConceptPrefName());
+                        temp.setConceptID(cuid);
+                        temp.setPhrase(annotation.getPhrase());
+                        temp.setTerm(term);
+                        temp.setStartIndex(startIndex);
+                        temp.setEndIndex(endIndex);
+                        //set GO:ID of temp annotation
+                        temp.setGoID(goids.get(i));
+                        //keep track of multi mapped annotations
+                        multiMappings.add(temp);
+                    }
+                }
+                //keep track of CUIDs that have multiple mappings
+                if(!cuids.contains(cuid) && goids.size() > 1){
+                    cuids.add(cuid);
                 }
             }
         }catch (FileNotFoundException ex){
             System.out.println("Error: File " + textfile.getName() + " not found.");
         }
+        //add multi mapped annotations to annotations list and sort on start index
+        annotations.addAll(multiMappings);
+        annotations.sort(Comparator.comparing(Annotation::getStartIndex));
         return annotations;
     }
 
@@ -223,19 +270,40 @@ public class MMAnnotationRipper {
      * @param filename - name of output file
      * @param directory - directory for output file
      * @param annotations - list of annotations for the file
+     * @param cuids - list of CUIDs that are mapped to multiple GO:IDs
      */
-    private static void writeOut(String filename, File directory, List<Annotation> annotations){
+    private static void writeOut(String filename, File directory, List<Annotation> annotations, List<String> cuids){
         //setup file
         filename = directory + "/" + filename + ".tsv";
         File filen = new File(filename);
 
-        //create and write to file
+        //create file and write annotations to it
         try (PrintWriter writer = new PrintWriter(new BufferedWriter(new FileWriter(filen, false)))) {
-            writer.println("StartIndex\tEndIndex\tGO:ID\tConceptName\tPreferredName\tCUID");
+            writer.println("StartIndex\tEndIndex\tGO:ID\tTerm\tConceptName\tPreferredName\tCUID");
             for (Annotation a : annotations){
                 writer.println(a.getStartIndex() + "\t" + a.getEndIndex() + "\t" + a.getGoID()
-                        + "\t" + a.getConceptName() + "\t" + a.getConceptPrefName() + "\t" + a.getConceptID());
+                        + "\t" + a.getTerm() + "\t" + a.getConceptName() + "\t" + a.getConceptPrefName()
+                        + "\t" + a.getConceptID());
             }
+        } catch (FileNotFoundException ex) {
+            System.out.println("Error: File not found; could not append.");
+            System.out.println("File path: " + filen);
+        } catch (UnsupportedEncodingException ex) {
+            System.out.println("Error: Unsupported encoding; could not append.");
+            System.out.println("File path: " + filen);
+        } catch (IOException ex) {
+            System.out.println("Error: IO Exception; could not append.");
+            System.out.println("File path: " + filen);
+        }
+        //write out the number of CUIDs map to multiple GO:IDs
+        File noCUIDs = new File("numberOfCUIDToMultiGO.txt");
+        try (PrintWriter writer = new PrintWriter(new BufferedWriter(new FileWriter(noCUIDs, false)))) {
+            writer.println("Total number of CUIDs that map to multiple GO:IDs: " + cuids.size());
+//            uncomment if CUIDs are wanted
+//            writer.println("CUIDs:");
+//            for(String cuid : cuids){
+//                writer.println(cuid);
+//            }
         } catch (FileNotFoundException ex) {
             System.out.println("Error: File not found; could not append.");
             System.out.println("File path: " + filen);
